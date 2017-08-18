@@ -1,0 +1,4690 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Location>
+<CountryRegion Name="アフガニスタン" Code="AFG">
+    <State>
+<City Name="ヘラート" Code="HEA"/>
+<City Name="カブール" Code="KBL"/>
+<City Name="カンダハール" Code="KDH"/>
+<City Name="マザーリシャリーフ" Code="MZR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="オーランド諸島" Code="ALA"/>
+<CountryRegion Name="アルバニア" Code="ALB">
+    <State>
+<City Name="ベラト" Code="BR"/>
+<City Name="ディベル" Code="DI"/>
+<City Name="ドゥラス" Code="DR"/>
+<City Name="エルバサン" Code="EL"/>
+<City Name="フィエル" Code="FR"/>
+<City Name="ギーロカスタル" Code="GJ"/>
+<City Name="コルチェ" Code="KO"/>
+<City Name="クケス" Code="KU"/>
+<City Name="レジャ" Code="LE"/>
+<City Name="シコダル" Code="SH"/>
+<City Name="ティラナ" Code="TR"/>
+<City Name="ヴロラ" Code="VL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アルジェリア" Code="DZA">
+    <State>
+<City Name="アドラル" Code="ADR"/>
+<City Name="アインデフラ" Code="ADE"/>
+<City Name="アインテムシャン" Code="ATE"/>
+<City Name="アルジェ" Code="ALG"/>
+<City Name="アナバ" Code="AAE"/>
+<City Name="バトナ" Code="BAT"/>
+<City Name="ベシャール" Code="BEC"/>
+<City Name="ベジャイア" Code="BJA"/>
+<City Name="ビスクラ" Code="BIS"/>
+<City Name="ブリーダ" Code="BLI"/>
+<City Name="ボルジ ブー アレリジ" Code="BOR"/>
+<City Name="ブーイラ" Code="BOA"/>
+<City Name="ブーメルデス" Code="BOU"/>
+<City Name="シュレフ" Code="CHL"/>
+<City Name="コンスタンティーヌ" Code="CZL"/>
+<City Name="ジェルファ" Code="DJE"/>
+<City Name="バヤズ" Code="EBA"/>
+<City Name="ウェド" Code="EOU"/>
+<City Name="エル・タルフ" Code="ETA"/>
+<City Name="ガルダイア" Code="GHA"/>
+<City Name="ゲルマ" Code="GUE"/>
+<City Name="イリジ" Code="ILL"/>
+<City Name="ジジェル" Code="JIJ"/>
+<City Name="ケンシュラ" Code="KHE"/>
+<City Name="ラグアト" Code="LAG"/>
+<City Name="マスカラ" Code="MUA"/>
+<City Name="メデア" Code="MED"/>
+<City Name="ミラ" Code="MIL"/>
+<City Name="モスタガネム" Code="MOS"/>
+<City Name="ムシラ" Code="MSI"/>
+<City Name="ナーマ" Code="NAA"/>
+<City Name="オラン" Code="ORA"/>
+<City Name="ワルグラ" Code="OUA"/>
+<City Name="ウッム エル ブアーギ" Code="OEB"/>
+<City Name="レリザーヌ" Code="REL"/>
+<City Name="サイダ" Code="SAI"/>
+<City Name="セティフ" Code="SET"/>
+<City Name="シディ・ベル・アッベス" Code="SBA"/>
+<City Name="スキークダ" Code="SKI"/>
+<City Name="スーカラス" Code="SAH"/>
+<City Name="タマンラセット" Code="TAM"/>
+<City Name="テベサ" Code="TEB"/>
+<City Name="ティアレト" Code="TIA"/>
+<City Name="ティンドーフ" Code="TIN"/>
+<City Name="ティパサ" Code="TIP"/>
+<City Name="ティセムシルト" Code="TIS"/>
+<City Name="ティージー・ウズー" Code="IOU"/>
+<City Name="トレムセン" Code="TLE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="米領サモア" Code="ASM">
+    <State>
+<City Name="アナ" Code="AAN"/>
+<City Name="エイゲイル・タイ" Code="AIT"/>
+<City Name="アツア" Code="ATU"/>
+<City Name="ファーサレリーガ" Code="FAA"/>
+<City Name="ガゲマウガ" Code="GMG"/>
+<City Name="ガガイフォマウガ" Code="GFG"/>
+<City Name="パラウリ" Code="PAL"/>
+<City Name="サツパイティ" Code="SAT"/>
+<City Name="サバイイ" Code="SAV"/>
+<City Name="ツアマサガ" Code="TUA"/>
+<City Name="ウポル" Code="UPO"/>
+<City Name="バアオ・フォノティ" Code="VAF"/>
+<City Name="バイシガノ" Code="VAI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アンドラ" Code="AND">
+    <State>
+<City Name="アンドラ・ラ・ベリャ" Code="7"/>
+<City Name="カニーリョ" Code="2"/>
+<City Name="エンカンプ" Code="3"/>
+<City Name="エスカルデス＝エンゴルダニ" Code="8"/>
+<City Name="ラ・マサナ" Code="4"/>
+<City Name="オルディノ" Code="5"/>
+<City Name="サン・ジュリア・デ・ロリア" Code="6"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アンゴラ" Code="AGO">
+    <State>
+<City Name="ベンゴ" Code="BGO"/>
+<City Name="ベンゲラ" Code="BGU"/>
+<City Name="ビエ" Code="BIE"/>
+<City Name="カビンダ" Code="CAB"/>
+<City Name="クアンド・クバンゴ" Code="CCU"/>
+<City Name="クアンザ・ノルテ" Code="CNO"/>
+<City Name="クアンザ・スル" Code="CUS"/>
+<City Name="クネネ" Code="CNN"/>
+<City Name="ウアンボ" Code="HUA"/>
+<City Name="ウィラ" Code="HUI"/>
+<City Name="ルアンダ" Code="LUA"/>
+<City Name="ルンダ・ノルテ" Code="LNO"/>
+<City Name="ルンダ・スル" Code="LSU"/>
+<City Name="マランジェ" Code="MAL"/>
+<City Name="モシコ" Code="MOX"/>
+<City Name="ナミベ" Code="NAM"/>
+<City Name="ウィジェ" Code="UIG"/>
+<City Name="ザイーレ" Code="ZAI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アンギラ" Code="AIA"/>
+<CountryRegion Name="南極" Code="ATA"/>
+<CountryRegion Name="アンティグア・バーブーダ" Code="ATG"/>
+<CountryRegion Name="アルゼンチン" Code="ARG">
+    <State>
+<City Name="バイアブランカ" Code="BHI"/>
+<City Name="ブエノスアイレス" Code="BUE"/>
+<City Name="カタマルカ" Code="CTC"/>
+<City Name="コモドロリバダビア" Code="CRD"/>
+<City Name="コンコルディア" Code="COC"/>
+<City Name="コルドバ" Code="COR"/>
+<City Name="コリエンテス" Code="CNQ"/>
+<City Name="フォルモサ" Code="FMA"/>
+<City Name="フフイ" Code="JUJ"/>
+<City Name="ラプラタ" Code="LPG"/>
+<City Name="ラ・リオハ" Code="IRJ"/>
+<City Name="マル・デル・プラタ" Code="MDQ"/>
+<City Name="メンドーサ" Code="MDZ"/>
+<City Name="ネウケン" Code="NQN"/>
+<City Name="パラナ" Code="PRA"/>
+<City Name="ポサダス" Code="PSS"/>
+<City Name="ラウソン" Code="RWO"/>
+<City Name="レシステンシア" Code="RES"/>
+<City Name="リオ・クアルト" Code="RCU"/>
+<City Name="リオ・ガエゴス" Code="RGL"/>
+<City Name="ロサリオ" Code="ROS"/>
+<City Name="サルタ" Code="SLA"/>
+<City Name="サン・フアン" Code="UAQ"/>
+<City Name="サン・ミゲル・デ・トゥクマン" Code="SMC"/>
+<City Name="サン・ニコラス" Code="SNS"/>
+<City Name="サン・ラファエル" Code="AFA"/>
+<City Name="サン・ルイス" Code="LUQ"/>
+<City Name="サンタ・フェ" Code="SFN"/>
+<City Name="サンタ・ロサ" Code="RSA"/>
+<City Name="サンチアゴ・デル・エステロ" Code="SDE"/>
+<City Name="トレリュー" Code="REL"/>
+<City Name="ウシュアイア" Code="USH"/>
+<City Name="ビエドマ" Code="VDM"/>
+<City Name="ビージャ・クラウセ" Code="VLK"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アルメニア" Code="ARM">
+    <State>
+<City Name="アラガツォトゥン" Code="AGT"/>
+<City Name="アララト" Code="ARA"/>
+<City Name="アルマヴィル" Code="ARM"/>
+<City Name="ゲガルクニク" Code="GEG"/>
+<City Name="コタイク" Code="KOT"/>
+<City Name="ロリ" Code="LOR"/>
+<City Name="シラク" Code="SHI"/>
+<City Name="シュニク" Code="SYU"/>
+<City Name="タヴシュ" Code="TAV"/>
+<City Name="ヴァヨツ・ゾル" Code="VAY"/>
+<City Name="エレバン" Code="EVN"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アルバ" Code="ABW"/>
+<CountryRegion Name="アセンション島" Code="ASC"/>
+<CountryRegion Name="オーストラリア" Code="AUS">
+<State Name="キャンベラ" Code="ACT">
+<City Name="キャンベラ" Code="CBR"/>
+    </State>
+<State Name="ニューサウスウェールズ州" Code="NSW">
+<City Name="ニューカッスル" Code="NTL"/>
+<City Name="シドニー" Code="HBS"/>
+<City Name="ウロンゴン" Code="WOL"/>
+    </State>
+<State Name="ノーザンテリトリー" Code="NT">
+<City Name="ダーウィン" Code="DRW"/>
+<City Name="パーマストン" Code="PAL"/>
+    </State>
+<State Name="クイーンズランド州" Code="QLD">
+<City Name="ブリスベン" Code="BNE"/>
+<City Name="ケアンズ" Code="CNS"/>
+<City Name="カラウンドラ" Code="CUD"/>
+<City Name="ゴールド・コースト" Code="OOL"/>
+<City Name="トゥウンバ" Code="TWB"/>
+<City Name="タウンズビル" Code="TSV"/>
+    </State>
+<State Name="サウスオーストラリア州" Code="SA">
+<City Name="アデレード" Code="ADL"/>
+<City Name="マウントガンビア" Code="MGB"/>
+<City Name="マレー・ブリッジ" Code="MYB"/>
+<City Name="ポート・オーガスタ" Code="PUG"/>
+<City Name="ポートリンカーン" Code="PLO"/>
+<City Name="ポートピリー" Code="PPI"/>
+<City Name="ビクター・ハーバー" Code="VHA"/>
+<City Name="ワイアラ" Code="WAY"/>
+    </State>
+<State Name="タスマニア州" Code="TAS">
+<City Name="バーニー" Code="BWT"/>
+<City Name="デボンポート" Code="DPO"/>
+<City Name="ホバート" Code="HBA"/>
+<City Name="ローンセストン" Code="LST"/>
+    </State>
+<State Name="ビクトリア" Code="VIC">
+<City Name="ジーロング" Code="GEX"/>
+<City Name="メルボルン" Code="MEL"/>
+    </State>
+<State Name="ウェスタンオーストラリア州" Code="WA">
+<City Name="オールバニー" Code="ALH"/>
+<City Name="バンベリー" Code="BUY"/>
+<City Name="フリーマントル" Code="FRE"/>
+<City Name="ジェラルトン" Code="GET"/>
+<City Name="カルグーリー" Code="KGI"/>
+<City Name="マンデュラ" Code="MDU"/>
+<City Name="パース" Code="PER"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="オーストリア" Code="AUT">
+    <State>
+<City Name="ブルゲンラント" Code="BUR"/>
+<City Name="ケルンテン" Code="CAT"/>
+<City Name="ニーダーエスターライヒ" Code="LAU"/>
+<City Name="ザルツブルク" Code="SZG"/>
+<City Name="シュタイアーマルク" Code="STY"/>
+<City Name="チロル" Code="TYR"/>
+<City Name="オーバーエスターライヒ" Code="UAU"/>
+<City Name="ウィーン" Code="VDD"/>
+<City Name="フォアアールベルク" Code="VOR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アゼルバイジャン" Code="AZE">
+    <State>
+<City Name="アブシェロン" Code="ABS"/>
+<City Name="ギャンジャ" Code="GA"/>
+<City Name="カルバジャール" Code="KAL"/>
+<City Name="ランカラン" Code="LAN"/>
+<City Name="ミル - カラバック" Code="MQA"/>
+<City Name="ムーガン - サルヤン" Code="MSA"/>
+<City Name="ナゴルノ・カラバフ" Code="NQA"/>
+<City Name="ナヒチェヴァン" Code="NX"/>
+<City Name="プリアラズ" Code="PRI"/>
+<City Name="カザク" Code="QAZ"/>
+<City Name="シェキ" Code="SA"/>
+<City Name="シルヴァン" Code="SIR"/>
+<City Name="スムカイト" Code="SMC"/>
+<City Name="ハチマス" Code="XAC"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="バハマ" Code="BHS"/>
+<CountryRegion Name="バーレーン" Code="BHR">
+    <State>
+<City Name="アル・ガービヤー" Code="10"/>
+<City Name="アル・ハッド" Code="1"/>
+<City Name="マナーマ" Code="3"/>
+<City Name="ムハッラク" Code="2"/>
+<City Name="アル･ウスタ" Code="7"/>
+<City Name="リファー" Code="9"/>
+<City Name="アシュシャーマリヤー" Code="5"/>
+<City Name="ハンマド" Code="12"/>
+<City Name="イサ" Code="8"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="バングラデシュ" Code="BGD">
+    <State>
+<City Name="チッタゴン" Code="CGP"/>
+<City Name="ダッカ" Code="DAC"/>
+<City Name="クルナ" Code="KHL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="バルバドス" Code="BRB"/>
+<CountryRegion Name="ベルギー" Code="BEL">
+    <State>
+<City Name="アントウェルペン" Code="VAN"/>
+<City Name="ブラバン ワロン" Code="WBR"/>
+<City Name="ブリュッセル" Code="BRU"/>
+<City Name="ヘーノート" Code="WHT"/>
+<City Name="リエージュ" Code="WLG"/>
+<City Name="ランブール" Code="VLI"/>
+<City Name="ルクセンブルク" Code="WLX"/>
+<City Name="ナミュール" Code="WNA"/>
+<City Name="オースト＝フランデレン州" Code="VOV"/>
+<City Name="フラームス＝ブラバント州" Code="VBR"/>
+<City Name="ウェスト＝フランデレン州" Code="VWV"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ベリーズシティ" Code="BLZ">
+    <State>
+<City Name="ベリーズシティ" Code="BZ"/>
+<City Name="カヨ" Code="CY"/>
+<City Name="コロサル" Code="CR"/>
+<City Name="オレンジウォーク" Code="OW"/>
+<City Name="スタンクリーク" Code="SC"/>
+<City Name="トレド" Code="TO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ベナン" Code="BEN">
+    <State>
+<City Name="アリボリ" Code="AL"/>
+<City Name="アタコラ" Code="AK"/>
+<City Name="アトランティック" Code="AQ"/>
+<City Name="ボヒコン" Code="BOH"/>
+<City Name="ボルグー" Code="BO"/>
+<City Name="コリネス" Code="CO"/>
+<City Name="ドンガ" Code="DO"/>
+<City Name="クッフォ" Code="KO"/>
+<City Name="リトラル" Code="LI"/>
+<City Name="モノ" Code="MO"/>
+<City Name="ウェメ" Code="OU"/>
+<City Name="プラトー" Code="PL"/>
+<City Name="ズー" Code="ZO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="バミューダ諸島" Code="BMU"/>
+<CountryRegion Name="ブータン" Code="BTN"/>
+<CountryRegion Name="ボリビア" Code="BOL">
+    <State>
+<City Name="チュキサカ" Code="CHU"/>
+<City Name="コチャバンバ" Code="CBB"/>
+<City Name="エル・アルト" Code="ALT"/>
+<City Name="ベニー" Code="BEN"/>
+<City Name="ラパス" Code="LPB"/>
+<City Name="オルロ" Code="ORU"/>
+<City Name="パンド" Code="PAN"/>
+<City Name="ポトシ" Code="POI"/>
+<City Name="キヤコヨ" Code="QUI"/>
+<City Name="サカバ" Code="SAC"/>
+<City Name="サンタ・クルス" Code="SRZ"/>
+<City Name="タリハ" Code="TJA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ボスニア・ヘルツェゴビナ" Code="BIH">
+    <State>
+<City Name="ボスニア＝ポドリニェ" Code="FBP"/>
+<City Name="ヘルツェゴビナ・ネレトヴァ" Code="FHB"/>
+<City Name="ヘルツェゴビナ・ネレトヴァ" Code="FHN"/>
+<City Name="ポサヴィナ" Code="FPO"/>
+<City Name="サラエヴォ" Code="FSA"/>
+<City Name="中央ボスニア" Code="FSB"/>
+<City Name="トミスラヴグラード" Code="FTO"/>
+<City Name="トゥズラ" Code="FTU"/>
+<City Name="ウナ-サナ" Code="FUS"/>
+<City Name="西ヘルツェゴビナ" Code="FZH"/>
+<City Name="ゼニツァ＝ドボイ" Code="FZE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ボツワナ" Code="BWA"/>
+<CountryRegion Name="ブーベ島" Code="BVT"/>
+<CountryRegion Name="ブラジル" Code="BRA">
+    <State>
+<City Name="アクレ" Code="AC"/>
+<City Name="アラゴアス" Code="AL"/>
+<City Name="アマパー" Code="AP"/>
+<City Name="アマソナス" Code="AM"/>
+<City Name="バイーア" Code="BA"/>
+<City Name="ブラジリア" Code="BSB"/>
+<City Name="セアラー" Code="CE"/>
+<City Name="エスピリト・サント" Code="ES"/>
+<City Name="ゴイアス" Code="GO"/>
+<City Name="マラニョン" Code="MA"/>
+<City Name="マット・グロッソ" Code="MT"/>
+<City Name="マット・グロッソ・ド・スーウ" Code="MS"/>
+<City Name="ミナス・ジェライス" Code="MG"/>
+<City Name="パラ" Code="PA"/>
+<City Name="パライバ" Code="PB"/>
+<City Name="パラナ" Code="PR"/>
+<City Name="ペルナンブコ" Code="PE"/>
+<City Name="ピアウイー" Code="PI"/>
+<City Name="リオデジャネイロ" Code="RJ"/>
+<City Name="リオ・グランデ・ド・ノルテ" Code="RN"/>
+<City Name="リオ・グランデ・ド・スーウ" Code="RS"/>
+<City Name="ロンドニア" Code="RO"/>
+<City Name="ロライマ" Code="RR"/>
+<City Name="サンタ・カタリーナ" Code="SC"/>
+<City Name="サン・パウロ" Code="SP"/>
+<City Name="セルジッペ" Code="SE"/>
+<City Name="トカンティンス" Code="TO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="英領インド洋地域" Code="IOT"/>
+<CountryRegion Name="ブルネイ" Code="BRN"/>
+<CountryRegion Name="ブルガリア" Code="BGR">
+    <State>
+<City Name="ブルガス" Code="BOJ"/>
+<City Name="ソフィア州" Code="GSO"/>
+<City Name="ハスコヴォ" Code="KHO"/>
+<City Name="ロヴェチ" Code="LVP"/>
+<City Name="モンタナ" Code="OZA"/>
+<City Name="プロヴディフ" Code="PDV"/>
+<City Name="ルセ" Code="ROU"/>
+<City Name="ソフィア" Code="SOF"/>
+<City Name="ヴァルナ" Code="VAR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ブルキナファソ" Code="BFA">
+    <State>
+<City Name="バレ" Code="BAL"/>
+<City Name="バム" Code="BAM"/>
+<City Name="バンワ" Code="BAN"/>
+<City Name="バゼガ" Code="BAZ"/>
+<City Name="ブグリバ" Code="BOR"/>
+<City Name="ブルグ" Code="BLG"/>
+<City Name="ブルキエンデ" Code="BOK"/>
+<City Name="コモエ" Code="COM"/>
+<City Name="ガンズル" Code="GAN"/>
+<City Name="グナグナ" Code="GNA"/>
+<City Name="グルマ" Code="GOU"/>
+<City Name="フエ" Code="HOU"/>
+<City Name="イオバ" Code="IOA"/>
+<City Name="カディオゴ" Code="KAD"/>
+<City Name="ケネドゥグ" Code="KEN"/>
+<City Name="コモンジャリ" Code="KOO"/>
+<City Name="コンピエンガ" Code="KOP"/>
+<City Name="コッシ" Code="KOS"/>
+<City Name="クルペロゴ" Code="KOL"/>
+<City Name="クリテンガ" Code="KOT"/>
+<City Name="クルウェゴ" Code="KOW"/>
+<City Name="レラバ" Code="LER"/>
+<City Name="ロルム" Code="LOR"/>
+<City Name="ムフン" Code="MOU"/>
+<City Name="ナウリ" Code="NAH"/>
+<City Name="ナメテンガ" Code="NAM"/>
+<City Name="ナヤラ" Code="NAY"/>
+<City Name="ヌンビエル" Code="NOU"/>
+<City Name="ウブリテンガ" Code="OUB"/>
+<City Name="ウダラン" Code="OUD"/>
+<City Name="パッソレ" Code="PAS"/>
+<City Name="ポニ" Code="PON"/>
+<City Name="サンギエ" Code="SAG"/>
+<City Name="サンマテンガ" Code="SAM"/>
+<City Name="セノ" Code="SEN"/>
+<City Name="シッシリ" Code="SIS"/>
+<City Name="スム" Code="SOM"/>
+<City Name="スル" Code="SOR"/>
+<City Name="タポア" Code="TAP"/>
+<City Name="トゥイ" Code="TUY"/>
+<City Name="ヤガ" Code="YAG"/>
+<City Name="ヤテンガ" Code="YAT"/>
+<City Name="ジロ" Code="ZIR"/>
+<City Name="ゾンドマ" Code="ZOD"/>
+<City Name="ズンドウェオゴ" Code="ZOW"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ブルンジ" Code="BDI">
+    <State>
+<City Name="ブバンザ" Code="BB"/>
+<City Name="ブジュンブラ市" Code="BM"/>
+<City Name="ブジュンブラ近郊" Code="BU"/>
+<City Name="ブルリ" Code="BR"/>
+<City Name="カンクゾ" Code="CA"/>
+<City Name="チビトケ" Code="CI"/>
+<City Name="ギテガ" Code="GI"/>
+<City Name="カルジ" Code="KR"/>
+<City Name="カヤンザ" Code="KY"/>
+<City Name="キルンド" Code="KI"/>
+<City Name="マカンバ" Code="MA"/>
+<City Name="ムランヴィヤ" Code="MU"/>
+<City Name="ムインガ" Code="MY"/>
+<City Name="ムワロ" Code="MW"/>
+<City Name="ンゴジ" Code="NG"/>
+<City Name="ルタナ" Code="RT"/>
+<City Name="ルイギ" Code="RY"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="カンボジア" Code="KHM">
+    <State>
+<City Name="バンテアイ メアンチェイ" Code="BM"/>
+<City Name="バタンバン" Code="BA"/>
+<City Name="コンポンチャム" Code="KM"/>
+<City Name="コンポンチュナン" Code="KZC"/>
+<City Name="コンポンスプー" Code="KO"/>
+<City Name="コンポントム" Code="KZK"/>
+<City Name="カンポット" Code="KMT"/>
+<City Name="カンダル" Code="KL"/>
+<City Name="ココン" Code="KKZ"/>
+<City Name="クラチエ" Code="KH"/>
+<City Name="ケップ特別市" Code="KB"/>
+<City Name="パイリン特別市" Code="PL"/>
+<City Name="プレアシアヌク特別市" Code="KA"/>
+<City Name="モンドルキリ" Code="MWV"/>
+<City Name="ウドンメンチェイ" Code="OC"/>
+<City Name="プノンペン" Code="PNH"/>
+<City Name="ポーサット" Code="PO"/>
+<City Name="プレアビフア" Code="PR"/>
+<City Name="プレイベン" Code="PG"/>
+<City Name="ラタナキリ" Code="RBE"/>
+<City Name="シエムレアプ" Code="REP"/>
+<City Name="ストゥントレン" Code="TNX"/>
+<City Name="スヴァイリエン" Code="SVR"/>
+<City Name="タケオ" Code="TK"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="カメルーン" Code="CMR">
+    <State>
+<City Name="アダマワ州" Code="ADA"/>
+<City Name="中央州" Code="CEN"/>
+<City Name="東部州" Code="EST"/>
+<City Name="極北州" Code="EXN"/>
+<City Name="リトラル州" Code="LIT"/>
+<City Name="北部州" Code="NOR"/>
+<City Name="北西州" Code="NOT"/>
+<City Name="西部州" Code="OUE"/>
+<City Name="南部州" Code="SUD"/>
+<City Name="南西州" Code="SOU"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="カナダ" Code="CAN">
+    <State>
+<City Name="アボッツフォード" Code="ABB"/>
+<City Name="バリー" Code="BAR"/>
+<City Name="ブランプトン" Code="BRP"/>
+<City Name="カルガリー" Code="CAL"/>
+<City Name="ケープ・ブレトン" Code="CBR"/>
+<City Name="シャーロットタウン" Code="CHA"/>
+<City Name="エドモントン" Code="EDM"/>
+<City Name="フレデリクトン" Code="FRE"/>
+<City Name="ゲルフ" Code="GLP"/>
+<City Name="ハリファックス" Code="HAL"/>
+<City Name="ハミルトン" Code="HAM"/>
+<City Name="イカルイト" Code="IQL"/>
+<City Name="ケロウナ" Code="KWL"/>
+<City Name="キングストン" Code="KGN"/>
+<City Name="ロンドン" Code="LOD"/>
+<City Name="モントリオール" Code="MTR"/>
+<City Name="オシャワ" Code="OSH"/>
+<City Name="オタワ" Code="OTT"/>
+<City Name="ケベック" Code="QUE"/>
+<City Name="レジャイナ" Code="REG"/>
+<City Name="セント・ジョンズ" Code="SJB"/>
+<City Name="サスカトゥーン" Code="SAK"/>
+<City Name="シェルブルック" Code="SBE"/>
+<City Name="セントキャサリンズ" Code="SCA"/>
+<City Name="サドバリー" Code="SUD"/>
+<City Name="サンダーベイ" Code="THU"/>
+<City Name="トロント" Code="TOR"/>
+<City Name="トロワリヴィエール" Code="TRR"/>
+<City Name="バンクーバー" Code="VAN"/>
+<City Name="ビクトリア" Code="VIC"/>
+<City Name="ホワイトホース" Code="YXY"/>
+<City Name="ウィンザー" Code="WDR"/>
+<City Name="ウィニペグ" Code="WNP"/>
+<City Name="イエローナイフ" Code="YZF"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="カーボベルデ" Code="CPV">
+    <State>
+<City Name="ボア・ビスタ" Code="BV"/>
+<City Name="ブラバ" Code="BR"/>
+<City Name="フォゴ" Code="FO"/>
+<City Name="マイオ" Code="MA"/>
+<City Name="モステイロス" Code="MO"/>
+<City Name="ポール" Code="PA"/>
+<City Name="ポルト・ノボ" Code="PN"/>
+<City Name="プライア" Code="PR"/>
+<City Name="リベイラ・グランデ" Code="RG"/>
+<City Name="サル" Code="SL"/>
+<City Name="サンタ・カタリーナ" Code="CA"/>
+<City Name="サンタ・クルーズ" Code="CR"/>
+<City Name="サンティアゴ" Code="IA"/>
+<City Name="サントアンタオ" Code="SA"/>
+<City Name="サン・ドミンゴス" Code="SD"/>
+<City Name="サン・フィリペ" Code="SF"/>
+<City Name="サン・ミゲル" Code="SM"/>
+<City Name="サン・ニコラウ" Code="SN"/>
+<City Name="サン・ヴィセンテ" Code="SV"/>
+<City Name="タラファル" Code="TA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ケイマン諸島" Code="CYM"/>
+<CountryRegion Name="中央アフリカ共和国" Code="CAF">
+    <State>
+<City Name="バミンギ・バンゴラン" Code="BB"/>
+<City Name="バンギ" Code="BGF"/>
+<City Name="バス・コト" Code="BK"/>
+<City Name="ビンボ" Code="BI"/>
+<City Name="オート・コト" Code="HK"/>
+<City Name="オー・ムボム" Code="HM"/>
+<City Name="ケモ" Code="KG"/>
+<City Name="ロバイエ" Code="LB"/>
+<City Name="マンベレ・カデイ" Code="HS"/>
+<City Name="ムボム" Code="MB"/>
+<City Name="ナナ・グリビジ" Code="KB"/>
+<City Name="ナナ・メンベレ" Code="NM"/>
+<City Name="オンベラ・ムボコ" Code="MP"/>
+<City Name="ワカ" Code="UK"/>
+<City Name="ウハム" Code="AC"/>
+<City Name="ウハム・ペンデ" Code="OP"/>
+<City Name="サンガ・ムバエレ" Code="SE"/>
+<City Name="バカガ" Code="VK"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="チャド" Code="TCD"/>
+<CountryRegion Name="チリ" Code="CHL">
+    <State>
+<City Name="オイギンス州" Code="LI"/>
+<City Name="マガジャネス・イ・デ・ラ・アンタルティカ・チレーナ州" Code="MA"/>
+<City Name="サンチアゴ" Code="RM"/>
+<City Name="アイセン州" Code="AI"/>
+<City Name="アントファガスタ州" Code="AN"/>
+<City Name="アタカマ州" Code="AT"/>
+<City Name="コキンボ州" Code="CO"/>
+<City Name="ラ・アラウカニア州" Code="AR"/>
+<City Name="ロス・ラゴス州" Code="LL"/>
+<City Name="タラパカ州" Code="TA"/>
+<City Name="バルパライソ州" Code="VS"/>
+<City Name="ビオビオ州" Code="BI"/>
+<City Name="マウレ州" Code="ML"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="中国" Code="1">
+<State Name="安徽省" Code="34">
+<City Name="安慶市" Code="8"/>
+<City Name="蚌埠市" Code="3"/>
+<City Name="亳州市" Code="16"/>
+<City Name="巣湖市" Code="14"/>
+<City Name="貴池区" Code="17"/>
+<City Name="滁州市" Code="11"/>
+<City Name="阜陽市" Code="12"/>
+<City Name="合肥市" Code="1"/>
+<City Name="淮北市" Code="6"/>
+<City Name="淮南市" Code="4"/>
+<City Name="黄山市" Code="10"/>
+<City Name="六安市" Code="15"/>
+<City Name="馬鞍山市" Code="5"/>
+<City Name="宿州市" Code="13"/>
+<City Name="銅陵市" Code="7"/>
+<City Name="蕪湖市" Code="2"/>
+<City Name="宣城市" Code="18"/>
+    </State>
+<State Name="北京" Code="11">
+<City Name="昌平区" Code="21"/>
+<City Name="朝陽区" Code="5"/>
+<City Name="崇文区" Code="3"/>
+<City Name="大興区" Code="24"/>
+<City Name="東城区" Code="1"/>
+<City Name="房山区" Code="11"/>
+<City Name="豊台区" Code="6"/>
+<City Name="海淀区" Code="8"/>
+<City Name="懐柔区" Code="27"/>
+<City Name="門頭溝区" Code="9"/>
+<City Name="密雲県" Code="28"/>
+<City Name="平谷区" Code="26"/>
+<City Name="石景山区" Code="7"/>
+<City Name="順義区" Code="13"/>
+<City Name="通州区" Code="12"/>
+<City Name="西城区" Code="2"/>
+<City Name="宣武区" Code="4"/>
+<City Name="延慶県" Code="29"/>
+    </State>
+<State Name="重慶" Code="50">
+<City Name="巴南区" Code="13"/>
+<City Name="北碚区" Code="9"/>
+<City Name="璧山県" Code="27"/>
+<City Name="長寿区" Code="21"/>
+<City Name="城口県" Code="29"/>
+<City Name="大渡口区" Code="4"/>
+<City Name="大足県" Code="25"/>
+<City Name="塾江県" Code="31"/>
+<City Name="豊都県" Code="30"/>
+<City Name="奉節県" Code="36"/>
+<City Name="涪陵区" Code="2"/>
+<City Name="合川区" Code="82"/>
+<City Name="江北区" Code="5"/>
+<City Name="江津区" Code="81"/>
+<City Name="九竜坡区" Code="7"/>
+<City Name="開県" Code="34"/>
+<City Name="梁平県" Code="28"/>
+<City Name="南岸区" Code="8"/>
+<City Name="南川区" Code="84"/>
+<City Name="彭水ミャオ族トゥチャ族自治県" Code="43"/>
+<City Name="黔江区" Code="39"/>
+<City Name="綦江県" Code="22"/>
+<City Name="栄昌県" Code="26"/>
+<City Name="沙坪壩区" Code="6"/>
+<City Name="石柱トゥチャ族自治県 " Code="40"/>
+<City Name="双橋区" Code="11"/>
+<City Name="銅梁県" Code="24"/>
+<City Name="潼南県" Code="23"/>
+<City Name="万盛区" Code="10"/>
+<City Name="万州区" Code="1"/>
+<City Name="武隆県" Code="32"/>
+<City Name="巫山県" Code="37"/>
+<City Name="巫渓県" Code="38"/>
+<City Name="秀山トゥチャ族ミャオ族自治県" Code="41"/>
+<City Name="永川区" Code="83"/>
+<City Name="酉陽トゥチャ族ミャオ族自治県" Code="42"/>
+<City Name="渝北区" Code="12"/>
+<City Name="雲陽県" Code="35"/>
+<City Name="渝中区" Code="3"/>
+<City Name="忠県" Code="33"/>
+    </State>
+<State Name="福建省" Code="35">
+<City Name="福州" Code="1"/>
+<City Name="龍岩市" Code="8"/>
+<City Name="南平市" Code="7"/>
+<City Name="寧徳市" Code="9"/>
+<City Name="莆田市" Code="3"/>
+<City Name="泉州市" Code="5"/>
+<City Name="三明市" Code="4"/>
+<City Name="廈門市" Code="2"/>
+<City Name="漳州市" Code="6"/>
+    </State>
+<State Name="甘粛省" Code="62">
+<City Name="白銀市" Code="3"/>
+<City Name="定西市" Code="11"/>
+<City Name="甘南チベット族自治州" Code="30"/>
+<City Name="嘉峪関市" Code="5"/>
+<City Name="金昌市" Code="2"/>
+<City Name="酒泉市" Code="9"/>
+<City Name="蘭州市" Code="1"/>
+<City Name="寧夏回族自治州" Code="29"/>
+<City Name="隴南市" Code="12"/>
+<City Name="平涼市" Code="8"/>
+<City Name="慶陽市" Code="10"/>
+<City Name="天水市" Code="4"/>
+<City Name="武威市" Code="6"/>
+<City Name="張掖市" Code="7"/>
+    </State>
+<State Name="広東省" Code="44">
+<City Name="潮州市" Code="51"/>
+<City Name="東莞市" Code="19"/>
+<City Name="仏山市" Code="6"/>
+<City Name="広州市" Code="1"/>
+<City Name="河源市" Code="16"/>
+<City Name="恵州市" Code="13"/>
+<City Name="江門市" Code="7"/>
+<City Name="掲陽市" Code="52"/>
+<City Name="茂名市" Code="9"/>
+<City Name="梅州市" Code="14"/>
+<City Name="清遠市" Code="18"/>
+<City Name="汕頭市" Code="5"/>
+<City Name="汕尾市" Code="15"/>
+<City Name="韶関市" Code="2"/>
+<City Name="深圳市" Code="3"/>
+<City Name="陽江市" Code="17"/>
+<City Name="雲浮市" Code="53"/>
+<City Name="湛江市" Code="8"/>
+<City Name="肇慶市" Code="12"/>
+<City Name="中山市" Code="20"/>
+<City Name="珠海市" Code="4"/>
+    </State>
+<State Name="広西省" Code="45">
+<City Name="百色市" Code="10"/>
+<City Name="北海市" Code="5"/>
+<City Name="崇左市" Code="14"/>
+<City Name="防城港市" Code="6"/>
+<City Name="貴港市" Code="8"/>
+<City Name="桂林市" Code="3"/>
+<City Name="河池市" Code="12"/>
+<City Name="賀州市" Code="11"/>
+<City Name="来賓市" Code="13"/>
+<City Name="柳州市" Code="2"/>
+<City Name="南寧市" Code="1"/>
+<City Name="欽州市" Code="7"/>
+<City Name="梧州市" Code="4"/>
+<City Name="玉林市" Code="9"/>
+    </State>
+<State Name="貴州省" Code="52">
+<City Name="安順市" Code="4"/>
+<City Name="畢節地区" Code="24"/>
+<City Name="貴陽市" Code="1"/>
+<City Name="六盤水市" Code="2"/>
+<City Name="黔東南ミャオ族トン族自治州" Code="26"/>
+<City Name="黔南プイ族ミャオ族自治州" Code="27"/>
+<City Name="黔西南プイ族ミャオ族自治州" Code="23"/>
+<City Name="銅仁地区" Code="22"/>
+<City Name="遵義市" Code="3"/>
+    </State>
+<State Name="海南省" Code="46">
+<City Name="白沙リー族自治県" Code="A30"/>
+<City Name="保亭リー族ミャオ族自治県" Code="A35"/>
+<City Name="澄邁県" Code="A27"/>
+<City Name="儋州市" Code="93"/>
+<City Name="定安県" Code="A25"/>
+<City Name="東方市" Code="97"/>
+<City Name="海口市" Code="1"/>
+<City Name="昌江リー族自治県" Code="A31"/>
+<City Name="楽東リー族自治県" Code="A33"/>
+<City Name="臨高県" Code="A28"/>
+<City Name="陵水リー族自治県" Code="A34"/>
+<City Name="南沙群島" Code="A38"/>
+<City Name="瓊海市" Code="92"/>
+<City Name="瓊中リー族ミャオ族自治県" Code="A36"/>
+<City Name="三亜市" Code="2"/>
+<City Name="屯昌県" Code="A26"/>
+<City Name="万寧市" Code="96"/>
+<City Name="文昌市" Code="95"/>
+<City Name="五指山市" Code="91"/>
+<City Name="西沙諸島" Code="A37"/>
+<City Name="中沙群島" Code="A39"/>
+    </State>
+<State Name="河北区" Code="13">
+<City Name="保定市" Code="6"/>
+<City Name="滄州市" Code="9"/>
+<City Name="承徳市" Code="8"/>
+<City Name="邯鄲市" Code="4"/>
+<City Name="衡水市" Code="11"/>
+<City Name="廊坊市" Code="10"/>
+<City Name="秦皇島市" Code="3"/>
+<City Name="石家庄市" Code="1"/>
+<City Name="唐山市" Code="2"/>
+<City Name="邢台市" Code="5"/>
+<City Name="張家口市" Code="7"/>
+    </State>
+<State Name="黒龍江省" Code="23">
+<City Name="大興安嶺地区" Code="27"/>
+<City Name="大慶市" Code="6"/>
+<City Name="ハルビン市" Code="1"/>
+<City Name="鶴崗市" Code="4"/>
+<City Name="黒河市" Code="11"/>
+<City Name="ジャムス市" Code="8"/>
+<City Name="鶏西市" Code="3"/>
+<City Name="牡丹江市" Code="10"/>
+<City Name="チチハル市" Code="2"/>
+<City Name="七台河市" Code="9"/>
+<City Name="双鴨山市" Code="5"/>
+<City Name="綏化市" Code="12"/>
+<City Name="伊春市" Code="7"/>
+    </State>
+<State Name="河南省" Code="41">
+<City Name="安陽市" Code="5"/>
+<City Name="鶴壁市" Code="6"/>
+<City Name="焦作市" Code="8"/>
+<City Name="済源市" Code="18"/>
+<City Name="開封市" Code="2"/>
+<City Name="漯河市" Code="11"/>
+<City Name="洛陽市" Code="3"/>
+<City Name="南陽市" Code="13"/>
+<City Name="平頂山市" Code="4"/>
+<City Name="濮陽市" Code="9"/>
+<City Name="三門峡市" Code="12"/>
+<City Name="商丘市" Code="14"/>
+<City Name="新郷市" Code="7"/>
+<City Name="信陽市" Code="15"/>
+<City Name="許昌市" Code="10"/>
+<City Name="鄭州市" Code="1"/>
+<City Name="周口市" Code="16"/>
+<City Name="駐馬店市" Code="17"/>
+    </State>
+<State Name="中華人民共和国香港特別行政区" Code="81"/>
+<State Name="湖北省" Code="42">
+<City Name="恩施トゥチャ族ミャオ族自治州" Code="28"/>
+<City Name="鄂州市" Code="7"/>
+<City Name="黄岡市" Code="11"/>
+<City Name="黄石市" Code="2"/>
+<City Name="荊門市" Code="8"/>
+<City Name="荊州市" Code="10"/>
+<City Name="潜江市" Code="95"/>
+<City Name="神農架林区" Code="A21"/>
+<City Name="十堰市" Code="3"/>
+<City Name="随州市" Code="13"/>
+<City Name="天門市" Code="96"/>
+<City Name="武漢市" Code="1"/>
+<City Name="襄樊市" Code="6"/>
+<City Name="咸寧市" Code="12"/>
+<City Name="仙桃市" Code="94"/>
+<City Name="孝感市" Code="9"/>
+<City Name="宜昌市" Code="5"/>
+    </State>
+<State Name="湖南省" Code="43">
+<City Name="常徳市" Code="7"/>
+<City Name="長沙市" Code="1"/>
+<City Name="郴州市" Code="10"/>
+<City Name="衡陽市" Code="4"/>
+<City Name="懐化市" Code="12"/>
+<City Name="婁底市" Code="13"/>
+<City Name="邵陽市" Code="5"/>
+<City Name="湘潭市" Code="3"/>
+<City Name="湘西トゥチャ族ミャオ族自治州" Code="31"/>
+<City Name="益陽市" Code="9"/>
+<City Name="永州市" Code="11"/>
+<City Name="岳陽市" Code="6"/>
+<City Name="張家界市" Code="8"/>
+<City Name="株洲市" Code="2"/>
+    </State>
+<State Name="内モンゴル自治区" Code="15">
+<City Name="アルシャー盟" Code="29"/>
+<City Name="包頭市" Code="2"/>
+<City Name="バヤンノール市" Code="8"/>
+<City Name="赤峰市" Code="4"/>
+<City Name="フフホト市" Code="1"/>
+<City Name="フルンボイル市" Code="7"/>
+<City Name="オルドス市" Code="6"/>
+<City Name="通遼市" Code="5"/>
+<City Name="ウランチャブ市" Code="9"/>
+<City Name="烏海市" Code="3"/>
+<City Name="シリンゴル盟" Code="25"/>
+<City Name="ヒンガン盟" Code="22"/>
+    </State>
+<State Name="江蘇省" Code="32">
+<City Name="常州市" Code="4"/>
+<City Name="淮安市" Code="8"/>
+<City Name="連雲港市" Code="7"/>
+<City Name="南京市" Code="1"/>
+<City Name="南通市" Code="6"/>
+<City Name="宿遷市" Code="13"/>
+<City Name="蘇州市" Code="5"/>
+<City Name="泰州市" Code="12"/>
+<City Name="無錫市" Code="2"/>
+<City Name="徐州市" Code="3"/>
+<City Name="塩城市" Code="9"/>
+<City Name="揚州市" Code="10"/>
+<City Name="鎮江市" Code="11"/>
+    </State>
+<State Name="江西省" Code="36">
+<City Name="撫州市" Code="10"/>
+<City Name="贛州市" Code="7"/>
+<City Name="吉安市" Code="8"/>
+<City Name="景徳鎮市" Code="2"/>
+<City Name="九江市" Code="4"/>
+<City Name="南昌市" Code="1"/>
+<City Name="萍郷市" Code="3"/>
+<City Name="上饒市" Code="11"/>
+<City Name="新余市" Code="5"/>
+<City Name="宜春市" Code="9"/>
+<City Name="鷹潭市" Code="6"/>
+    </State>
+<State Name="吉林市" Code="22">
+<City Name="白城市" Code="8"/>
+<City Name="白山市" Code="6"/>
+<City Name="長春市" Code="1"/>
+<City Name="吉林市" Code="2"/>
+<City Name="遼源市" Code="4"/>
+<City Name="四平市" Code="3"/>
+<City Name="松原市" Code="7"/>
+<City Name="通化市" Code="5"/>
+<City Name="延辺朝鮮族自治州" Code="24"/>
+    </State>
+<State Name="遼寧省" Code="21">
+<City Name="鞍山市" Code="3"/>
+<City Name="本渓市" Code="5"/>
+<City Name="朝陽市" Code="13"/>
+<City Name="大連市" Code="2"/>
+<City Name="丹東市" Code="6"/>
+<City Name="撫順市" Code="4"/>
+<City Name="阜新市" Code="9"/>
+<City Name="葫芦島市" Code="14"/>
+<City Name="錦州市" Code="7"/>
+<City Name="遼陽市" Code="10"/>
+<City Name="盤錦市" Code="11"/>
+<City Name="瀋陽市" Code="1"/>
+<City Name="鉄嶺市" Code="12"/>
+<City Name="営口市" Code="8"/>
+    </State>
+<State Name="中華人民共和国マカオ特別行政区" Code="82"/>
+<State Name="寧夏回族自治区" Code="64">
+<City Name="固原市" Code="4"/>
+<City Name="石嘴山市" Code="2"/>
+<City Name="呉忠市" Code="3"/>
+<City Name="銀川市" Code="1"/>
+<City Name="中衛市" Code="5"/>
+    </State>
+<State Name="青海省" Code="63">
+<City Name="ゴロクチベット族自治州" Code="26"/>
+<City Name="海北チベット族自治州" Code="22"/>
+<City Name="海東地区" Code="21"/>
+<City Name="海南チベット族自治州" Code="25"/>
+<City Name="海西モンゴル族チベット族自治州" Code="28"/>
+<City Name="黄南チベット族自治州" Code="23"/>
+<City Name="西寧市" Code="1"/>
+<City Name="玉樹チベット族自治州" Code="27"/>
+    </State>
+<State Name="陝西省" Code="61">
+<City Name="安康市" Code="9"/>
+<City Name="宝鶏市" Code="3"/>
+<City Name="漢中市" Code="7"/>
+<City Name="商洛市" Code="10"/>
+<City Name="銅川市" Code="2"/>
+<City Name="渭南市" Code="5"/>
+<City Name="西安市" Code="1"/>
+<City Name="咸陽市" Code="4"/>
+<City Name="延安市" Code="6"/>
+<City Name="楡林市" Code="8"/>
+    </State>
+<State Name="山東省" Code="37">
+<City Name="浜州市" Code="16"/>
+<City Name="徳州市" Code="14"/>
+<City Name="東営市" Code="5"/>
+<City Name="菏沢市" Code="17"/>
+<City Name="済南市" Code="1"/>
+<City Name="済寧市" Code="8"/>
+<City Name="莱蕪市" Code="12"/>
+<City Name="聊城市" Code="15"/>
+<City Name="臨沂市" Code="13"/>
+<City Name="青島市" Code="2"/>
+<City Name="日照市" Code="11"/>
+<City Name="泰安市" Code="9"/>
+<City Name="濰坊市" Code="7"/>
+<City Name="威海市" Code="10"/>
+<City Name="煙台市" Code="6"/>
+<City Name="棗庄市" Code="4"/>
+<City Name="淄博市" Code="3"/>
+    </State>
+<State Name="上海" Code="31">
+<City Name="宝山区" Code="13"/>
+<City Name="長寧区" Code="5"/>
+<City Name="崇明県" Code="30"/>
+<City Name="奉賢区" Code="26"/>
+<City Name="虹口区" Code="9"/>
+<City Name="黄浦区" Code="1"/>
+<City Name="嘉定区" Code="14"/>
+<City Name="静安区" Code="6"/>
+<City Name="金山区" Code="16"/>
+<City Name="盧湾区" Code="3"/>
+<City Name="閔行区" Code="12"/>
+<City Name="南匯区" Code="25"/>
+<City Name="浦東新区" Code="15"/>
+<City Name="普陀区" Code="7"/>
+<City Name="青浦区" Code="29"/>
+<City Name="松江区" Code="17"/>
+<City Name="徐匯区" Code="4"/>
+<City Name="楊浦区" Code="11"/>
+<City Name="閘北区" Code="8"/>
+    </State>
+<State Name="山西省" Code="14">
+<City Name="長治市" Code="4"/>
+<City Name="大同市" Code="2"/>
+<City Name="晋城市" Code="5"/>
+<City Name="晋中市" Code="7"/>
+<City Name="臨汾市" Code="10"/>
+<City Name="呂梁市" Code="11"/>
+<City Name="朔州市" Code="6"/>
+<City Name="太原市" Code="1"/>
+<City Name="忻州市" Code="9"/>
+<City Name="陽泉市" Code="3"/>
+<City Name="運城市" Code="8"/>
+    </State>
+<State Name="四川省" Code="51">
+<City Name="アバ・チベット族チャン族自治州" Code="32"/>
+<City Name="巴中市" Code="19"/>
+<City Name="成都市" Code="1"/>
+<City Name="達州市" Code="17"/>
+<City Name="徳陽市" Code="6"/>
+<City Name="カンゼ・チベット族自治州" Code="33"/>
+<City Name="広安市" Code="16"/>
+<City Name="広元市" Code="8"/>
+<City Name="楽山市" Code="11"/>
+<City Name="梁山イ族自治州" Code="34"/>
+<City Name="瀘州市" Code="5"/>
+<City Name="眉山市" Code="14"/>
+<City Name="綿陽市" Code="7"/>
+<City Name="南充市" Code="13"/>
+<City Name="内江市" Code="10"/>
+<City Name="攀枝花市" Code="4"/>
+<City Name="遂寧市" Code="9"/>
+<City Name="雅安市" Code="18"/>
+<City Name="宜賓市" Code="15"/>
+<City Name="自貢市" Code="3"/>
+<City Name="資陽市" Code="20"/>
+    </State>
+<State Name="台湾" Code="71">
+<City Name="彰化県" Code="14"/>
+<City Name="嘉義市" Code="7"/>
+<City Name="嘉義県" Code="17"/>
+<City Name="新竹市" Code="6"/>
+<City Name="新竹県" Code="11"/>
+<City Name="花蓮県" Code="23"/>
+<City Name="宜蘭県" Code="9"/>
+<City Name="高雄市" Code="2"/>
+<City Name="高雄県" Code="19"/>
+<City Name="基隆市" Code="3"/>
+<City Name="苗栗県" Code="12"/>
+<City Name="南投県" Code="15"/>
+<City Name="澎湖県" Code="21"/>
+<City Name="屏東県" Code="20"/>
+<City Name="台中市" Code="4"/>
+<City Name="台中県" Code="13"/>
+<City Name="台南市" Code="5"/>
+<City Name="台南県" Code="18"/>
+<City Name="台北市" Code="1"/>
+<City Name="台北県" Code="8"/>
+<City Name="台東県" Code="22"/>
+<City Name="桃園県" Code="10"/>
+<City Name="雲林県" Code="16"/>
+    </State>
+<State Name="天津" Code="12">
+<City Name="宝坻区" Code="24"/>
+<City Name="北辰区" Code="13"/>
+<City Name="大港区" Code="9"/>
+<City Name="東麗区" Code="10"/>
+<City Name="漢沽区" Code="8"/>
+<City Name="河北区" Code="5"/>
+<City Name="河東区" Code="2"/>
+<City Name="和平区" Code="1"/>
+<City Name="河西区" Code="3"/>
+<City Name="紅橋区" Code="6"/>
+<City Name="静海県" Code="23"/>
+<City Name="津南区" Code="12"/>
+<City Name="薊県" Code="25"/>
+<City Name="南開区" Code="4"/>
+<City Name="寧河県" Code="21"/>
+<City Name="塘沽区" Code="7"/>
+<City Name="武清区" Code="22"/>
+<City Name="西青区" Code="11"/>
+    </State>
+<State Name="チベット" Code="54">
+<City Name="ラサ市" Code="1"/>
+<City Name="ナクチュ地区" Code="24"/>
+<City Name="ガリ地区" Code="25"/>
+<City Name="ニャンティ地区" Code="26"/>
+<City Name="チャムド地区" Code="21"/>
+<City Name="山南地区" Code="22"/>
+<City Name="シガツェ地区" Code="23"/>
+    </State>
+<State Name="新疆ウイグル族自治区" Code="65">
+<City Name="アクス地区" Code="29"/>
+<City Name="アラル市" Code="92"/>
+<City Name="アルタイ地区" Code="43"/>
+<City Name="バインゴリン・モンゴル（本来はオイラト族）自治州" Code="28"/>
+<City Name="ボルタラ・モンゴル自治州" Code="27"/>
+<City Name="昌吉回族自治州" Code="23"/>
+<City Name="クムル地区" Code="22"/>
+<City Name="ホータン地区" Code="32"/>
+<City Name="イリ・カザフ自治州" Code="40"/>
+<City Name="カラマイ市" Code="2"/>
+<City Name="カシュガル地区" Code="31"/>
+<City Name="クズルス・キルギス自治州" Code="30"/>
+<City Name="石河子市" Code="91"/>
+<City Name="チョチェク市" Code="42"/>
+<City Name="トムシュク市" Code="93"/>
+<City Name="トゥルファン地区" Code="21"/>
+<City Name="ウルムチ市" Code="1"/>
+<City Name="五家渠市" Code="94"/>
+    </State>
+<State Name="雲南省" Code="53">
+<City Name="保山市" Code="5"/>
+<City Name="楚雄イ族自治州" Code="23"/>
+<City Name="大理ペー族自治州" Code="29"/>
+<City Name="徳宏タイ族チンポー族自治州" Code="31"/>
+<City Name="迪慶チベット族自治州" Code="34"/>
+<City Name="紅河ハニ族イ族自治州" Code="25"/>
+<City Name="昆明市" Code="1"/>
+<City Name="麗江市" Code="7"/>
+<City Name="臨滄市" Code="9"/>
+<City Name="怒江リス族自治州" Code="33"/>
+<City Name="普洱市" Code="8"/>
+<City Name="曲靖市" Code="3"/>
+<City Name="文山チワン族ミャオ族自治州" Code="26"/>
+<City Name="シーサンパンナ・タイ族自治州" Code="28"/>
+<City Name="玉渓市" Code="4"/>
+<City Name="昭通市" Code="6"/>
+    </State>
+<State Name="浙江省" Code="33">
+<City Name="杭州市" Code="1"/>
+<City Name="湖州市" Code="5"/>
+<City Name="嘉興市" Code="4"/>
+<City Name="金華市" Code="7"/>
+<City Name="麗水市" Code="11"/>
+<City Name="寧波市" Code="2"/>
+<City Name="衢州市" Code="8"/>
+<City Name="紹興市" Code="6"/>
+<City Name="台州市" Code="10"/>
+<City Name="温州市" Code="3"/>
+<City Name="舟山市" Code="9"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="クリスマス島" Code="CXR"/>
+<CountryRegion Name="ココス (キーリング) 諸島" Code="CCK"/>
+<CountryRegion Name="コロンビア" Code="COL">
+    <State>
+<City Name="アマソナス県" Code="AMZ"/>
+<City Name="アンティオキア県" Code="ANT"/>
+<City Name="アラウカ県" Code="ARA"/>
+<City Name="アトランティコ県" Code="ATL"/>
+<City Name="ボゴタ" Code="BDC"/>
+<City Name="ボリーバル県" Code="BOL"/>
+<City Name="ボヤカ県" Code="BOY"/>
+<City Name="カルダス県" Code="CAL"/>
+<City Name="カケタ県" Code="CAQ"/>
+<City Name="カサナレ県" Code="CAS"/>
+<City Name="カウカ県" Code="CAU"/>
+<City Name="セサル県" Code="CES"/>
+<City Name="チョコ県" Code="CHO"/>
+<City Name="コルドバ県" Code="COR"/>
+<City Name="クンディナマルカ県" Code="CAM"/>
+<City Name="グアイニア県" Code="GNA"/>
+<City Name="グアビアーレ県" Code="GVR"/>
+<City Name="ウイラ県" Code="HUI"/>
+<City Name="ラ・グアヒーラ県" Code="GJR"/>
+<City Name="マグダレーナ県" Code="MAG"/>
+<City Name="メタ県" Code="MET"/>
+<City Name="ナリーニョ県" Code="NAR"/>
+<City Name="ノルテ・デ・サンタンデル県" Code="NDS"/>
+<City Name="プトゥマヨ県" Code="PUT"/>
+<City Name="キンディオ県" Code="QUI"/>
+<City Name="リサラルダ県" Code="RIS"/>
+<City Name="サン・アンドレス・イ・プロビデンシア県" Code="SAP"/>
+<City Name="サンタンデル県" Code="SAN"/>
+<City Name="スクレ県" Code="SUC"/>
+<City Name="トリマ県" Code="TOL"/>
+<City Name="バジェ・デル・カウカ県" Code="VDC"/>
+<City Name="バウペス県" Code="VAU"/>
+<City Name="ビチャダ県" Code="VIC"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="コモロ" Code="COM"/>
+<CountryRegion Name="コンゴ" Code="COG"/>
+<CountryRegion Name="コンゴ民主共和国" Code="COD"/>
+<CountryRegion Name="クック諸島" Code="COK"/>
+<CountryRegion Name="コスタリカ" Code="CRI">
+    <State>
+<City Name="アラフエラ州" Code="A"/>
+<City Name="カルタゴ州" Code="C"/>
+<City Name="グアナカステ州" Code="G"/>
+<City Name="エレディア州" Code="H"/>
+<City Name="リモン州" Code="L"/>
+<City Name="プンタレナス州" Code="P"/>
+<City Name="サンノゼ州" Code="SJ"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="コートジボアール" Code="CIV">
+    <State>
+<City Name="アグネビ州" Code="AG"/>
+<City Name="バフィン州" Code="BF"/>
+<City Name="低サッサンドラ州" Code="BS"/>
+<City Name="デンゲレ州" Code="DE"/>
+<City Name="フロマジェ州" Code="FR"/>
+<City Name="高サッサンドラ州" Code="HT"/>
+<City Name="ラック州" Code="LC"/>
+<City Name="ラギューヌ州" Code="LG"/>
+<City Name="マラウェ州" Code="MR"/>
+<City Name="十八山州" Code="DH"/>
+<City Name="中カヴァリ州" Code="MV"/>
+<City Name="中コモエ州" Code="MC"/>
+<City Name="ンジ＝コモエ州" Code="NC"/>
+<City Name="サヴァヌ州" Code="SV"/>
+<City Name="南バンダマ州" Code="SB"/>
+<City Name="南コモエ州" Code="SC"/>
+<City Name="バンダマ渓谷州" Code="VB"/>
+<City Name="ウォロドゥーグー州" Code="WR"/>
+<City Name="ザンザン州" Code="ZA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="クロアチア" Code="HRV">
+    <State>
+<City Name="ビェロヴァル＝ビロゴラ郡" Code="7"/>
+<City Name="ブロド＝ポサヴィナ郡" Code="12"/>
+<City Name="ドゥブロヴニク＝ネレトヴァ郡‎" Code="19"/>
+<City Name="ザグレブ直轄市" Code="21"/>
+<City Name="イストラ郡" Code="18"/>
+<City Name="カルロヴァツ郡" Code="4"/>
+<City Name="コプリヴニツァ＝クリジェヴツィ郡" Code="6"/>
+<City Name="クラピナ＝ザゴリエ郡" Code="2"/>
+<City Name="リカ＝セニ郡" Code="9"/>
+<City Name="メジムリェ郡" Code="20"/>
+<City Name="オシエク＝バラニャ郡" Code="14"/>
+<City Name="ポジェガ＝スラヴォニア郡" Code="11"/>
+<City Name="プリモリェ＝ゴルスキ・コタル郡" Code="8"/>
+<City Name="シベニク＝クニン郡" Code="15"/>
+<City Name="シサク＝モスラヴィナ郡" Code="3"/>
+<City Name="スプリト＝ダルマチア郡" Code="17"/>
+<City Name="ヴァラジュディン郡" Code="5"/>
+<City Name="ヴィロヴィティツァ＝ポドラヴィナ郡" Code="10"/>
+<City Name="ヴコヴァル＝スリイェム郡" Code="16"/>
+<City Name="ザダル郡" Code="13"/>
+<City Name="ザグレブ郡" Code="1"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="キューバ" Code="CUB">
+    <State>
+<City Name="カマグエイ州" Code="9"/>
+<City Name="シエーゴ・デ・アヴィラ州" Code="8"/>
+<City Name="シエンフエーゴス州" Code="6"/>
+<City Name="ハバナ市" Code="3"/>
+<City Name="グランマ州" Code="12"/>
+<City Name="グァンタナモ州" Code="14"/>
+<City Name="オルギン州" Code="11"/>
+<City Name="青年の島" Code="99"/>
+<City Name="ハバナ州" Code="2"/>
+<City Name="ラス・トゥーナス州" Code="10"/>
+<City Name="マンサニヨ" Code="MZO"/>
+<City Name="マタンサス州" Code="4"/>
+<City Name="マヤリ" Code="MAY"/>
+<City Name="ピナール・デル・リオ州" Code="1"/>
+<City Name="サンクティ・スピリトゥス州" Code="7"/>
+<City Name="サンティアーゴ・デ・クーバ" Code="13"/>
+<City Name="ヴィーリャ・クララ州" Code="5"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="キプロス" Code="CYP">
+    <State>
+<City Name="ファマグスタ" Code="4"/>
+<City Name="キレニア" Code="6"/>
+<City Name="ラルナカ" Code="3"/>
+<City Name="リマソール" Code="2"/>
+<City Name="ニコシア" Code="1"/>
+<City Name="パフォス" Code="5"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="チェコ共和国" Code="CZE">
+    <State>
+<City Name="南モラヴィア州" Code="JC"/>
+<City Name="カルロヴィ・ヴァリ州" Code="KA"/>
+<City Name="フラデツ・クラーロヴェー州" Code="KR"/>
+<City Name="リベレツ州" Code="LI"/>
+<City Name="モラヴィア・スレスコ州" Code="MO"/>
+<City Name="オロモウツ州" Code="OL"/>
+<City Name="パルドゥビツェ州" Code="PA"/>
+<City Name="プルゼニ州" Code="PL"/>
+<City Name="プラハ" Code="PR"/>
+<City Name="中央ボヘミア州" Code="ST"/>
+<City Name="ウースチー州" Code="US"/>
+<City Name="ヴィソチナ州" Code="VY"/>
+<City Name="ズリーン州" Code="ZL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="デンマーク" Code="DNK">
+    <State>
+<City Name="オーフス県" Code="AR"/>
+<City Name="ボーンホルム" Code="BO"/>
+<City Name="コペンハーゲン" Code="CPH"/>
+<City Name="フレデリクスボー県" Code="FRE"/>
+<City Name="フュン県" Code="FY"/>
+<City Name="ノーユラン県" Code="VSV"/>
+<City Name="リーベ県" Code="RIB"/>
+<City Name="リンケービン県" Code="RKG"/>
+<City Name="ロスキレ県" Code="RKE"/>
+<City Name="セナーユラン県" Code="VBI"/>
+<City Name="ストーストレム県" Code="ST"/>
+<City Name="ヴァイレ県" Code="VEJ"/>
+<City Name="ヴェストシェラン県" Code="VS"/>
+<City Name="ヴィボー県" Code="VIB"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ジブチ" Code="DJI">
+    <State>
+<City Name="アリ・サビエ州" Code="S"/>
+<City Name="ディキル州" Code="K"/>
+<City Name="オボック州" Code="O"/>
+<City Name="タジュラ州" Code="T"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ドミニカ" Code="DMA"/>
+<CountryRegion Name="ドミニカ共和国" Code="DOM"/>
+<CountryRegion Name="エクアドル" Code="ECU">
+    <State>
+<City Name="アスアイ県" Code="A"/>
+<City Name="ボリーバル県" Code="B"/>
+<City Name="カニャール県" Code="F"/>
+<City Name="カルチ県" Code="C"/>
+<City Name="チンボラソ県" Code="H"/>
+<City Name="コトパクシ県" Code="X"/>
+<City Name="エル・オロ県" Code="O"/>
+<City Name="エスメラルダス県" Code="E"/>
+<City Name="ガラパゴス県" Code="W"/>
+<City Name="グアヤス県" Code="G"/>
+<City Name="インバブーラ県" Code="I"/>
+<City Name="ロハ県" Code="L"/>
+<City Name="ロス・リオス県" Code="R"/>
+<City Name="マナビ県" Code="M"/>
+<City Name="モロナ・サンティアゴ県" Code="S"/>
+<City Name="ナポ県、オレリャナ県" Code="D"/>
+<City Name="パスタサ県" Code="Y"/>
+<City Name="ピチンチャ県" Code="P"/>
+<City Name="スクンビオス県" Code="U"/>
+<City Name="トゥングラワ県" Code="T"/>
+<City Name="サモラ・チンチペ県" Code="Z"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="エジプト" Code="EGY">
+    <State>
+<City Name="グルダカフ" Code="GBY"/>
+<City Name="アレクサンドリア" Code="ALY"/>
+<City Name="アスワン" Code="ASW"/>
+<City Name="カイロ" Code="CAI"/>
+<City Name="シュブラーアルヘイマ" Code="SKH"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="エルサルバドル" Code="SLV">
+    <State>
+<City Name="アウアチャパン" Code="AH"/>
+<City Name="アポパ" Code="APO"/>
+<City Name="カバニャス" Code="CA"/>
+<City Name="サンサルバドル南部" Code="CS"/>
+<City Name="チャラテナンゴ" Code="CH"/>
+<City Name="クスカトラン" Code="CU"/>
+<City Name="デルガード" Code="DE"/>
+<City Name="アイロパンゴ" Code="IL"/>
+<City Name="キエンテム" Code="KN"/>
+<City Name="ラ・リベルター" Code="LB"/>
+<City Name="ラパス" Code="PZ"/>
+<City Name="ラウニオン" Code="UN"/>
+<City Name="リトラル" Code="LI"/>
+<City Name="メヒカノ" Code="MEJ"/>
+<City Name="モラサン" Code="MO"/>
+<City Name="サンミゲル" Code="SM"/>
+<City Name="サンサルバドル" Code="SS"/>
+<City Name="サンビセンテ" Code="SV"/>
+<City Name="サンタアナ" Code="SA"/>
+<City Name="ソンソナテ" Code="SO"/>
+<City Name="ソヤパンゴ" Code="SOY"/>
+<City Name="ウスルタン" Code="US"/>
+<City Name="ウェルザス" Code="WN"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="エリトリア" Code="ERI">
+    <State>
+<City Name="アンセバ地方" Code="KE"/>
+<City Name="デブブ地方" Code="DE"/>
+<City Name="デブバウィ・ケイバハリ地方" Code="DK"/>
+<City Name="ガシュ・バルカ地方" Code="BR"/>
+<City Name="マアカル地方" Code="MA"/>
+<City Name="セメナウィ・ケイバハリ地方" Code="SK"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="エストニア" Code="EST">
+    <State>
+<City Name="ハリュ県" Code="37"/>
+<City Name="ヒーウ県" Code="39"/>
+<City Name="イダ-ヴィル県" Code="44"/>
+<City Name="イェルヴァ県" Code="51"/>
+<City Name="ヨゲヴァ県" Code="49"/>
+<City Name="レーネ県" Code="57"/>
+<City Name="レーネ-ヴィル県" Code="59"/>
+<City Name="ペルヌ県" Code="67"/>
+<City Name="ポルヴァ県" Code="65"/>
+<City Name="ラプラ県" Code="70"/>
+<City Name="サーレ県" Code="74"/>
+<City Name="タルトゥ県" Code="78"/>
+<City Name="ヴァルガ県" Code="82"/>
+<City Name="ヴィリャンディ県" Code="84"/>
+<City Name="ヴォル県" Code="86"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="エチオピア" Code="ETH">
+    <State>
+<City Name="アディスアベバ" Code="AA"/>
+<City Name="アファール州" Code="AF"/>
+<City Name="アムハラ州" Code="AH"/>
+<City Name="ベニシャングル・グムズ州" Code="BG"/>
+<City Name="ディレ・ダワ" Code="DD"/>
+<City Name="ガンベラ州" Code="GB"/>
+<City Name="ハラリ州" Code="HR"/>
+<City Name="オロミア州" Code="OR"/>
+<City Name="ソマリ州" Code="SM"/>
+<City Name="ティグレ州" Code="TG"/>
+<City Name="南部諸民族州" Code="SN"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="フォークランド諸島" Code="FLK"/>
+<CountryRegion Name="フェロー諸島" Code="FRO"/>
+<CountryRegion Name="フィジー諸島" Code="FJI"/>
+<CountryRegion Name="フィンランド" Code="FIN">
+    <State>
+<City Name="エスポー" Code="ESP"/>
+<City Name="ハメーンリンナ" Code="HMY"/>
+<City Name="ヘルシンキ" Code="HEL"/>
+<City Name="ヨエンスー" Code="JOE"/>
+<City Name="カヤーニ" Code="KAJ"/>
+<City Name="コッコラ" Code="KOK"/>
+<City Name="コトカ" Code="KTK"/>
+<City Name="クオピオ" Code="KUO"/>
+<City Name="ラハティ" Code="LHI"/>
+<City Name="ラッペーンランタ" Code="LPP"/>
+<City Name="マリエハムン" Code="MHQ"/>
+<City Name="ミッケリ" Code="MIK"/>
+<City Name="オウル" Code="OLU"/>
+<City Name="ポリ" Code="POR"/>
+<City Name="ポルヴォー" Code="PRV"/>
+<City Name="ロヴァニエミ" Code="RVN"/>
+<City Name="タンペレ" Code="TMP"/>
+<City Name="トゥルク" Code="TKU"/>
+<City Name="ヴァーサ" Code="VAA"/>
+<City Name="ヴァンター" Code="VAT"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="フランス" Code="FRA">
+    <State>
+<City Name="エクス＝アン＝プロヴァンス" Code="QXB"/>
+<City Name="アジャクシオ" Code="AJA"/>
+<City Name="アミアン" Code="AMI"/>
+<City Name="アルル" Code="ARL"/>
+<City Name="ブザンソン" Code="BSN"/>
+<City Name="カーン" Code="CFR"/>
+<City Name="シャロン＝アン＝シャンパーニュ" Code="CSM"/>
+<City Name="ディジョン" Code="DIJ"/>
+<City Name="フレジュス" Code="FRJ"/>
+<City Name="リール" Code="LLE"/>
+<City Name="リモージュ" Code="LIG"/>
+<City Name="リヨン" Code="LIO"/>
+<City Name="マルセーユ" Code="MRS"/>
+<City Name="メス" Code="MZM"/>
+<City Name="モンペリエ" Code="MPL"/>
+<City Name="ナント" Code="NTE"/>
+<City Name="ニース" Code="NCE"/>
+<City Name="オルレアン" Code="ORR"/>
+<City Name="パリ" Code="PAR"/>
+<City Name="レンヌ" Code="RNS"/>
+<City Name="ルーアン" Code="URO"/>
+<City Name="トゥールーズ" Code="TLS"/>
+<City Name="ヴァランス" Code="VAA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="フランス領ポリネシア" Code="PYF"/>
+<CountryRegion Name="フランス領ギアナ" Code="GUF"/>
+<CountryRegion Name="フランス領南極地方" Code="ATF"/>
+<CountryRegion Name="ガボン" Code="GAB">
+    <State>
+<City Name="エスチュエール州" Code="ES"/>
+<City Name="オートオゴウェ州" Code="HO"/>
+<City Name="モワイエン・オゴウェ州" Code="MO"/>
+<City Name="ングニエ州" Code="NG"/>
+<City Name="ニャンガ州" Code="NY"/>
+<City Name="オゴウェ・イヴィンド州" Code="OI"/>
+<City Name="オゴウェ・ロロ州" Code="OL"/>
+<City Name="オゴウェ・マリティム州" Code="OM"/>
+<City Name="ウォレウ・ンテム州" Code="WN"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ガンビア" Code="GMB"/>
+<CountryRegion Name="グルジア" Code="GEO"/>
+<CountryRegion Name="ドイツ" Code="DEU">
+    <State>
+<City Name="アンスバッハ" Code="ANS"/>
+<City Name="アルンスベルク" Code="ARN"/>
+<City Name="アウグスブルク" Code="AGB"/>
+<City Name="バイロイト" Code="BYU"/>
+<City Name="ベルリン" Code="BE"/>
+<City Name="ビーレフェルト" Code="BFE"/>
+<City Name="ボーフム" Code="BOM"/>
+<City Name="ブレーメン" Code="HB"/>
+<City Name="ブラウンシュヴァイク" Code="BRW"/>
+<City Name="ケムニッツ" Code="CHE"/>
+<City Name="ケルン" Code="CGN"/>
+<City Name="ダルムシュタット" Code="DAR"/>
+<City Name="デッサウ" Code="DES"/>
+<City Name="デトモルト" Code="DET"/>
+<City Name="ドレスデン" Code="DRS"/>
+<City Name="デュッセルドルフ" Code="DUS"/>
+<City Name="エアフルト" Code="ERF"/>
+<City Name="フランクフルト" Code="FFO"/>
+<City Name="フライブルク" Code="FBG"/>
+<City Name="ギーセン" Code="GBN"/>
+<City Name="ハ" Code="HAE"/>
+<City Name="ハンブルク" Code="HH"/>
+<City Name="ハノーファー" Code="HAJ"/>
+<City Name="カールスルーエ" Code="KAE"/>
+<City Name="カッセル" Code="KAS"/>
+<City Name="キール" Code="KEL"/>
+<City Name="コブレンツ" Code="KOB"/>
+<City Name="ランツフート" Code="LDH"/>
+<City Name="ライプツィヒ" Code="LEJ"/>
+<City Name="リューネブルク" Code="LBG"/>
+<City Name="マクデブルク" Code="MAG"/>
+<City Name="マインツ" Code="MAI"/>
+<City Name="マンハイム" Code="MHG"/>
+<City Name="ミュンスター" Code="MUN"/>
+<City Name="ミュンヘン" Code="MUC"/>
+<City Name="ニュルンベルク" Code="NUE"/>
+<City Name="ポツダム" Code="POT"/>
+<City Name="シュヴェリーン" Code="SWH"/>
+<City Name="シュトゥットガルト" Code="STR"/>
+<City Name="トリーア" Code="TRI"/>
+<City Name="ヴィースバーデン" Code="WIB"/>
+<City Name="ヴュルツブルク" Code="WUG"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ガーナ" Code="GHA">
+    <State>
+<City Name="アシャンティ州" Code="AS"/>
+<City Name="ブロング＝アハフォ州" Code="BA"/>
+<City Name="セントラル州" Code="CE"/>
+<City Name="東部州" Code="EA"/>
+<City Name="グレーター・アクラ州" Code="GA"/>
+<City Name="北部州" Code="NO"/>
+<City Name="オブアシ" Code="OBU"/>
+<City Name="アッパー・イースト州" Code="UE"/>
+<City Name="アッパー・ウェスト州" Code="UW"/>
+<City Name="ヴォルタ州" Code="VO"/>
+<City Name="西部州" Code="WE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ジブラルタル" Code="GIB"/>
+<CountryRegion Name="ギリシャ" Code="GRC">
+    <State>
+<City Name="アテネ" Code="ATH"/>
+<City Name="ハニア" Code="CHQ"/>
+<City Name="キクラデス" Code="CY"/>
+<City Name="ドデカネス" Code="DO"/>
+<City Name="イラクリオ" Code="HER"/>
+<City Name="ラシティ" Code="LST"/>
+<City Name="レスヴォス" Code="LES"/>
+<City Name="ピレウス" Code="PRI"/>
+<City Name="レティムノ" Code="RET"/>
+<City Name="サモス" Code="SMI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="グリーンランド" Code="GRL"/>
+<CountryRegion Name="グレナダ" Code="GRD"/>
+<CountryRegion Name="グアドループ島" Code="GLP"/>
+<CountryRegion Name="グアム" Code="GUM"/>
+<CountryRegion Name="グアテマラ県" Code="GTM">
+    <State>
+<City Name="アルタ・ベラパス県" Code="AV"/>
+<City Name="バハ・ベラパス県" Code="BV"/>
+<City Name="チマルテナンゴ県" Code="CM"/>
+<City Name="チキムラ県" Code="CQ"/>
+<City Name="エル・プログレソ県" Code="PR"/>
+<City Name="エスクィントラ県" Code="ES"/>
+<City Name="グアテマラ県" Code="GU"/>
+<City Name="ウェウェテナンゴ県" Code="HU"/>
+<City Name="イサバル県" Code="IZ"/>
+<City Name="ハラパ県" Code="JA"/>
+<City Name="フティアパ県" Code="JU"/>
+<City Name="ミスコ" Code="MIX"/>
+<City Name="ペテン県" Code="PE"/>
+<City Name="ケツァルテナンゴ県" Code="QZ"/>
+<City Name="キチェ県" Code="QC"/>
+<City Name="レタルレウ県" Code="RE"/>
+<City Name="サカテペケス県" Code="ST"/>
+<City Name="サン・マルコス県" Code="SM"/>
+<City Name="サンタ・ローサ県" Code="SR"/>
+<City Name="ソロラ県" Code="SO"/>
+<City Name="スチテペケス県" Code="SU"/>
+<City Name="トトニカパン県" Code="TO"/>
+<City Name="ビージャ・ヌエバ" Code="VIN"/>
+<City Name="サカパ県" Code="ZA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ガーンジー島" Code="GGY"/>
+<CountryRegion Name="ギニア" Code="GIN">
+    <State>
+<City Name="ボケ州" Code="BOK"/>
+<City Name="コナクリ州" Code="CNK"/>
+<City Name="ファラナ州" Code="FRN"/>
+<City Name="カンカン州" Code="KNK"/>
+<City Name="キンディア州" Code="KND"/>
+<City Name="ラベ州" Code="LAB"/>
+<City Name="マムー州" Code="MAM"/>
+<City Name="ンゼレコレ州" Code="NZR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ギニアビサウ" Code="GNB"/>
+<CountryRegion Name="ガイアナ" Code="GUY">
+    <State>
+<City Name="バリマ・ワイニ州" Code="BW"/>
+<City Name="クユニ・マザルニ州" Code="CM"/>
+<City Name="デメララ・マハイカ州" Code="DM"/>
+<City Name="東ベルビセ・コレンティネ州" Code="EC"/>
+<City Name="エセキボ諸島・西デメララ州" Code="EW"/>
+<City Name="マハイカ・ベルビセ州" Code="MB"/>
+<City Name="ポメローン・スペナーム州" Code="PM"/>
+<City Name="ポタロ・シパルニ州" Code="PI"/>
+<City Name="アッパー・デメララ・ベルビセ州" Code="UD"/>
+<City Name="アッパー・タクトゥ・アッパー・エセキボ州" Code="UT"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ハイチ" Code="HTI"/>
+<CountryRegion Name="ハード・マクドナルド諸島" Code="HMD"/>
+<CountryRegion Name="ホンジュラス" Code="HND">
+    <State>
+<City Name="アトランティダ" Code="AT"/>
+<City Name="チョロマ" Code="CHO"/>
+<City Name="チョルテカ" Code="CH"/>
+<City Name="コロン" Code="CL"/>
+<City Name="コマヤグア" Code="CM"/>
+<City Name="コパン" Code="CP"/>
+<City Name="コルテス" Code="CR"/>
+<City Name="エル・パライソ" Code="PA"/>
+<City Name="フランシスコ・モラサン" Code="FM"/>
+<City Name="グラシアス・ア・ディオス" Code="GD"/>
+<City Name="インティブカ" Code="IN"/>
+<City Name="イスラス・デ・ラ・バイア" Code="IB"/>
+<City Name="ラパス" Code="PZ"/>
+<City Name="レンピーラ" Code="LE"/>
+<City Name="オコテペケ" Code="OC"/>
+<City Name="オランチョ" Code="OL"/>
+<City Name="サンタ・バルバラ" Code="SB"/>
+<City Name="バジェ" Code="VA"/>
+<City Name="ヨロ" Code="YO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ハンガリー" Code="HUN">
+    <State>
+<City Name="バーチ・キシュクン県" Code="BK"/>
+<City Name="バラニャ県" Code="BA"/>
+<City Name="ベーケーシュ県" Code="BE"/>
+<City Name="ボルショド・アバウーイ・ゼンプレーン県" Code="BZ"/>
+<City Name="ブダペスト" Code="BU"/>
+<City Name="チョングラード県" Code="CS"/>
+<City Name="フェイェール県" Code="FE"/>
+<City Name="ジェール・モション・ショプロン県" Code="GS"/>
+<City Name="ハイドゥー・ビハール県" Code="HB"/>
+<City Name="ヘヴェシュ県" Code="HE"/>
+<City Name="ヤース・ナジクン・ソルノク県" Code="JN"/>
+<City Name="コマーロム・エステルゴム県" Code="KE"/>
+<City Name="ノーグラード県" Code="NO"/>
+<City Name="ペシュト県" Code="PE"/>
+<City Name="ショモジ県" Code="SO"/>
+<City Name="サボルチ・サトマール・ベレグ県" Code="SZ"/>
+<City Name="トルナ県" Code="TO"/>
+<City Name="ヴァシュ県" Code="VA"/>
+<City Name="ヴェスプレーム県" Code="VE"/>
+<City Name="ザラ県" Code="ZA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アイスランド" Code="ISL"/>
+<CountryRegion Name="インド" Code="IND">
+    <State>
+<City Name="アイザウル" Code="AJL"/>
+<City Name="バンガロール" Code="BLR"/>
+<City Name="ボーパール" Code="BHO"/>
+<City Name="ブバネーシュワル" Code="BBI"/>
+<City Name="コルカタ" Code="CCU"/>
+<City Name="チャンディーガル" Code="IXC"/>
+<City Name="チェンナイ" Code="MAA"/>
+<City Name="コーヤンブットゥール" Code="CJB"/>
+<City Name="ダマン" Code="DAM"/>
+<City Name="ディーウ" Code="DIU"/>
+<City Name="ガントク" Code="GTO"/>
+<City Name="インパール" Code="IMF"/>
+<City Name="インドール" Code="IDR"/>
+<City Name="ジャバルプル" Code="JLR"/>
+<City Name="ジャイプル" Code="JAI"/>
+<City Name="ジャランダル" Code="JUC"/>
+<City Name="ジョードプル" Code="JDH"/>
+<City Name="カライカル" Code="KRK"/>
+<City Name="カバラティ" Code="KVA"/>
+<City Name="コヒマ" Code="KOM"/>
+<City Name="マドゥライ" Code="IXM"/>
+<City Name="マエ" Code="MAH"/>
+<City Name="ニューデリー" Code="ICD"/>
+<City Name="ポンディシェリ" Code="PNY"/>
+<City Name="サンバルプール" Code="SLR"/>
+<City Name="シロン" Code="SHL"/>
+<City Name="スィルヴァーサー" Code="SIL"/>
+<City Name="ティルヴァナンタプラム" Code="TRV"/>
+<City Name="ウダイプル" Code="UDR"/>
+<City Name="ヤナム" Code="SRV"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="インドネシア" Code="IDN">
+    <State>
+<City Name="アチェ" Code="AC"/>
+<City Name="バリ州" Code="BA"/>
+<City Name="バンテン州" Code="BT"/>
+<City Name="ベンクル" Code="BE"/>
+<City Name="ジョグジャカルタ特別州" Code="YO"/>
+<City Name="西カリマンタン州" Code="KB"/>
+<City Name="イリアンジャヤ" Code="IJ"/>
+<City Name="ジャカルタ" Code="JK"/>
+<City Name="ジャンビ" Code="JA"/>
+<City Name="西ジャワ州" Code="JB"/>
+<City Name="中部ジャワ州" Code="JT"/>
+<City Name="東ジャワ州" Code="JI"/>
+<City Name="南カリマンタン州" Code="KS"/>
+<City Name="中部カリマンタン州" Code="KT"/>
+<City Name="東カリマンタン州" Code="KI"/>
+<City Name="バンカブリトゥン諸島州" Code="BB"/>
+<City Name="ランプン" Code="LA"/>
+<City Name="マルク" Code="MA"/>
+<City Name="西ヌサ・トゥンガラ州" Code="NB"/>
+<City Name="東ヌサ・トゥンガラ州" Code="NT"/>
+<City Name="リアウ州" Code="RI"/>
+<City Name="南スラウェシ州" Code="SN"/>
+<City Name="中部スラウェシ州" Code="ST"/>
+<City Name="南東スラウェシ州" Code="SG"/>
+<City Name="北スラウェシ州" Code="SA"/>
+<City Name="西スマトラ州" Code="SR"/>
+<City Name="南スマトラ州" Code="SS"/>
+<City Name="北スマトラ州" Code="SU"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="イラン" Code="IRN"/>
+<CountryRegion Name="イラク" Code="IRQ"/>
+<CountryRegion Name="アイルランド" Code="IRL">
+    <State>
+<City Name="カーロウ州" Code="CW"/>
+<City Name="キャバン州" Code="CV"/>
+<City Name="クレア州" Code="CL"/>
+<City Name="コーク州" Code="CK"/>
+<City Name="ドニゴール州" Code="DG"/>
+<City Name="ダブリン州" Code="DB"/>
+<City Name="ゴールウェイ州" Code="GW"/>
+<City Name="ケリー州" Code="KR"/>
+<City Name="キルデア州" Code="KD"/>
+<City Name="キルケニー州" Code="KK"/>
+<City Name="ラオース州" Code="LA"/>
+<City Name="リートリム州" Code="LR"/>
+<City Name="リムリック州" Code="LM"/>
+<City Name="ロングフォード州" Code="LF"/>
+<City Name="ラオース州" Code="LT"/>
+<City Name="メイヨー州" Code="MY"/>
+<City Name="ミース州" Code="MT"/>
+<City Name="モナハン州" Code="MG"/>
+<City Name="オファリー州" Code="OF"/>
+<City Name="ロスコモン州" Code="RC"/>
+<City Name="スライゴ州" Code="SL"/>
+<City Name="ティペラリー州" Code="TP"/>
+<City Name="ウォーターフォード州" Code="WF"/>
+<City Name="ウェストミース州" Code="WM"/>
+<City Name="ウェックスフォード州" Code="WX"/>
+<City Name="ウィックロー州" Code="WK"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="マン島" Code="IMN"/>
+<CountryRegion Name="イスラエル" Code="ISR">
+    <State>
+<City Name="アシュドッド" Code="ASH"/>
+<City Name="バット・ヤム" Code="BAT"/>
+<City Name="ベエルシェバ" Code="BEV"/>
+<City Name="ヘイファ" Code="HFA"/>
+<City Name="ホロン" Code="HOL"/>
+<City Name="エルサレム" Code="J"/>
+<City Name="ネタニア" Code="NAT"/>
+<City Name="テルアビブ" Code="TLV"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="イタリア" Code="ITA">
+    <State>
+<City Name="アレッサンドリア" Code="ALE"/>
+<City Name="アンコーナ" Code="AOI"/>
+<City Name="アオスタ" Code="AOT"/>
+<City Name="アスコリ・ピチェーノ" Code="ASP"/>
+<City Name="アスティ" Code="AST"/>
+<City Name="バーリ" Code="BRI"/>
+<City Name="ベネヴェント" Code="BEN"/>
+<City Name="ベルガモ" Code="BGO"/>
+<City Name="ビエッラ" Code="BIE"/>
+<City Name="ボローニャ" Code="BLQ"/>
+<City Name="ブレシア" Code="BRC"/>
+<City Name="ブリンディジ" Code="BDS"/>
+<City Name="カリャリ" Code="CAG"/>
+<City Name="カンポバッソ" Code="COB"/>
+<City Name="カゼルタ" Code="CST"/>
+<City Name="カターニア" Code="CTA"/>
+<City Name="カタンザーロ" Code="QCZ"/>
+<City Name="コモ" Code="CIY"/>
+<City Name="コゼンツァ" Code="QCS"/>
+<City Name="クロトーネ" Code="CRV"/>
+<City Name="クーネオ" Code="CUN"/>
+<City Name="フェラーラ" Code="FRR"/>
+<City Name="フィレンツェ" Code="FLR"/>
+<City Name="フォッジャ" Code="FOG"/>
+<City Name="ジェノヴァ" Code="CAX"/>
+<City Name="イゼルニア" Code="ISE"/>
+<City Name="ラクイラ" Code="LAQ"/>
+<City Name="ラ・スペツィア" Code="SPE"/>
+<City Name="レッチェ" Code="LCC"/>
+<City Name="レッコ" Code="LCO"/>
+<City Name="リヴォルノ" Code="LIV"/>
+<City Name="カッラーラ" Code="MCR"/>
+<City Name="マテーラ" Code="MTR"/>
+<City Name="メッシーナ" Code="MSN"/>
+<City Name="ミラノ" Code="MIL"/>
+<City Name="モデナ" Code="MOD"/>
+<City Name="モンツァ・エ・ブリアンツァ" Code="MZA"/>
+<City Name="ナポリ" Code="NAP"/>
+<City Name="ノヴァーラ" Code="NVR"/>
+<City Name="ヌーオロ" Code="QNU"/>
+<City Name="オルビア＝テンピオ" Code="OLB"/>
+<City Name="オリスターノ" Code="QOS"/>
+<City Name="パレルモ" Code="PMO"/>
+<City Name="パルマ" Code="PMF"/>
+<City Name="パヴィーア" Code="PAV"/>
+<City Name="ペルージャ" Code="PEG"/>
+<City Name="ピサ" Code="PSA"/>
+<City Name="ポルデノーネ" Code="PRD"/>
+<City Name="ポテンツァ" Code="QPO"/>
+<City Name="レッジョ・カラブリア" Code="REG"/>
+<City Name="レッジョ・エミリア" Code="RNE"/>
+<City Name="ローマ" Code="ROM"/>
+<City Name="サレルノ" Code="SAL"/>
+<City Name="サッサリ" Code="QSS"/>
+<City Name="サヴォーナ" Code="SVN"/>
+<City Name="シエーナ" Code="SNA"/>
+<City Name="シラクサ" Code="SYR"/>
+<City Name="ターラント" Code="TAR"/>
+<City Name="トラーパニ" Code="TPS"/>
+<City Name="トレント" Code="TRT"/>
+<City Name="トリエステ" Code="TRS"/>
+<City Name="トリノ" Code="TRN"/>
+<City Name="ウーディネ" Code="UDN"/>
+<City Name="ヴェネツィア" Code="VCE"/>
+<City Name="ヴェルチェッリ" Code="VRL"/>
+<City Name="ヴィテルボ" Code="VIT"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ジャマイカ" Code="JAM">
+    <State>
+<City Name="クラレンドン教区" Code="CLA"/>
+<City Name="ハノーバー教区" Code="HAN"/>
+<City Name="キングストン教区" Code="KIN"/>
+<City Name="マンチェスター教区" Code="MAN"/>
+<City Name="ポートランド教区" Code="POR"/>
+<City Name="セント・アンドリュー教区" Code="AND"/>
+<City Name="セント・アン教区" Code="ANN"/>
+<City Name="セント・キャサリン教区" Code="CAT"/>
+<City Name="セント・エリザベス教区" Code="ELI"/>
+<City Name="セント・ジェームズ教区" Code="JAM"/>
+<City Name="セント・メアリー教区" Code="MAR"/>
+<City Name="セント・トーマス教区" Code="THO"/>
+<City Name="トレローニー教区" Code="TRL"/>
+<City Name="ウェストモアランド教区" Code="WML"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="日本" Code="JPN">
+    <State>
+<City Name="愛知県" Code="23"/>
+<City Name="秋田県" Code="5"/>
+<City Name="青森県" Code="2"/>
+<City Name="千葉県" Code="12"/>
+<City Name="愛媛県" Code="38"/>
+<City Name="福井県" Code="18"/>
+<City Name="福岡県" Code="40"/>
+<City Name="福島県" Code="7"/>
+<City Name="岐阜県" Code="21"/>
+<City Name="群馬県" Code="10"/>
+<City Name="広島県" Code="34"/>
+<City Name="北海道" Code="1"/>
+<City Name="兵庫県" Code="28"/>
+<City Name="茨城県" Code="8"/>
+<City Name="石川県" Code="17"/>
+<City Name="岩手県" Code="3"/>
+<City Name="香川県" Code="37"/>
+<City Name="鹿児島県" Code="46"/>
+<City Name="神奈川県" Code="14"/>
+<City Name="高知県" Code="39"/>
+<City Name="熊本県" Code="43"/>
+<City Name="京都府" Code="26"/>
+<City Name="三重県" Code="24"/>
+<City Name="宮城県" Code="4"/>
+<City Name="宮崎県" Code="45"/>
+<City Name="長野県" Code="20"/>
+<City Name="長崎県" Code="42"/>
+<City Name="奈良県" Code="29"/>
+<City Name="新潟県" Code="15"/>
+<City Name="大分県" Code="44"/>
+<City Name="岡山県" Code="33"/>
+<City Name="沖縄県" Code="47"/>
+<City Name="大阪県" Code="27"/>
+<City Name="佐賀県" Code="41"/>
+<City Name="埼玉県" Code="11"/>
+<City Name="滋賀県" Code="25"/>
+<City Name="島根県" Code="32"/>
+<City Name="静岡県" Code="22"/>
+<City Name="栃木県" Code="9"/>
+<City Name="徳島県" Code="36"/>
+<City Name="東京都" Code="13"/>
+<City Name="鳥取県" Code="31"/>
+<City Name="富山県" Code="16"/>
+<City Name="和歌山県" Code="30"/>
+<City Name="山形県" Code="6"/>
+<City Name="山口県" Code="35"/>
+<City Name="山梨県" Code="19"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ジャージー島" Code="JEY"/>
+<CountryRegion Name="ヨルダン" Code="JOR">
+    <State>
+<City Name="アジュルン" Code="AJ"/>
+<City Name="アンマン" Code="AM"/>
+<City Name="アカバ" Code="AQ"/>
+<City Name="バルカ" Code="BA"/>
+<City Name="イルビド" Code="IR"/>
+<City Name="ジェラシュ" Code="JA"/>
+<City Name="カラク" Code="KA"/>
+<City Name="マアーン" Code="MN"/>
+<City Name="マダバ" Code="MD"/>
+<City Name="マフラク" Code="MF"/>
+<City Name="ルサイファ" Code="RU"/>
+<City Name="タフィラ" Code="TA"/>
+<City Name="ザルカ" Code="ZA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="カザフスタン" Code="KAZ">
+    <State>
+<City Name="アクス" Code="AKS"/>
+<City Name="アルマトイ" Code="ALA"/>
+<City Name="アクモラ" Code="AKM"/>
+<City Name="アクトベ" Code="AKT"/>
+<City Name="アルカリク" Code="AYK"/>
+<City Name="アリス" Code="ARY"/>
+<City Name="アスタナ" Code="AST"/>
+<City Name="アティラウ" Code="ATY"/>
+<City Name="バルハシ" Code="BXH"/>
+<City Name="西カザフスタン" Code="ZAP"/>
+<City Name="エキバストゥス" Code="EKB"/>
+<City Name="カプチャガイ" Code="KAP"/>
+<City Name="カラザール" Code="KZO"/>
+<City Name="ケンタウ" Code="KEN"/>
+<City Name="クルチャトフ" Code="KUR"/>
+<City Name="レニノゴルスク" Code="LEN"/>
+<City Name="リサコフスク" Code="LKK"/>
+<City Name="マンギスタウ" Code="MAN"/>
+<City Name="東カザフスタン" Code="KGT"/>
+<City Name="パヴロダル" Code="PAV"/>
+<City Name="カラガンダ" Code="KAR"/>
+<City Name="コスタナイ" Code="KST"/>
+<City Name="クズロルダ" Code="KZY"/>
+<City Name="ルードヌイ" Code="RUD"/>
+<City Name="サラン" Code="SAR"/>
+<City Name="セメイ" Code="SEM"/>
+<City Name="シャフチンスク" Code="SAK"/>
+<City Name="東カザフスタン" Code="VOS"/>
+<City Name="北カザフスタン州" Code="SEV"/>
+<City Name="ステプノゴルスク" Code="STE"/>
+<City Name="テケリ" Code="TEK"/>
+<City Name="テミルタウ" Code="TEM"/>
+<City Name="トルキスタン" Code="TUR"/>
+<City Name="ジャンビル" Code="DMB"/>
+<City Name="ジャナオゼン" Code="ZHA"/>
+<City Name="ジェスカズガン" Code="DZH"/>
+<City Name="ズイリャノフスク" Code="ZYR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ケニア" Code="KEN">
+    <State>
+<City Name="バリンゴ" Code="BAR"/>
+<City Name="ボメット" Code="BOM"/>
+<City Name="ブンゴマ" Code="BUN"/>
+<City Name="ブシア" Code="BUS"/>
+<City Name="セントラル" Code="CE"/>
+<City Name="エルゲヨ・マラクウェット" Code="EMA"/>
+<City Name="エンブ" Code="EMB"/>
+<City Name="ガリッサ" Code="GAS"/>
+<City Name="ホマ・ベイ" Code="HOB"/>
+<City Name="イシオロ" Code="ISI"/>
+<City Name="カジアド" Code="KAJ"/>
+<City Name="カカメガ" Code="KAK"/>
+<City Name="ケリチョ" Code="KEY"/>
+<City Name="キアンブ" Code="KIA"/>
+<City Name="キリフィ" Code="KIL"/>
+<City Name="キリニャガ" Code="KIR"/>
+<City Name="キシイ" Code="KII"/>
+<City Name="キスム" Code="KIS"/>
+<City Name="キツイ" Code="KIT"/>
+<City Name="クワレ" Code="KWA"/>
+<City Name="ライキピア" Code="LAI"/>
+<City Name="ラム" Code="LAU"/>
+<City Name="マチャコス" Code="MAC"/>
+<City Name="マクエニ" Code="MAK"/>
+<City Name="マンデラ" Code="MAN"/>
+<City Name="マルサビット" Code="RBT"/>
+<City Name="メルー" Code="MER"/>
+<City Name="ミゴリ" Code="MIG"/>
+<City Name="モンバサ" Code="MOM"/>
+<City Name="ムランガ" Code="MUR"/>
+<City Name="ナイロビ" Code="NA"/>
+<City Name="ナクル" Code="NUU"/>
+<City Name="ナンディ" Code="NAN"/>
+<City Name="ナロク" Code="NAR"/>
+<City Name="ニシ" Code="NIT"/>
+<City Name="ニャミラ" Code="NYM"/>
+<City Name="ニャンダルア" Code="NYN"/>
+<City Name="ニエリ" Code="NYE"/>
+<City Name="サンブル" Code="UAS"/>
+<City Name="シアヤ" Code="SIA"/>
+<City Name="タイタ＝タベタ" Code="TTA"/>
+<City Name="タナ川" Code="TRI"/>
+<City Name="トランスンゾイア" Code="TNZ"/>
+<City Name="トゥルカナ" Code="TUR"/>
+<City Name="ウアシン・ギシュ" Code="UGI"/>
+<City Name="ビヒガ" Code="VIH"/>
+<City Name="ワジル" Code="WJR"/>
+<City Name="ウエスト・ポコット" Code="WPO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="キリバス" Code="KIR">
+    <State>
+<City Name="ギルバート諸島" Code="GIL"/>
+<City Name="ライン諸島" Code="LIN"/>
+<City Name="フェニックス諸島" Code="PHO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="韓国" Code="KOR">
+<State Name="釜山" Code="26"/>
+<State Name="忠清北道" Code="43">
+<City Name="安東市" Code="ADG"/>
+<City Name="奉化郡" Code="BHA"/>
+<City Name="清道郡" Code="CDO"/>
+<City Name="青松郡" Code="CSG"/>
+<City Name="漆谷郡" Code="CGK"/>
+<City Name="金泉市" Code="KMC"/>
+<City Name="高霊郡" Code="GRG"/>
+<City Name="亀尾市" Code="KUM"/>
+<City Name="軍威郡" Code="GWI"/>
+<City Name="慶州市" Code="GJU"/>
+<City Name="慶山市" Code="GYS"/>
+<City Name="聞慶市" Code="MGG"/>
+<City Name="浦項市" Code="KPO"/>
+<City Name="尚州市" Code="SJU"/>
+<City Name="星州郡" Code="SEJ"/>
+<City Name="義城郡" Code="USG"/>
+<City Name="蔚珍郡" Code="UJN"/>
+<City Name="鬱陵郡" Code="ULG"/>
+<City Name="醴泉郡" Code="YEC"/>
+<City Name="永川市" Code="YCH"/>
+<City Name="盈徳郡" Code="YDK"/>
+<City Name="栄州市" Code="YEJ"/>
+<City Name="英陽郡" Code="YYG"/>
+    </State>
+<State Name="忠清南道" Code="44">
+<City Name="昌寧郡" Code="CNG"/>
+<City Name="昌原市" Code="CHW"/>
+<City Name="居昌郡" Code="GCH"/>
+<City Name="巨済市" Code="KJE"/>
+<City Name="金海市" Code="KMH"/>
+<City Name="固城郡" Code="GSO"/>
+<City Name="河東郡" Code="HDG"/>
+<City Name="咸安郡" Code="HAN"/>
+<City Name="咸陽郡" Code="HYG"/>
+<City Name="陜川郡" Code="HCE"/>
+<City Name="鎮海市" Code="CHF"/>
+<City Name="晋州市" Code="HIN"/>
+<City Name="馬山市" Code="MAS"/>
+<City Name="密陽市" Code="MIR"/>
+<City Name="南海郡" Code="NHE"/>
+<City Name="泗川市" Code="SAH"/>
+<City Name="山清郡" Code="SCH"/>
+<City Name="統営市" Code="TYG"/>
+<City Name="宜寧郡" Code="URG"/>
+<City Name="梁山市" Code="YSN"/>
+    </State>
+<State Name="大邱広域市" Code="27">
+<City Name="大邱広域市" Code="TAE"/>
+<City Name="達城郡" Code="DSG"/>
+<City Name="寿城区" Code="SUS"/>
+    </State>
+<State Name="大田広域市" Code="30"/>
+<State Name="江原道" Code="42">
+<City Name="鉄原郡" Code="CWN"/>
+<City Name="春川市" Code="CHC"/>
+<City Name="東海市" Code="TGH"/>
+<City Name="江陵市" Code="KAG"/>
+<City Name="固城郡" Code="GSG"/>
+<City Name="横城郡" Code="HSG"/>
+<City Name="洪川郡" Code="HCN"/>
+<City Name="華川郡" Code="HCH"/>
+<City Name="麟蹄郡" Code="IJE"/>
+<City Name="旌善郡" Code="JSE"/>
+<City Name="平昌郡" Code="POG"/>
+<City Name="三陟市" Code="SUK"/>
+<City Name="束草市" Code="SHO"/>
+<City Name="太白市" Code="TBK"/>
+<City Name="原州市" Code="WJU"/>
+<City Name="楊口郡" Code="YGU"/>
+<City Name="襄陽郡" Code="YNY"/>
+<City Name="寧越郡" Code="YWL"/>
+    </State>
+<State Name="広州市" Code="29"/>
+<State Name="京畿道" Code="41">
+<City Name="水原市" Code="SUO"/>
+</State>
+<State Name="慶尚北道" Code="47">
+<City Name="扶安郡" Code="PUS"/>
+<City Name="金堤市" Code="GJE"/>
+<City Name="高敞郡" Code="GCG"/>
+<City Name="群山市" Code="KUV"/>
+<City Name="益山市" Code="IKS"/>
+<City Name="任実郡" Code="ISL"/>
+<City Name="長水郡" Code="JSU"/>
+<City Name="井邑市" Code="JEO"/>
+<City Name="全州市" Code="JNJ"/>
+<City Name="鎮安郡" Code="JAN"/>
+<City Name="茂朱郡" Code="MJU"/>
+<City Name="南原市" Code="NWN"/>
+<City Name="淳昌郡" Code="SCG"/>
+<City Name="完州郡" Code="WAJ"/>
+    </State>
+<State Name="慶尚南道" Code="48">
+<City Name="宝城郡" Code="BSG"/>
+<City Name="潭陽郡" Code="DYA"/>
+<City Name="康津郡" Code="GJN"/>
+<City Name="高興郡" Code="GHG"/>
+<City Name="谷城郡" Code="GSE"/>
+<City Name="求礼郡" Code="GRE"/>
+<City Name="光陽市" Code="KAN"/>
+<City Name="海南郡" Code="HAE"/>
+<City Name="咸平郡" Code="HPG"/>
+<City Name="和順郡" Code="HSN"/>
+<City Name="長興郡" Code="JHG"/>
+<City Name="長城郡" Code="JSN"/>
+<City Name="珍島郡" Code="JDO"/>
+<City Name="木浦市" Code="MOK"/>
+<City Name="務安郡" Code="MAN"/>
+<City Name="羅州市" Code="NJU"/>
+<City Name="新安郡" Code="SAN"/>
+<City Name="順天市" Code="SYS"/>
+<City Name="莞島郡" Code="WND"/>
+<City Name="霊岩郡" Code="YAM"/>
+<City Name="霊光郡" Code="YGG"/>
+<City Name="麗水市" Code="YOS"/>
+    </State>
+<State Name="仁川" Code="28"/>
+<State Name="済州道" Code="49">
+<City Name="安山市" Code="ASN"/>
+<City Name="安城市" Code="ASG"/>
+<City Name="安陽市" Code="ANY"/>
+<City Name="富川市" Code="BCN"/>
+<City Name="東豆川市" Code="DDC"/>
+<City Name="加平郡" Code="GPG"/>
+<City Name="金浦市" Code="GMP"/>
+<City Name="高陽市" Code="GYG"/>
+<City Name="軍浦市" Code="GUN"/>
+<City Name="九里市" Code="GRI"/>
+<City Name="果川市" Code="GCN"/>
+<City Name="広州市" Code="KWU"/>
+<City Name="光明市" Code="GMG"/>
+<City Name="河南市" Code="HNM"/>
+<City Name="華城市" Code="HCH"/>
+<City Name="利川市" Code="ICE"/>
+<City Name="南楊州市" Code="NYU"/>
+<City Name="烏山市" Code="OSN"/>
+<City Name="坡州市" Code="PJU"/>
+<City Name="抱川市" Code="POC"/>
+<City Name="平沢市" Code="PTK"/>
+<City Name="城南市" Code="SEO"/>
+<City Name="始興市" Code="SHE"/>
+<City Name="議政府市" Code="UIJ"/>
+<City Name="義王市" Code="UWN"/>
+<City Name="楊州市" Code="YYU"/>
+<City Name="楊平郡" Code="YPG"/>
+<City Name="驪州郡" Code="YJU"/>
+<City Name="漣川郡" Code="YCN"/>
+<City Name="龍仁市" Code="YNG"/>
+    </State>
+<State Name="全羅北道" Code="45">
+<City Name="報恩郡" Code="BEN"/>
+<City Name="清州市" Code="CJJ"/>
+<City Name="清原郡" Code="CWO"/>
+<City Name="忠州市" Code="CHU"/>
+<City Name="丹陽郡" Code="DYG"/>
+<City Name="陰城郡" Code="ESG"/>
+<City Name="槐山郡" Code="GSN"/>
+<City Name="堤川市" Code="JCH"/>
+<City Name="曽坪郡" Code="JYG"/>
+<City Name="鎮川郡" Code="JCN"/>
+<City Name="沃川郡" Code="OCN"/>
+<City Name="永同郡" Code="YDG"/>
+    </State>
+<State Name="全羅南道" Code="46">
+<City Name="牙山市" Code="ASA"/>
+<City Name="保寧市" Code="BOR"/>
+<City Name="扶余郡" Code="BYO"/>
+<City Name="天安市" Code="CHO"/>
+<City Name="青陽郡" Code="CYG"/>
+<City Name="唐津郡" Code="TJI"/>
+<City Name="錦山郡" Code="GSA"/>
+<City Name="公州市" Code="GOJ"/>
+<City Name="鶏竜市" Code="GYE"/>
+<City Name="洪城郡" Code="HSE"/>
+<City Name="論山市" Code="NSN"/>
+<City Name="舒川郡" Code="SCE"/>
+<City Name="瑞山市" Code="SSA"/>
+<City Name="泰安郡" Code="TAN"/>
+<City Name="燕岐郡" Code="YGI"/>
+<City Name="礼山郡" Code="YOS"/>
+    </State>
+<State Name="ソウル" Code="11"/>
+<State Name="蔚山広域市" Code="31"/>
+  </CountryRegion>
+<CountryRegion Name="クウェート" Code="KWT"/>
+<CountryRegion Name="キルギスタン" Code="KGZ">
+    <State>
+<City Name="バトケン州" Code="B"/>
+<City Name="ビシュケク特別市" Code="GB"/>
+<City Name="チュイ州" Code="C"/>
+<City Name="ジャララバード州" Code="J"/>
+<City Name="カント" Code="KAN"/>
+<City Name="カラ＝バルタ" Code="KBA"/>
+<City Name="カラコル" Code="KKO"/>
+<City Name="コク・ヤンガク" Code="KJ"/>
+<City Name="マイルウスウ" Code="MS"/>
+<City Name="ナリン州" Code="N"/>
+<City Name="オシュ州" Code="O"/>
+<City Name="スルクトゥ" Code="SU"/>
+<City Name="タラス州" Code="T"/>
+<City Name="タシュコムル" Code="TK"/>
+<City Name="ウズゲン" Code="UG"/>
+<City Name="イシクコル州" Code="Y"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ラオス" Code="LAO">
+    <State>
+<City Name="アッタプー県" Code="AT"/>
+<City Name="ボーケーオ県" Code="BK"/>
+<City Name="ボーリカムサイ県" Code="BL"/>
+<City Name="チャンパーサック県" Code="CH"/>
+<City Name="フアパン県" Code="HO"/>
+<City Name="カムムアン県" Code="KH"/>
+<City Name="ルアンナムター県" Code="LM"/>
+<City Name="ルアンパバーン県" Code="LP"/>
+<City Name="ウドムサイ県" Code="OU"/>
+<City Name="ポンサーリー県" Code="PH"/>
+<City Name="サーラワン県" Code="SL"/>
+<City Name="サワンナケート県" Code="SV"/>
+<City Name="ヴィエンチャン県" Code="VI"/>
+<City Name="サイニャブーリー県" Code="XA"/>
+<City Name="サイソムブーン" Code="XN"/>
+<City Name="セーコーン県" Code="XE"/>
+<City Name="シエンクワーン県" Code="XI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ラトビア" Code="LVA">
+    <State>
+<City Name="アイズクラウクレ州" Code="AIZ"/>
+<City Name="アルークスネ州" Code="ALU"/>
+<City Name="バルビ州" Code="BAL"/>
+<City Name="バウスカ州" Code="BAU"/>
+<City Name="ツェーシス州" Code="CES"/>
+<City Name="ダウガフピルス州" Code="DGR"/>
+<City Name="ドゥアベレ州" Code="DOB"/>
+<City Name="グルベネ州" Code="GUL"/>
+<City Name="エーカブピル" Code="JEK"/>
+<City Name="イェルガヴァ州" Code="JGR"/>
+<City Name="クラースラヴァ州" Code="KRA"/>
+<City Name="クルディーガ州" Code="KUL"/>
+<City Name="リエパーヤ州" Code="LPK"/>
+<City Name="リンバジュ州" Code="LIM"/>
+<City Name="ルザ州" Code="LUD"/>
+<City Name="マドゥアナ州" Code="MAD"/>
+<City Name="ウアグレ州" Code="OGR"/>
+<City Name="プレイユ州" Code="PRE"/>
+<City Name="レーゼクネ州" Code="RZR"/>
+<City Name="リガ州" Code="RGA"/>
+<City Name="サルドゥス州" Code="SAL"/>
+<City Name="タルシ州" Code="TAL"/>
+<City Name="トゥクム州" Code="TUK"/>
+<City Name="ヴァルカ州" Code="VLK"/>
+<City Name="ヴァルミエラ州" Code="VLM"/>
+<City Name="ヴェンツピルス州" Code="VSL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="レバノン" Code="LBN">
+    <State>
+<City Name="ベカーア県" Code="BI"/>
+<City Name="南レバノン県" Code="JA"/>
+<City Name="ナバティーエ県" Code="NA"/>
+<City Name="北レバノン県" Code="AS"/>
+<City Name="ベイルート県" Code="BA"/>
+<City Name="山岳レバノン県" Code="JL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="レソト" Code="LSO">
+    <State>
+<City Name="ベレア県" Code="D"/>
+<City Name="ブータ・ブーテ県" Code="B"/>
+<City Name="レリベ県" Code="C"/>
+<City Name="マフェテング県" Code="E"/>
+<City Name="マセル県" Code="A"/>
+<City Name="モハレス・フーク県" Code="F"/>
+<City Name="モコトロング県" Code="J"/>
+<City Name="クァクハスネック県" Code="H"/>
+<City Name="クティング県" Code="G"/>
+<City Name="ターバ・ツェーカ県" Code="K"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="リベリア" Code="LBR">
+    <State>
+<City Name="ボミ郡" Code="BM"/>
+<City Name="ボン郡" Code="BG"/>
+<City Name="ボポル" Code="BOP"/>
+<City Name="フィッシュタウン" Code="FT"/>
+<City Name="バルポル郡" Code="GBA"/>
+<City Name="グランドバッサ郡" Code="GB"/>
+<City Name="グランドケープマウント郡" Code="CM"/>
+<City Name="グランドゲデ郡" Code="GG"/>
+<City Name="グランドクル郡" Code="GK"/>
+<City Name="ロファ郡" Code="LO"/>
+<City Name="マージビ郡" Code="MG"/>
+<City Name="メリーランド郡" Code="MY"/>
+<City Name="モンセラード郡" Code="MO"/>
+<City Name="ニンバ郡" Code="NI"/>
+<City Name="リバーセス郡" Code="RI"/>
+<City Name="リバージー郡" Code="RG"/>
+<City Name="シノエ郡" Code="SI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="リビア" Code="LBY"/>
+<CountryRegion Name="リヒテンシュタイン" Code="LIE"/>
+<CountryRegion Name="リトアニア" Code="LTU">
+    <State>
+<City Name="アクメネ" Code="AKM"/>
+<City Name="アリートゥス州" Code="AL"/>
+<City Name="カウナス州" Code="KA"/>
+<City Name="クライペダ州" Code="KL"/>
+<City Name="マリヤーンポレ州" Code="MA"/>
+<City Name="パネヴェジース州" Code="PA"/>
+<City Name="シャウレイ州" Code="SI"/>
+<City Name="タウラゲ州" Code="TA"/>
+<City Name="テルシェイ州" Code="TE"/>
+<City Name="ウテナ州" Code="UT"/>
+<City Name="ウテナ州" Code="VI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ルクセンブルク広域行政区" Code="LUX">
+    <State>
+<City Name="ディーキルヒ広域行政区" Code="DD"/>
+<City Name="グレーヴェンマハ広域行政区" Code="GG"/>
+<City Name="ルクセンブルク広域行政区" Code="LL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="マケドニア・旧ユーゴスラビア共和国" Code="MKD"/>
+<CountryRegion Name="マダガスカル" Code="MDG">
+    <State>
+<City Name="アンタナナリヴ州" Code="AN"/>
+<City Name="アンツィラナナ州" Code="AS"/>
+<City Name="フィアナランツゥア州" Code="FN"/>
+<City Name="マハジャンガ州" Code="MJ"/>
+<City Name="トゥアマシナ州" Code="TM"/>
+<City Name="トゥリアーラ州" Code="TL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="マラウイ" Code="MWI">
+    <State>
+<City Name="中部" Code="C"/>
+<City Name="北部" Code="N"/>
+<City Name="南部" Code="S"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="マレーシア" Code="MYS">
+<State Name="ジョホール州" Code="JH">
+<City Name="バトゥ・パハッ" Code="BAT"/>
+<City Name="ジョホール・バル" Code="JHB"/>
+<City Name="クルアン" Code="KLA"/>
+<City Name="コタ・ティンギ" Code="KTI"/>
+<City Name="メルシン" Code="MEP"/>
+<City Name="ムアール" Code="MUA"/>
+<City Name="ポンティアン" Code="POW"/>
+<City Name="スガマト" Code="SGM"/>
+    </State>
+<State Name="クダ州" Code="KD">
+<City Name="バリン" Code="BLZ"/>
+<City Name="バンダル・バル" Code="BMA"/>
+<City Name="コタ・スタール" Code="KOR"/>
+<City Name="クアラ・ムダ" Code="KMU"/>
+<City Name="クバン・パス" Code="KPA"/>
+<City Name="クリム" Code="KLM"/>
+<City Name="ランカウイ" Code="LGK"/>
+<City Name="パダン・トゥラップ" Code="PGT"/>
+<City Name="ペンダン" Code="PEN"/>
+    </State>
+<State Name="クランタン州" Code="KN">
+<City Name="バチョ" Code="BAC"/>
+<City Name="グア・ムサン" Code="GMU"/>
+<City Name="ジュリ" Code="JEL"/>
+<City Name="コタ・バル" Code="KBR"/>
+<City Name="クアラ・クライ" Code="KUG"/>
+<City Name="マチャン" Code="MAC"/>
+<City Name="パシール・マス" Code="PMA"/>
+<City Name="パシール・プトゥ" Code="PPU"/>
+<City Name="タナ・メラ" Code="TMR"/>
+<City Name="トゥンパト" Code="TUM"/>
+    </State>
+<State Name="クアラ・ルンプール" Code="KL">
+<City Name="クアラ・ルンプール" Code="KUL"/>
+    </State>
+<State Name="ラブアン" Code="LB">
+<City Name="ラブアン" Code="LBU"/>
+<City Name="ビクトリア" Code="VIC"/>
+    </State>
+<State Name="マラッカ州" Code="ML">
+<City Name="アロー・ガジャ" Code="AOG"/>
+<City Name="ジャシン" Code="JAS"/>
+<City Name="ムラカ" Code="MEL"/>
+    </State>
+<State Name="ヌグリ・スンビラン州" Code="NS">
+<City Name="ジュレブ" Code="JEL"/>
+<City Name="ジュンポル" Code="JEP"/>
+<City Name="クアラ・ピラァ" Code="KPI"/>
+<City Name="ポート・ディクソン" Code="PDI"/>
+<City Name="ルンバウ" Code="REM"/>
+<City Name="スレンバン" Code="SRB"/>
+<City Name="タンピン" Code="TAI"/>
+    </State>
+<State Name="パハン州" Code="PG">
+<City Name="べトング" Code="BEN"/>
+<City Name="ベラ" Code="BER"/>
+<City Name="キャメロン・ハイランド" Code="CAH"/>
+<City Name="ジュラントゥッ" Code="JER"/>
+<City Name="クアラ・リピス" Code="KUL"/>
+<City Name="クアンタン" Code="KUA"/>
+<City Name="マラン" Code="MAR"/>
+<City Name="プカン" Code="PEK"/>
+<City Name="ラウブ" Code="RAU"/>
+<City Name="ロンピン" Code="TOM"/>
+<City Name="トゥメルロー" Code="TEM"/>
+    </State>
+<State Name="ペラ州" Code="PK">
+<City Name="バツガジャ" Code="BGA"/>
+<City Name="イポー" Code="IPH"/>
+<City Name="クアラ・カンサー" Code="KAR"/>
+<City Name="ルムット" Code="LUM"/>
+<City Name="スンガイシプット" Code="SSP"/>
+<City Name="タイピン" Code="TPG"/>
+<City Name="タンジョン・マリム" Code="TAM"/>
+<City Name="テルッ・インタン" Code="TAS"/>
+    </State>
+<State Name="パリス州" Code="PS">
+<City Name="カンガー" Code="KGR"/>
+    </State>
+<State Name="ペナン州" Code="PH">
+<City Name="ブキットメタジャム" Code="BMJ"/>
+<City Name="バターワース" Code="BWH"/>
+<City Name="ジョージタウン" Code="PEN"/>
+<City Name="ニボン・テバル" Code="NTE"/>
+    </State>
+<State Name="サバ州" Code="SB">
+<City Name="ビューホート" Code="BEF"/>
+<City Name="ブルラン" Code="BEL"/>
+<City Name="クニンガウ" Code="KEG"/>
+<City Name="キナバタンガン" Code="KBT"/>
+<City Name="コタ・ブルッ" Code="KBD"/>
+<City Name="コタ・キナバル" Code="BKI"/>
+<City Name="コタ・マルドゥ" Code="KMU"/>
+<City Name="クアラ・プニュ" Code="KPU"/>
+<City Name="クダッ" Code="KUD"/>
+<City Name="クナッ" Code="KUN"/>
+<City Name="ラハ・ダトゥ" Code="LDU"/>
+<City Name="ナバワン" Code="NAB"/>
+<City Name="パパール" Code="PAP"/>
+<City Name="プナンパン" Code="PMP"/>
+<City Name="ピタス" Code="PIT"/>
+<City Name="ラナウ" Code="RNU"/>
+<City Name="サンダカン" Code="SDK"/>
+<City Name="スンポルナ" Code="SMM"/>
+<City Name="シピタン" Code="SPT"/>
+<City Name="タンブナン" Code="TAB"/>
+<City Name="タワウ" Code="TAW"/>
+<City Name="テノム" Code="TEN"/>
+<City Name="トゥアラン" Code="TUR"/>
+    </State>
+<State Name="サラワク州" Code="SR">
+<City Name="ベトン" Code="BTG"/>
+<City Name="ビントゥル" Code="BTU"/>
+<City Name="カピッ" Code="KPI"/>
+<City Name="クチン" Code="KCH"/>
+<City Name="リンバン" Code="LMN"/>
+<City Name="ミリ" Code="MYY"/>
+<City Name="ムカ" Code="MKM"/>
+<City Name="サマラハン" Code="SMH"/>
+<City Name="サリケイ" Code="SAR"/>
+<City Name="シブ" Code="SBW"/>
+<City Name="スリ・アマン" Code="SAM"/>
+    </State>
+<State Name="セランゴール州" Code="SL">
+<City Name="ゴンバッ" Code="GOM"/>
+<City Name="フル・ランガッ" Code="HUL"/>
+<City Name="フル・スランゴール" Code="HUS"/>
+<City Name="クアラ・ランガッ" Code="KLG"/>
+<City Name="クアラ・スランゴール" Code="KSL"/>
+<City Name="プタリン" Code="PJA"/>
+<City Name="サバッ・ブルナム" Code="SBM"/>
+<City Name="スパン" Code="SEP"/>
+    </State>
+<State Name="トレンガヌ州" Code="TR">
+<City Name="ブスッ" Code="BES"/>
+<City Name="ドゥングン" Code="DGN"/>
+<City Name="フル" Code="HUL"/>
+<City Name="クママン" Code="KEM"/>
+<City Name="クアラ・トレンガヌ" Code="TGG"/>
+<City Name="マラン" Code="MAR"/>
+<City Name="スティウ" Code="SET"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="モルディブ" Code="MDV">
+    <State>
+<City Name="アッドゥ環礁" Code="ADD"/>
+<City Name="ファーディッポル" Code="FAA"/>
+<City Name="フェリドゥ環礁" Code="FEA"/>
+<City Name="フヴァンムラ" Code="FMU"/>
+<City Name="ハッドゥンマティ" Code="HDH"/>
+<City Name="コルマドゥル" Code="KLH"/>
+<City Name="マレ" Code="MAL"/>
+<City Name="マレ環礁" Code="MAA"/>
+<City Name="ムラク環礁" Code="MUA"/>
+<City Name="北アリアトル" Code="AAD"/>
+<City Name="北フヴァドゥアトル" Code="HAD"/>
+<City Name="北マーロスマドゥル" Code="MAD"/>
+<City Name="北ミラドゥンマドゥル" Code="MLD"/>
+<City Name="北ニランデアトル" Code="NAD"/>
+<City Name="北ティラドゥンマティー" Code="THD"/>
+<City Name="南アリアトル" Code="AAU"/>
+<City Name="南フヴァドゥアトル" Code="HAU"/>
+<City Name="南マーロスマドゥル" Code="MAU"/>
+<City Name="南ミラドゥンマドゥル" Code="MLU"/>
+<City Name="南ニランデアトル" Code="NAU"/>
+<City Name="南ティラドゥンマティー" Code="THU"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="マリ" Code="MLI">
+    <State>
+<City Name="バマコ" Code="CD"/>
+<City Name="ガオ" Code="GA"/>
+<City Name="カイ" Code="KY"/>
+<City Name="キダル" Code="KD"/>
+<City Name="クリコロ" Code="KL"/>
+<City Name="モプティ" Code="MP"/>
+<City Name="モプティ" Code="SG"/>
+<City Name="シカソ" Code="SK"/>
+<City Name="トンブクトゥ" Code="TB"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="マルタ" Code="MLT"/>
+<CountryRegion Name="マーシャル諸島" Code="MHL"/>
+<CountryRegion Name="マルチニーク島" Code="MTQ"/>
+<CountryRegion Name="モーリタニア" Code="MRT">
+    <State>
+<City Name="アドラル" Code="AD"/>
+<City Name="ブラクナ" Code="BR"/>
+<City Name="ダフレト・ヌアジブ" Code="DN"/>
+<City Name="アサバ" Code="AS"/>
+<City Name="ゴルゴル" Code="GO"/>
+<City Name="ギディマカ" Code="GM"/>
+<City Name="ホズ・エッシャルギ" Code="HC"/>
+<City Name="ホズ・エルガルビ" Code="HG"/>
+<City Name="インシリ" Code="IN"/>
+<City Name="ヌアクショット" Code="NO"/>
+<City Name="タガント" Code="TA"/>
+<City Name="ティリス・ゼムール" Code="TZ"/>
+<City Name="トラルザ" Code="TR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="モーリシャス" Code="MUS"/>
+<CountryRegion Name="マイヨット島" Code="MYT"/>
+<CountryRegion Name="メキシコ" Code="MEX">
+    <State>
+<City Name="アカプルコ" Code="ACA"/>
+<City Name="アグアスカリエンテス" Code="AGU"/>
+<City Name="ベニート・ファレス" Code="BJU"/>
+<City Name="カンペチェ" Code="CAM"/>
+<City Name="カルメン" Code="CAR"/>
+<City Name="セラヤ" Code="CLY"/>
+<City Name="チェトゥマル" Code="CTM"/>
+<City Name="チワワ" Code="CHH"/>
+<City Name="チルパンシンゴ" Code="CHI"/>
+<City Name="コアツァコアルコス" Code="COA"/>
+<City Name="コリマ" Code="COL"/>
+<City Name="クエルナバカ" Code="CVC"/>
+<City Name="クリアカン" Code="CUL"/>
+<City Name="ドゥランゴ" Code="DUR"/>
+<City Name="エンセナーダ" Code="ESE"/>
+<City Name="グアダラハラ" Code="GDL"/>
+<City Name="グアナフアト" Code="GUA"/>
+<City Name="エルモシージョ" Code="HMO"/>
+<City Name="イラプアト" Code="IRP"/>
+<City Name="ハラパ" Code="JAL"/>
+<City Name="シウダー・フアレス" Code="JUZ"/>
+<City Name="ラパス" Code="LAP"/>
+<City Name="レオン" Code="LEN"/>
+<City Name="ロス・モチス" Code="LMM"/>
+<City Name="マタモロス" Code="MAM"/>
+<City Name="マサトラン" Code="MZT"/>
+<City Name="メリダ" Code="MID"/>
+<City Name="メヒカリ" Code="MXL"/>
+<City Name="メキシコシティ" Code="MEX"/>
+<City Name="モンクロバ" Code="LOV"/>
+<City Name="モンテレー" Code="MTY"/>
+<City Name="モレリア" Code="MLM"/>
+<City Name="ノガレス" Code="NOG"/>
+<City Name="ヌエボ・ラレド" Code="NLE"/>
+<City Name="オアハカ" Code="OAX"/>
+<City Name="オブレゴン" Code="OBR"/>
+<City Name="オリサバ" Code="ORI"/>
+<City Name="パチューカ" Code="PAC"/>
+<City Name="ポサ・リカ" Code="PRH"/>
+<City Name="プエブラ" Code="PUE"/>
+<City Name="プエルト・バヤルタ" Code="PVR"/>
+<City Name="ケレタロ" Code="QUE"/>
+<City Name="レイノサ" Code="REX"/>
+<City Name="サルティーヨ" Code="SLW"/>
+<City Name="サン・ルイス・ポトシ" Code="SLP"/>
+<City Name="タンピコ" Code="TAM"/>
+<City Name="タパチュラ" Code="TAP"/>
+<City Name="テワカン" Code="TCN"/>
+<City Name="テピック" Code="TPQ"/>
+<City Name="ティフアナ" Code="TIJ"/>
+<City Name="トラスカラ" Code="TLA"/>
+<City Name="トルーカ" Code="TLC"/>
+<City Name="トレオン" Code="TRC"/>
+<City Name="トゥストラ・グティエレス" Code="TGZ"/>
+<City Name="ウルアパン" Code="UPN"/>
+<City Name="バージェス" Code="VHM"/>
+<City Name="ベラクルス" Code="VER"/>
+<City Name="ビクトリア" Code="VIC"/>
+<City Name="ビヤエルモサ" Code="VSA"/>
+<City Name="サカテカス" Code="ZAC"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ミクロネシア" Code="FSM"/>
+<CountryRegion Name="モルドバ" Code="MDA"/>
+<CountryRegion Name="モナコ" Code="MCO"/>
+<CountryRegion Name="モンゴル" Code="MNG">
+    <State>
+<City Name="アルハンガイ" Code="73"/>
+<City Name="バヤンホンゴル" Code="69"/>
+<City Name="バヤン・ウルギー" Code="71"/>
+<City Name="ボルガン" Code="67"/>
+<City Name="ダルハン・オール" Code="37"/>
+<City Name="ドルノド" Code="61"/>
+<City Name="ドルノゴビ" Code="63"/>
+<City Name="ドンドゴビ" Code="59"/>
+<City Name="ザブハン" Code="57"/>
+<City Name="ゴビ・アルタイ" Code="65"/>
+<City Name="ゴビスンベル" Code="64"/>
+<City Name="ヘンティー" Code="39"/>
+<City Name="ホブド" Code="43"/>
+<City Name="フブスグル" Code="41"/>
+<City Name="オルホン" Code="35"/>
+<City Name="セレンゲ" Code="49"/>
+<City Name="スフバータル" Code="51"/>
+<City Name="トゥブ" Code="47"/>
+<City Name="ウランバートル" Code="1"/>
+<City Name="ウムヌゴビ" Code="UMN"/>
+<City Name="ウブルハンガイ" Code="UVO"/>
+<City Name="オブス" Code="46"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="モンセラット" Code="MSR"/>
+<CountryRegion Name="モロッコ" Code="MAR">
+    <State>
+<City Name="カサブランカ" Code="CBL"/>
+<City Name="フェス" Code="FES"/>
+<City Name="マラケシュ" Code="MRK"/>
+<City Name="メクネス" Code="MKN"/>
+<City Name="ウジュダ" Code="OUJ"/>
+<City Name="タンジェ" Code="RSA"/>
+<City Name="タンジェ" Code="TGR"/>
+<City Name="テトゥアン" Code="TET"/>
+<City Name="西サハラ" Code="WSH"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="モザンビーク" Code="MOZ"/>
+<CountryRegion Name="ミャンマー" Code="MMR">
+    <State>
+<City Name="エーヤワディ" Code="AY"/>
+<City Name="バゴー" Code="BG"/>
+<City Name="チン" Code="CH"/>
+<City Name="カチン" Code="KC"/>
+<City Name="カヤー" Code="KH"/>
+<City Name="カレン" Code="KN"/>
+<City Name="マグウェ" Code="MG"/>
+<City Name="マンダレー" Code="MD"/>
+<City Name="モン" Code="MN"/>
+<City Name="ラカイン" Code="RK"/>
+<City Name="ザガイン" Code="SG"/>
+<City Name="シャン" Code="SH"/>
+<City Name="タニンダーリ" Code="TN"/>
+<City Name="ヤンゴン" Code="YG"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ナミビア" Code="NAM">
+    <State>
+<City Name="カプリビ" Code="CA"/>
+<City Name="エロンゴ" Code="ER"/>
+<City Name="ハルダプ" Code="HA"/>
+<City Name="カラス" Code="KR"/>
+<City Name="ホマス" Code="KH"/>
+<City Name="クネネ" Code="KU"/>
+<City Name="オハングウェナ" Code="OW"/>
+<City Name="オマヘケ" Code="KV"/>
+<City Name="オマヘケ" Code="OK"/>
+<City Name="オムサティ" Code="OT"/>
+<City Name="オシャナ" Code="ON"/>
+<City Name="オシコト" Code="OO"/>
+<City Name="オチョソンデュパ" Code="OJ"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ナウル" Code="NRU"/>
+<CountryRegion Name="ネパール" Code="NPL">
+    <State>
+<City Name="バグマティ" Code="BA"/>
+<City Name="ベリ" Code="BH"/>
+<City Name="ダウラギリ" Code="DH"/>
+<City Name="ガンダキ" Code="GA"/>
+<City Name="ジャナクプール" Code="JA"/>
+<City Name="カルナリ" Code="KA"/>
+<City Name="コシ" Code="KO"/>
+<City Name="ルンビニ" Code="LU"/>
+<City Name="マハカリ" Code="MA"/>
+<City Name="メチ" Code="ME"/>
+<City Name="ナラヤニ" Code="NA"/>
+<City Name="ラプティ" Code="RA"/>
+<City Name="セティ" Code="SE"/>
+<City Name="サガルマタ" Code="SA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="オランダ" Code="NLD">
+    <State>
+<City Name="スヘルトーヘンボス" Code="HTB"/>
+<City Name="アルメレ" Code="AER"/>
+<City Name="アメルスフォールト" Code="AME"/>
+<City Name="アイントホーフェン" Code="AMS"/>
+<City Name="アペルドールン" Code="APE"/>
+<City Name="アーネム" Code="ARN"/>
+<City Name="アッセン" Code="ASS"/>
+<City Name="ブレダ" Code="BRD"/>
+<City Name="ドルトレヒト" Code="DOR"/>
+<City Name="エーデ" Code="EDE"/>
+<City Name="アイントホーフェン" Code="EIN"/>
+<City Name="エメン" Code="EMM"/>
+<City Name="エンスヘーデ" Code="ENS"/>
+<City Name="フローニンゲン" Code="GRQ"/>
+<City Name="ハールレム" Code="HRA"/>
+<City Name="デン・ハーグ" Code="HAG"/>
+<City Name="ホーフトドルプ" Code="HFD"/>
+<City Name="レーワルデン" Code="LWR"/>
+<City Name="レイデン" Code="LID"/>
+<City Name="レリスタット" Code="LEY"/>
+<City Name="マーストリヒト" Code="MST"/>
+<City Name="ミッデルバーグ" Code="MDL"/>
+<City Name="ナイメーヘン" Code="NIJ"/>
+<City Name="ロッテルダム" Code="RTM"/>
+<City Name="ティルブルフ" Code="TLB"/>
+<City Name="ユトレヒト" Code="UTC"/>
+<City Name="ズーテメール" Code="ZTM"/>
+<City Name="ズウォレ" Code="ZWO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="オランダ領アンティル" Code="ANT"/>
+<CountryRegion Name="ニューカレドニア" Code="NCL"/>
+<CountryRegion Name="ニュージーランド" Code="NZL">
+    <State>
+<City Name="オークランド" Code="AUK"/>
+<City Name="ブレナム" Code="BHE"/>
+<City Name="クライストチャーチ" Code="CHC"/>
+<City Name="ダニーデン" Code="DUD"/>
+<City Name="ファーノース" Code="FNR"/>
+<City Name="ギズボーン" Code="GIS"/>
+<City Name="グレーマス" Code="GMN"/>
+<City Name="ハミルトン" Code="HLZ"/>
+<City Name="ヘースティングズ" Code="HAS"/>
+<City Name="インバーカーギル" Code="IVC"/>
+<City Name="カイパラ" Code="KAI"/>
+<City Name="マヌカウ" Code="MNK"/>
+<City Name="ネーピア" Code="NPE"/>
+<City Name="ネルソン" Code="NSN"/>
+<City Name="ニュープリマス" Code="NPL"/>
+<City Name="ノース・ショア" Code="NSH"/>
+<City Name="パーマストンノース" Code="PMR"/>
+<City Name="リッチモンド" Code="RMD"/>
+<City Name="ストラトフォード" Code="STR"/>
+<City Name="タウマルヌイ" Code="TAU"/>
+<City Name="ワイタケレ" Code="WAE"/>
+<City Name="ウォンガヌイ" Code="WAG"/>
+<City Name="ファカタニ" Code="WHK"/>
+<City Name="ファンガレー" Code="WRE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ニカラグア" Code="NIC">
+    <State>
+<City Name="北アトランティコ自治地域" Code="AN"/>
+<City Name="南アトランティコ自治地域" Code="AS"/>
+<City Name="ボアコ" Code="BO"/>
+<City Name="カラソ" Code="CA"/>
+<City Name="チナンデガ" Code="CD"/>
+<City Name="チョンタレス" Code="CT"/>
+<City Name="エステリ" Code="ES"/>
+<City Name="グラナダ" Code="GR"/>
+<City Name="ヒノテガ" Code="JI"/>
+<City Name="レオン" Code="LE"/>
+<City Name="マドリス" Code="MD"/>
+<City Name="マナグア" Code="MN"/>
+<City Name="マサヤ" Code="MS"/>
+<City Name="マタガルパ" Code="MT"/>
+<City Name="ヌエバ・セゴビア" Code="NS"/>
+<City Name="リオ・サン・フアン" Code="SJ"/>
+<City Name="リバス" Code="RV"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ニジェール" Code="NER">
+    <State>
+<City Name="アガデス" Code="AJY"/>
+<City Name="ディファ" Code="DIF"/>
+<City Name="ドッソ" Code="DSS"/>
+<City Name="マラディ" Code="MFQ"/>
+<City Name="ニアメ首都特別区" Code="NIM"/>
+<City Name="タウア" Code="THZ"/>
+<City Name="ティラベリ" Code="TIL"/>
+<City Name="ザンデール" Code="ZND"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ナイジェリア" Code="NGA">
+    <State>
+<City Name="アブジャ" Code="ABV"/>
+<City Name="イバダン" Code="IBA"/>
+<City Name="カノ" Code="KAN"/>
+<City Name="ラゴス" Code="LOS"/>
+<City Name="オグボモショ" Code="OGB"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ニウエ" Code="NIU"/>
+<CountryRegion Name="ノーフォーク島" Code="NFK"/>
+<CountryRegion Name="北朝鮮" Code="PRK">
+    <State>
+<City Name="清津市" Code="CHO"/>
+<City Name="海州市" Code="HAE"/>
+<City Name="咸興市" Code="HAM"/>
+<City Name="恵山市" Code="HYE"/>
+<City Name="開城" Code="KSN"/>
+<City Name="江界市" Code="KAN"/>
+<City Name="南浦特級市" Code="NAM"/>
+<City Name="羅先直轄市" Code="NAS"/>
+<City Name="平壌直轄市" Code="FNJ"/>
+<City Name="沙里院市" Code="SAR"/>
+<City Name="新義州市" Code="SII"/>
+<City Name="元山市" Code="WON"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="北マリアナ諸島" Code="MNP"/>
+<CountryRegion Name="ノルウェー" Code="NOR">
+    <State>
+<City Name="アーケシュフース県" Code="2"/>
+<City Name="アウスト・アグデル県" Code="9"/>
+<City Name="ブスケルー県" Code="6"/>
+<City Name="ブスケルー県" Code="20"/>
+<City Name="ヘードマルク県" Code="4"/>
+<City Name="ホルダラン県" Code="12"/>
+<City Name="ムーレ・オ・ロムスダール県" Code="15"/>
+<City Name="ヌールラン県" Code="18"/>
+<City Name="ヌール・トロンデラーグ県" Code="17"/>
+<City Name="オップラン県" Code="5"/>
+<City Name="オスロ" Code="3"/>
+<City Name="エストフォル県" Code="1"/>
+<City Name="ローガラン県" Code="11"/>
+<City Name="ソグン・オ・フョーラネ県" Code="14"/>
+<City Name="ソール・トロンデラーグ県" Code="16"/>
+<City Name="ソール・トロンデラーグ県" Code="8"/>
+<City Name="トロムス県" Code="19"/>
+<City Name="ヴェスト・アグデル県" Code="10"/>
+<City Name="ヴェストフォル県" Code="7"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="オマーン" Code="OMN">
+    <State>
+<City Name="ダーヒリーヤ地方" Code="DA"/>
+<City Name="バティナ地方" Code="BA"/>
+<City Name="ウスタ地方" Code="WU"/>
+<City Name="シャルキーヤ地方" Code="SH"/>
+<City Name="ザーヒラ地方" Code="ZA"/>
+<City Name="マスカット特別行政区" Code="MA"/>
+<City Name="ムサンダム特別行政区" Code="MU"/>
+<City Name="ムサンダム特別行政区" Code="ZU"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="パキスタン" Code="PAK">
+    <State>
+<City Name="ファイサラーバード" Code="LYP"/>
+<City Name="グジュラーンワーラ" Code="GUJ"/>
+<City Name="ハイデラバード" Code="HDD"/>
+<City Name="イスラマーバード" Code="ISB"/>
+<City Name="カラチ" Code="KCT"/>
+<City Name="ラホール" Code="LHE"/>
+<City Name="ムルターン" Code="MUX"/>
+<City Name="ペシャーワル" Code="PEW"/>
+<City Name="ラーワルピンディー" Code="RWP"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="パラオ" Code="PLW"/>
+<CountryRegion Name="パレスチナ自治政府" Code="PSE">
+    <State>
+<City Name="ガザ地区" Code="GZ"/>
+<City Name="ヨルダン川西岸地区" Code="WE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="パナマ" Code="PAN"/>
+<CountryRegion Name="パプアニューギニア" Code="PNG">
+    <State>
+<City Name="ブーゲンビル州" Code="BV"/>
+<City Name="東ニュー ブリテン州" Code="EB"/>
+<City Name="東セピック州" Code="ES"/>
+<City Name="東部山岳州" Code="EH"/>
+<City Name="エンガ州" Code="EN"/>
+<City Name="湾岸州" Code="GU"/>
+<City Name="マダン州" Code="MD"/>
+<City Name="マヌス州" Code="MN"/>
+<City Name="ミルン湾州" Code="MB"/>
+<City Name="モロベ州" Code="MR"/>
+<City Name="ニューアイルランド州" Code="NI"/>
+<City Name="北部州" Code="NO"/>
+<City Name="ポートモレスビー" Code="NC"/>
+<City Name="サンダウン州" Code="SA"/>
+<City Name="シンブ州" Code="SI"/>
+<City Name="南部山岳州" Code="SH"/>
+<City Name="西ニューブリテン州" Code="WB"/>
+<City Name="西部州" Code="WE"/>
+<City Name="西部山岳州" Code="WH"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="パラグアイ" Code="PRY">
+    <State>
+<City Name="アルト・パラグアイ県" Code="AG"/>
+<City Name="アルト・パラナ県" Code="AN"/>
+<City Name="アマンバイ県" Code="AM"/>
+<City Name="アスンシオン" Code="AS"/>
+<City Name="ボケロン県" Code="BO"/>
+<City Name="カアグアス県" Code="CG"/>
+<City Name="カアサパ県" Code="CZ"/>
+<City Name="カニンデジュ県" Code="CN"/>
+<City Name="セントラル県" Code="CE"/>
+<City Name="コルディリェラ県" Code="CC"/>
+<City Name="コルディリェラ県" Code="CD"/>
+<City Name="グァイラ県" Code="GU"/>
+<City Name="イタプア県" Code="IT"/>
+<City Name="ミシオネス県" Code="MI"/>
+<City Name="ニェエンブク県" Code="NE"/>
+<City Name="パラグアリ県" Code="PA"/>
+<City Name="プレシデンテ・アジェス県" Code="PH"/>
+<City Name="サン・ペドロ県" Code="SP"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ペルー" Code="PER">
+    <State>
+<City Name="アマソナス県" Code="AM"/>
+<City Name="アンカシュ県" Code="AN"/>
+<City Name="アプリマク県" Code="AP"/>
+<City Name="アレキパ県" Code="AR"/>
+<City Name="アヤクーチョ県" Code="AY"/>
+<City Name="カハマルカ県" Code="CJ"/>
+<City Name="カヤオ特別区" Code="CL"/>
+<City Name="チンボテ" Code="CHM"/>
+<City Name="チンチャ・アルタ" Code="CHI"/>
+<City Name="クスコ県" Code="CU"/>
+<City Name="ワンカベリカ県" Code="HV"/>
+<City Name="ワヌコ県" Code="HO"/>
+<City Name="イカ県" Code="IC"/>
+<City Name="フリアカ" Code="JUL"/>
+<City Name="フニン県" Code="JU"/>
+<City Name="ラ・リベルター県" Code="LD"/>
+<City Name="ランバイエケ県" Code="LY"/>
+<City Name="リマ県" Code="LI"/>
+<City Name="ロレート県" Code="LO"/>
+<City Name="マドレデディオス県" Code="MD"/>
+<City Name="モケグア県" Code="MO"/>
+<City Name="パスコ県" Code="PA"/>
+<City Name="ピウラ県" Code="PI"/>
+<City Name="プーノ県" Code="PU"/>
+<City Name="サン・マルティン県" Code="SM"/>
+<City Name="スヤナ" Code="SUL"/>
+<City Name="タクナ県" Code="TA"/>
+<City Name="トゥンベス県" Code="TU"/>
+<City Name="ウカヤリ県" Code="UC"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="フィリピン" Code="PHL">
+    <State>
+<City Name="カローカン" Code="CAO"/>
+<City Name="セブ" Code="CEB"/>
+<City Name="ダバオ" Code="DOR"/>
+<City Name="マニラ" Code="MNL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ピトケアン諸島" Code="PCN"/>
+<CountryRegion Name="ポーランド" Code="POL">
+    <State>
+<City Name="ヴィエルコポルスカ県" Code="BAP"/>
+<City Name="ビャウィストク" Code="BIA"/>
+<City Name="ブィドゴシュチュ" Code="BZG"/>
+<City Name="ビトム" Code="BYT"/>
+<City Name="ヘウム" Code="CHO"/>
+<City Name="ホジューフ" Code="CHZ"/>
+<City Name="チェハヌフ" Code="CIE"/>
+<City Name="ドンブローヴァ・グルニチャ" Code="DAB"/>
+<City Name="エルブロンク" Code="ELB"/>
+<City Name="グダニスク" Code="GDN"/>
+<City Name="グディニャ" Code="GDY"/>
+<City Name="グリヴィツェ" Code="GWC"/>
+<City Name="ゴーズフ・ビエルコポルスキ" Code="GOW"/>
+<City Name="グルジョンツ" Code="GRU"/>
+<City Name="ヤヴォジュノ" Code="JAW"/>
+<City Name="イェレニャ・グーラ" Code="JEG"/>
+<City Name="カリシュ" Code="KAL"/>
+<City Name="カトヴィツェ" Code="KTW"/>
+<City Name="キェルツェ" Code="KLC"/>
+<City Name="コニン" Code="KON"/>
+<City Name="コシャリン" Code="OSZ"/>
+<City Name="クラクフ" Code="KRK"/>
+<City Name="クロスノ" Code="KRO"/>
+<City Name="レグニツァ" Code="LEG"/>
+<City Name="レシュノ" Code="LEZ"/>
+<City Name="ウッチ" Code="LOD"/>
+<City Name="ウォムジャ" Code="QOY"/>
+<City Name="キェルツェ" Code="LUL"/>
+<City Name="ムィスウォヴィツェ" Code="MYL"/>
+<City Name="ノヴィ・ソンチ" Code="NOW"/>
+<City Name="オルシュティン" Code="OLS"/>
+<City Name="オポーレ" Code="OPO"/>
+<City Name="オストロウェンカ" Code="OSS"/>
+<City Name="ピワ" Code="PIL"/>
+<City Name="ピョトルクフ・トリブナルスキ" Code="PIO"/>
+<City Name="プウォツク" Code="PLO"/>
+<City Name="ポズナン" Code="POZ"/>
+<City Name="プシェミシル" Code="PRZ"/>
+<City Name="ラドム" Code="RDM"/>
+<City Name="ルーダ・シロンスカ" Code="RDS"/>
+<City Name="ジェシュフ" Code="RZE"/>
+<City Name="シェドルツェ" Code="SDC"/>
+<City Name="シェミャノヴィツェ・シロンスキェ" Code="SOW"/>
+<City Name="シェラツ" Code="SIR"/>
+<City Name="スキエルニエビツェ" Code="SKI"/>
+<City Name="スウプスク" Code="SLP"/>
+<City Name="ソポト" Code="SOP"/>
+<City Name="ソスノヴィエツ" Code="SWC"/>
+<City Name="スバウキ" Code="SWL"/>
+<City Name="シフィエントフウォヴィツェ" Code="SWT"/>
+<City Name="シフィノウイシチェ" Code="SWI"/>
+<City Name="シュチェチン" Code="SZZ"/>
+<City Name="タルノブジェク" Code="QEP"/>
+<City Name="タルヌフ" Code="TAR"/>
+<City Name="タルヌフ" Code="TOR"/>
+<City Name="ティヒ" Code="TYY"/>
+<City Name="ヴァウブジフ" Code="WZH"/>
+<City Name="ワルシャワ" Code="WAW"/>
+<City Name="ヴウォツワヴェク" Code="WLO"/>
+<City Name="ヴロツワフ" Code="WRO"/>
+<City Name="ザブジェ" Code="ZAB"/>
+<City Name="ザモシチ" Code="ZAM"/>
+<City Name="ジェロナ・グラ" Code="IEG"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ポルトガル" Code="PRT">
+    <State>
+<City Name="アレンテージョ・セントラル" Code="ALC"/>
+<City Name="アレンテージョ・リトラル" Code="ALL"/>
+<City Name="アルト・アレンテージョ" Code="AAT"/>
+<City Name="アルト・トラス・オス・モンテス" Code="ATM"/>
+<City Name="アヴェ" Code="AES"/>
+<City Name="バイショ・アレンテージョ" Code="BAL"/>
+<City Name="バイショ・モンデゴ" Code="BMO"/>
+<City Name="バイショ・ヴォウガ" Code="BVO"/>
+<City Name="ベイラ・インテリオル・ノルテ" Code="BIN"/>
+<City Name="ベイラ・インテリオル・スル" Code="BIS"/>
+<City Name="カヴァド" Code="CAV"/>
+<City Name="コヴァ・ダ・ベイラ" Code="CLB"/>
+<City Name="ドゥロ" Code="MDR"/>
+<City Name="エントレ・ドゥロ・エ・ヴォウガ" Code="EDV"/>
+<City Name="ファロ" Code="FAO"/>
+<City Name="フンシャル" Code="FUN"/>
+<City Name="レジリア・ド・テージョ" Code="LTE"/>
+<City Name="リスボア" Code="LIS"/>
+<City Name="メディオ・テージョ" Code="MTE"/>
+<City Name="ミーニョ・リマ" Code="MLI"/>
+<City Name="オエス" Code="OES"/>
+<City Name="ペニンスラ・デ・セトゥーバル" Code="PSE"/>
+<City Name="ピニャル・インテリオル・ノルテ" Code="PIN"/>
+<City Name="ピニャル・インテリオル・スル" Code="PIS"/>
+<City Name="ピニャル・リストラル" Code="PLT"/>
+<City Name="ポンタ・デルガダ" Code="PDL"/>
+<City Name="ポルト" Code="VDP"/>
+<City Name="セーラ・ダ・エストレラ" Code="SES"/>
+<City Name="タメガ" Code="TAM"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="プエルトリコ" Code="PRI"/>
+<CountryRegion Name="カタール" Code="QAT">
+    <State>
+<City Name="ドーハ" Code="DW"/>
+<City Name="グワリヤー" Code="GW"/>
+<City Name="ジュマリヤー" Code="JM"/>
+<City Name="アル・ホール" Code="KR"/>
+<City Name="アル・ワクラ" Code="WK"/>
+<City Name="ラヤーン" Code="RN"/>
+<City Name="ジャリヤンアルバトナフ" Code="JB"/>
+<City Name="マディナット アルシャマル" Code="MS"/>
+<City Name="ウム・サラル" Code="UL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="レユニオン" Code="REU"/>
+<CountryRegion Name="ルーマニア" Code="ROU">
+    <State>
+<City Name="アルバ・ユリア" Code="AL"/>
+<City Name="アレクサンドリア" Code="AD"/>
+<City Name="アラド" Code="AR"/>
+<City Name="バカウ" Code="BA"/>
+<City Name="バイア・マーレ" Code="BM"/>
+<City Name="ビストリツァ" Code="BN"/>
+<City Name="ボトシャニ" Code="BO"/>
+<City Name="ブライラ" Code="BL"/>
+<City Name="ブラショフ" Code="BS"/>
+<City Name="ブカレスト" Code="BC"/>
+<City Name="ブザウ" Code="BZ"/>
+<City Name="カララシ" Code="CR"/>
+<City Name="クルージュ＝ナポカ" Code="CN"/>
+<City Name="コンスタンツァ" Code="CT"/>
+<City Name="クラヨーヴァ" Code="DO"/>
+<City Name="デヴァ" Code="DE"/>
+<City Name="ドロベタ＝トゥルヌ・セヴェリン" Code="DT"/>
+<City Name="フォクシャニ" Code="FO"/>
+<City Name="ガラツィ" Code="GL"/>
+<City Name="ジュルジュ" Code="GG"/>
+<City Name="ヤシ" Code="IS"/>
+<City Name="メルクレア・チュク" Code="MC"/>
+<City Name="オラデア" Code="OR"/>
+<City Name="ピアトラ・ネアムツ" Code="PN"/>
+<City Name="ピテシュティ" Code="PI"/>
+<City Name="プロイェシュティ" Code="PL"/>
+<City Name="レシツァ" Code="RE"/>
+<City Name="サトゥ・マーレ" Code="SM"/>
+<City Name="スフンツ・ゲオルゲ" Code="SG"/>
+<City Name="シビウ" Code="SO"/>
+<City Name="スラティナ" Code="ST"/>
+<City Name="スロボジア" Code="SB"/>
+<City Name="スチャヴァ" Code="SU"/>
+<City Name="トゥルゴヴィシュテ" Code="TA"/>
+<City Name="ティミショアラ" Code="TI"/>
+<City Name="トゥルグ・ムレシュ" Code="TM"/>
+<City Name="トゥルグ・ジュー" Code="TJ"/>
+<City Name="トゥルチャ" Code="TU"/>
+<City Name="バスルイ" Code="VA"/>
+<City Name="リムニクビルチャ" Code="VI"/>
+<City Name="ザラウ" Code="ZA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ロシア" Code="RUS">
+    <State>
+<City Name="アバカン" Code="ABA"/>
+<City Name="アギンスコエ" Code="AGI"/>
+<City Name="アナディリ" Code="DYR"/>
+<City Name="アルハンゲリスク" Code="ARK"/>
+<City Name="アストラハン" Code="AST"/>
+<City Name="バルナウル" Code="BAX"/>
+<City Name="ベルゴロド" Code="BEL"/>
+<City Name="ビロビジャン" Code="BBZ"/>
+<City Name="ブラゴヴェシチェンスク" Code="BQS"/>
+<City Name="ブリャンスク" Code="BRY"/>
+<City Name="ハバロフスク" Code="COK"/>
+<City Name="チェボクサル" Code="CSY"/>
+<City Name="チェリャビンスク" Code="CHE"/>
+<City Name="チェルケスク" Code="CKS"/>
+<City Name="チタ" Code="CHI"/>
+<City Name="エリスタ" Code="ESL"/>
+<City Name="ゴルノ＝アルタイスク" Code="GOA"/>
+<City Name="グロズヌイ" Code="GRV"/>
+<City Name="イルクーツク" Code="IKT"/>
+<City Name="イヴァノヴォ" Code="IVO"/>
+<City Name="イジェフスク" Code="IJK"/>
+<City Name="ヤクーツク" Code="JAK"/>
+<City Name="ヤロスラヴリ" Code="JAR"/>
+<City Name="エカテリンブルク" Code="JEK"/>
+<City Name="ユジノサハリンスク" Code="JSA"/>
+<City Name="カリーニングラード" Code="KGD"/>
+<City Name="カルーガ" Code="KLF"/>
+<City Name="カザン" Code="KZN"/>
+<City Name="ケメロボ" Code="KEM"/>
+<City Name="ハンティ・マンシースク" Code="KHM"/>
+<City Name="キーロフ" Code="KIR"/>
+<City Name="コストロマ" Code="KOS"/>
+<City Name="クラスノダール" Code="KRR"/>
+<City Name="クラスノヤルスク" Code="KYA"/>
+<City Name="クディムカル" Code="KUD"/>
+<City Name="クルガン" Code="KRO"/>
+<City Name="クルスク" Code="URS"/>
+<City Name="クズル" Code="KYZ"/>
+<City Name="リペツク" Code="LIP"/>
+<City Name="マガダン" Code="MAG"/>
+<City Name="マガス" Code="IN"/>
+<City Name="マハチカラ" Code="MCX"/>
+<City Name="マイコープ" Code="MAY"/>
+<City Name="モスクワ" Code="MOW"/>
+<City Name="ムルマンスク" Code="MMK"/>
+<City Name="ナリチク" Code="NAL"/>
+<City Name="ナリヤン・マル" Code="NNM"/>
+<City Name="ニジニ・ノヴゴロド" Code="GOJ"/>
+<City Name="ノヴォシビルスク" Code="NVS"/>
+<City Name="オムスク" Code="OMS"/>
+<City Name="オリョール" Code="ORL"/>
+<City Name="オレンブルク" Code="ORE"/>
+<City Name="パラナ" Code="PAL"/>
+<City Name="ペンザ" Code="PNZ"/>
+<City Name="ペルミ" Code="PER"/>
+<City Name="ペトロパブロフスク・カムチャツキー" Code="PKC"/>
+<City Name="ペトロザヴォーツク" Code="PES"/>
+<City Name="プスコフ" Code="PSK"/>
+<City Name="ロストフ・ナ・ドヌ" Code="ROS"/>
+<City Name="リャザン" Code="RYA"/>
+<City Name="サレハルド" Code="SLY"/>
+<City Name="サマーラ" Code="SAM"/>
+<City Name="サランスク" Code="SKX"/>
+<City Name="サラトフ" Code="SAR"/>
+<City Name="スモレンスク" Code="LNX"/>
+<City Name="サンクトペテルブルク" Code="SPE"/>
+<City Name="スタヴロポリ" Code="STA"/>
+<City Name="スィクティフカル" Code="SCW"/>
+<City Name="スィクティフカル" Code="TAM"/>
+<City Name="トムスク" Code="TOM"/>
+<City Name="トゥーラ" Code="TUL"/>
+<City Name="トヴェリ" Code="TVE"/>
+<City Name="チュメニ" Code="TYU"/>
+<City Name="ウファ" Code="UFA"/>
+<City Name="ウラン・ウデ" Code="UUD"/>
+<City Name="ウリヤノフスク" Code="ULY"/>
+<City Name="ウスチオルディンスキー" Code="UOB"/>
+<City Name="ノヴゴロド" Code="VUS"/>
+<City Name="ウラジカフカス" Code="VLA"/>
+<City Name="ウラジーミル" Code="VMR"/>
+<City Name="ウラジオストク" Code="VVO"/>
+<City Name="ヴォルゴグラード" Code="VOG"/>
+<City Name="ヴォログダ" Code="VLG"/>
+<City Name="ヴォロネジ" Code="VOR"/>
+<City Name="ヨシュカル・オラ" Code="YOL"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ルワンダ" Code="RWA">
+    <State>
+<City Name="ブタレ" Code="BU"/>
+<City Name="ビュンバ" Code="BY"/>
+<City Name="チャンググ" Code="CY"/>
+<City Name="ギコンゴロ" Code="GK"/>
+<City Name="ギセニ" Code="GS"/>
+<City Name="ギタラマ" Code="GT"/>
+<City Name="カブガ" Code="KA"/>
+<City Name="キブンゴ" Code="KG"/>
+<City Name="キブエ" Code="KY"/>
+<City Name="キガリ郊外" Code="KR"/>
+<City Name="キガリ" Code="KV"/>
+<City Name="ニャンザ" Code="NY"/>
+<City Name="ルハンゴ" Code="RH"/>
+<City Name="ルヘンゲリ" Code="RU"/>
+<City Name="ルワマガ" Code="RW"/>
+<City Name="ウムタラ" Code="UM"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="サモア" Code="WSM"/>
+<CountryRegion Name="サンマリノ" Code="SMR"/>
+<CountryRegion Name="サントメ・プリンシペ" Code="STP"/>
+<CountryRegion Name="サウジアラビア" Code="SAU">
+    <State>
+<City Name="アブハー" Code="AHB"/>
+<City Name="バーハ州" Code="BH"/>
+<City Name="フフーフ" Code="HFF"/>
+<City Name="ジュバイル" Code="JBI"/>
+<City Name="アル カルジ" Code="AKH"/>
+<City Name="ムバッラズ" Code="MBR"/>
+<City Name="アラー" Code="ARA"/>
+<City Name="タリフ" Code="TAR"/>
+<City Name="ブライダフ" Code="BUR"/>
+<City Name="ダンマーム" Code="DAM"/>
+<City Name="ハフル アル バティン" Code="HBT"/>
+<City Name="ハーイル" Code="HL"/>
+<City Name="ジッダ" Code="JED"/>
+<City Name="ジーザーン" Code="JZ"/>
+<City Name="ハミース・ムシャイト" Code="KMX"/>
+<City Name="メッカ" Code="ML"/>
+<City Name="マディーナ" Code="MED"/>
+<City Name="ナジュラーン" Code="NR"/>
+<City Name="リヤード" Code="RD"/>
+<City Name="サカーカ" Code="SAK"/>
+<City Name="タブーク" Code="TB"/>
+<City Name="ヤンブー・アルバフル" Code="YNB"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="セネガル" Code="SEN">
+    <State>
+<City Name="ダカール" Code="DA"/>
+<City Name="ディウルベル" Code="DI"/>
+<City Name="ファティック" Code="FA"/>
+<City Name="カオラック" Code="KA"/>
+<City Name="コルダ" Code="KO"/>
+<City Name="ルーガ" Code="LO"/>
+<City Name="マタム" Code="MA"/>
+<City Name="サンルイ" Code="SL"/>
+<City Name="タンバクンダ" Code="TA"/>
+<City Name="ティエス" Code="TH"/>
+<City Name="ジガンショール" Code="ZI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="セルビア、モンテネグロ" Code="SCG">
+    <State>
+<City Name="ベオグラード" Code="BEG"/>
+<City Name="クラグイェヴァツ" Code="KGV"/>
+<City Name="ニシュ" Code="INI"/>
+<City Name="ノヴィ・サド" Code="NVS"/>
+<City Name="ポドゴリツァ" Code="POD"/>
+<City Name="プリシュティナ" Code="PRN"/>
+<City Name="スボティツァ" Code="SUB"/>
+<City Name="ゼムン" Code="ZEM"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="セイシェル" Code="SYC"/>
+<CountryRegion Name="シエラレオネ" Code="SLE">
+    <State>
+<City Name="東部州" Code="E"/>
+<City Name="北部州" Code="N"/>
+<City Name="南部州" Code="S"/>
+<City Name="西部地域" Code="W"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="シンガポール" Code="SGP"/>
+<CountryRegion Name="スロバキア" Code="SVK">
+    <State>
+<City Name="バンスカー・ビストリツァ" Code="BBY"/>
+<City Name="ブラチスラヴァ" Code="BTS"/>
+<City Name="コリキー" Code="KOR"/>
+<City Name="ニトラ" Code="NRA"/>
+<City Name="プレロヴァ" Code="POV"/>
+<City Name="リラ" Code="RIL"/>
+<City Name="トレナ" Code="TRE"/>
+<City Name="トルナヴァ" Code="TNA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="スロベニア" Code="SVN">
+    <State>
+<City Name="ドレンスカ地方" Code="DLJ"/>
+<City Name="ゴレンスカ地方" Code="GSZ"/>
+<City Name="ゴリシュカ" Code="GSK"/>
+<City Name="コロシュカ地方" Code="KOR"/>
+<City Name="ノトランスカ地方" Code="NKR"/>
+<City Name="オバルノクラシュカ" Code="OKR"/>
+<City Name="オスレンドネスロヴェンスカ" Code="OSR"/>
+<City Name="ポドラヴィナ" Code="POD"/>
+<City Name="ポムルシュカ" Code="POM"/>
+<City Name="サヴィンシュカ" Code="SAV"/>
+<City Name="スポドネポサヴァスカ" Code="SPO"/>
+<City Name="ザサヴァスカ" Code="ZAS"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ソロモン諸島" Code="SLB">
+    <State>
+<City Name="中央州" Code="CE"/>
+<City Name="チョイスル州" Code="CH"/>
+<City Name="ガダルカナル州" Code="GC"/>
+<City Name="ホニアラ" Code="HO"/>
+<City Name="イサベル州" Code="IS"/>
+<City Name="マキラ・ウラワ州" Code="MK"/>
+<City Name="マライタ州" Code="ML"/>
+<City Name="レンネル・ベローナ州" Code="RB"/>
+<City Name="テモツ州" Code="TM"/>
+<City Name="西部州" Code="WE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ソマリア" Code="SOM"/>
+<CountryRegion Name="南アフリカ" Code="ZAF">
+    <State>
+<City Name="バークリー イースト" Code="BAE"/>
+<City Name="ボーフォート・ウェスト" Code="BEW"/>
+<City Name="ビショ" Code="BIY"/>
+<City Name="ブルームフォンテーン" Code="BFN"/>
+<City Name="ブレダスドルプ" Code="BDD"/>
+<City Name="ブロンコーストスプルート" Code="BHT"/>
+<City Name="ケープタウン" Code="CPT"/>
+<City Name="デ・アール" Code="DAA"/>
+<City Name="ダンディー" Code="DUN"/>
+<City Name="ダーバン" Code="DUR"/>
+<City Name="イースト・ロンドン" Code="ELS"/>
+<City Name="ジョージ" Code="GRJ"/>
+<City Name="ジヤニ" Code="GIY"/>
+<City Name="グロブレダル" Code="GBD"/>
+<City Name="イクソポ" Code="IXO"/>
+<City Name="ヨハネスブルグ" Code="JNB"/>
+<City Name="キンバリー" Code="KIM"/>
+<City Name="クレルクスドルプ" Code="KXE"/>
+<City Name="クルマン" Code="KMH"/>
+<City Name="レディスミス" Code="LAY"/>
+<City Name="ミッデルバーグ" Code="MDB"/>
+<City Name="ムクゼ" Code="MZQ"/>
+<City Name="モーレースバーグ" Code="MOO"/>
+<City Name="マウント・アイリフ" Code="MAY"/>
+<City Name="ネルスプロイト" Code="NLP"/>
+<City Name="ニューカッスル" Code="NCS"/>
+<City Name="ニルストルーム" Code="NYL"/>
+<City Name="ピーターマリッツバーグ" Code="PZB"/>
+<City Name="ピーターズバーグ" Code="PTG"/>
+<City Name="ポート・エリザベス" Code="PLZ"/>
+<City Name="ポート・シェプスト" Code="PSS"/>
+<City Name="プレトリア" Code="PRY"/>
+<City Name="クイーンズタウン" Code="UTW"/>
+<City Name="ラントフォンテイン" Code="RFT"/>
+<City Name="リチャーズ・ベイ" Code="RCB"/>
+<City Name="ルステンブルク" Code="RSB"/>
+<City Name="サソルバーグ" Code="SAS"/>
+<City Name="セクンダ" Code="ZEC"/>
+<City Name="スプリングボック" Code="SBU"/>
+<City Name="トホイアンドゥー" Code="THY"/>
+<City Name="ツァマハシェ" Code="TLH"/>
+<City Name="トロンプスバーグ" Code="TPB"/>
+<City Name="ウルンディ" Code="ULD"/>
+<City Name="ウムタタ" Code="UTT"/>
+<City Name="アピントン" Code="UTN"/>
+<City Name="フェリーニヒング" Code="VGG"/>
+<City Name="フライバーグ" Code="VRU"/>
+<City Name="ウェルコム" Code="WEL"/>
+<City Name="ウィツィーショーク" Code="WSH"/>
+<City Name="ウスター" Code="WOR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="南ジョージア島・南サンドイッチ諸島" Code="SGS"/>
+<CountryRegion Name="スペイン" Code="ESP">
+    <State>
+<City Name="アラバ" Code="ALA"/>
+<City Name="アルバセテ" Code="ALB"/>
+<City Name="アリカンテ" Code="ALC"/>
+<City Name="アルメリア" Code="LEI"/>
+<City Name="アストゥリアス" Code="AST"/>
+<City Name="アビラ" Code="AVI"/>
+<City Name="バダホス" Code="BJZ"/>
+<City Name="バレアレス" Code="BLR"/>
+<City Name="バルセロナ" Code="BCN"/>
+<City Name="ブルゴス" Code="BUR"/>
+<City Name="カセレス" Code="CCS"/>
+<City Name="カディス" Code="CAD"/>
+<City Name="カステリョン" Code="CAS"/>
+<City Name="シウダードレアル" Code="CIR"/>
+<City Name="コルドバ" Code="ODB"/>
+<City Name="クエンカ" Code="CUE"/>
+<City Name="ジローナ" Code="GRO"/>
+<City Name="グラナダ" Code="GRX"/>
+<City Name="グアダラハラ" Code="GUA"/>
+<City Name="ギプスコア" Code="GUI"/>
+<City Name="ウエルバ" Code="HUV"/>
+<City Name="ウエスカ" Code="HUC"/>
+<City Name="ハエン" Code="JAE"/>
+<City Name="ア・コルーニャ" Code="LCG"/>
+<City Name="ラ・リオハ" Code="ARL"/>
+<City Name="ラス・パルマス" Code="LPA"/>
+<City Name="レオン" Code="LEN"/>
+<City Name="リェイダ" Code="LLE"/>
+<City Name="マドリード" Code="MAD"/>
+<City Name="マラガ" Code="AGP"/>
+<City Name="ムルシア" Code="MJV"/>
+<City Name="ナバーラ" Code="NVV"/>
+<City Name="オウレンセ" Code="ORE"/>
+<City Name="パレンシア" Code="PAC"/>
+<City Name="ルーゴ" Code="LGO"/>
+<City Name="ポンテベドラ" Code="PEV"/>
+<City Name="ポンテベドラ" Code="SLM"/>
+<City Name="サンタ・クルス・デ・テネリフェ" Code="SCT"/>
+<City Name="サンタンデール" Code="SDR"/>
+<City Name="セゴビア" Code="SEG"/>
+<City Name="セビリャ" Code="SVQ"/>
+<City Name="ソリア" Code="SOR"/>
+<City Name="タラゴナ" Code="TAR"/>
+<City Name="テルエル" Code="TER"/>
+<City Name="トレド" Code="TOL"/>
+<City Name="バレンシア" Code="VLC"/>
+<City Name="バリャドリッド" Code="VLL"/>
+<City Name="ビルバオ" Code="VSE"/>
+<City Name="サモラ" Code="ZMR"/>
+<City Name="サラゴサ" Code="ZAZ"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="スリランカ" Code="LKA">
+    <State>
+<City Name="アンパラ" Code="AMP"/>
+<City Name="アヌラーダプラ" Code="ADP"/>
+<City Name="バドゥーラ" Code="BAD"/>
+<City Name="バティカロア" Code="BTC"/>
+<City Name="コロンボ" Code="CMB"/>
+<City Name="ガル" Code="GAL"/>
+<City Name="ガンパハ" Code="GAM"/>
+<City Name="ハンバントタ" Code="HBA"/>
+<City Name="ジャフナ" Code="JAF"/>
+<City Name="カルタラ" Code="KLT"/>
+<City Name="キャンディ" Code="KAN"/>
+<City Name="キャーガッラ" Code="KEG"/>
+<City Name="キリノッチ" Code="KIL"/>
+<City Name="クルネガラ" Code="KUR"/>
+<City Name="マンナル" Code="MAN"/>
+<City Name="マタレ" Code="MAT"/>
+<City Name="マタラ" Code="MAA"/>
+<City Name="モナラガラ" Code="MON"/>
+<City Name="ムラティブ" Code="MUL"/>
+<City Name="ヌワラエリア" Code="NUE"/>
+<City Name="ポロンナルワ" Code="POL"/>
+<City Name="プッタラム" Code="PUT"/>
+<City Name="ラトナプラ" Code="RAT"/>
+<City Name="トリンコマリー" Code="TRR"/>
+<City Name="バブニヤ" Code="VAV"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="セントヘレナ島" Code="SHN"/>
+<CountryRegion Name="セントキッツ・ネイビス" Code="KNA"/>
+<CountryRegion Name="セントルシア" Code="LCA"/>
+<CountryRegion Name="サンピエール・ミクロン" Code="SPM"/>
+<CountryRegion Name="セントビンセントおよびグレナディーン諸島" Code="VCT"/>
+<CountryRegion Name="スーダン" Code="SDN">
+    <State>
+<City Name="アーリーアンニール州" Code="ANB"/>
+<City Name="ワスタ" Code="WDH"/>
+<City Name="イスティワーイーヤ州" Code="SIS"/>
+<City Name="ハルツーム" Code="KRT"/>
+<City Name="アシュシャーマリヤー" Code="ASH"/>
+<City Name="シャルキーヤ" Code="SHA"/>
+<City Name="バハル・アル・ガザール" Code="SBG"/>
+<City Name="ダルフール" Code="SDA"/>
+<City Name="コルドファン" Code="GKU"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="スリナム" Code="SUR">
+    <State>
+<City Name="ブロコポンド" Code="BR"/>
+<City Name="コメウィネ" Code="CM"/>
+<City Name="コロニー" Code="CR"/>
+<City Name="マロウィネ" Code="MA"/>
+<City Name="ニッケリエ" Code="NI"/>
+<City Name="パラ" Code="PA"/>
+<City Name="パラマリボ" Code="PM"/>
+<City Name="サラマッカ" Code="SA"/>
+<City Name="シパリウィニ" Code="SI"/>
+<City Name="ワニカ" Code="WA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="スバールバル諸島・ヤンマイエン島" Code="SJM"/>
+<CountryRegion Name="スワジランド" Code="SWZ"/>
+<CountryRegion Name="スウェーデン" Code="SWE">
+    <State>
+<City Name="ブレーキンゲ県" Code="K"/>
+<City Name="ダーラナ県" Code="DLN"/>
+<City Name="ゴットランド県" Code="X"/>
+<City Name="イェヴレボリ県" Code="I"/>
+<City Name="ハッランド県" Code="N"/>
+<City Name="イェムトランド県" Code="Z"/>
+<City Name="ヨンショーピング県" Code="F"/>
+<City Name="カルマル" Code="H"/>
+<City Name="クロノベリ" Code="G"/>
+<City Name="ノールボッテン" Code="BD"/>
+<City Name="オレブロ県" Code="T"/>
+<City Name="スコーネ県" Code="M"/>
+<City Name="セーデルマンランド" Code="D"/>
+<City Name="ストックホルム" Code="AB"/>
+<City Name="ウプサラ" Code="C"/>
+<City Name="エステルイェートランド" Code="UGL"/>
+<City Name="ヴェルムランド県" Code="S"/>
+<City Name="ヴェステルボッテン県" Code="AC"/>
+<City Name="ヴェステルノールランド県" Code="Y"/>
+<City Name="ヴェストマンランド県" Code="U"/>
+<City Name="ヴェストラ・イェータランド県" Code="O"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="スイス" Code="CHE">
+    <State>
+<City Name="アールガウ" Code="AG"/>
+<City Name="アッペンツェル・アウサーローデン" Code="AR"/>
+<City Name="アッペンツェル・インナーローデン" Code="AI"/>
+<City Name="バーゼル＝ラント" Code="BL"/>
+<City Name="バーゼル＝シュタット" Code="BS"/>
+<City Name="ベルン" Code="BE"/>
+<City Name="フライブルク" Code="FR"/>
+<City Name="ジュネーヴ" Code="GE"/>
+<City Name="グラールス" Code="GL"/>
+<City Name="グラウビュンデン" Code="GR"/>
+<City Name="ジュラ" Code="JU"/>
+<City Name="ローザンヌ" Code="LA"/>
+<City Name="ルツェルン" Code="LU"/>
+<City Name="ヌーシャテル" Code="NE"/>
+<City Name="ニトヴァルデン" Code="NW"/>
+<City Name="オプヴァルデン" Code="OW"/>
+<City Name="シャフハウゼン" Code="SH"/>
+<City Name="シュヴィーツ" Code="SZ"/>
+<City Name="ゾロトゥルン" Code="SO"/>
+<City Name="ザンクト・ガレン" Code="SG"/>
+<City Name="トゥールガウ" Code="TG"/>
+<City Name="ティチーノ" Code="TI"/>
+<City Name="ウーリ" Code="UR"/>
+<City Name="ヴォー" Code="VD"/>
+<City Name="ヴァレー" Code="VS"/>
+<City Name="ツーク" Code="ZG"/>
+<City Name="チューリヒ" Code="ZH"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="シリア" Code="SYR">
+    <State>
+<City Name="ガブ" Code="GH"/>
+<City Name="ハサカ" Code="HA"/>
+<City Name="ラタキア" Code="LA"/>
+<City Name="クネイトゥラ" Code="QU"/>
+<City Name="カーミシュリー" Code="QA"/>
+<City Name="ラッカ" Code="RQ"/>
+<City Name="スワイダー" Code="SU"/>
+<City Name="ダルアー" Code="DA"/>
+<City Name="デリゾール" Code="DZ"/>
+<City Name="アレッポ" Code="HL"/>
+<City Name="ハマー" Code="HM"/>
+<City Name="ホムス" Code="HI"/>
+<City Name="イドリブ" Code="ID"/>
+<City Name="ディマシュク" Code="DI"/>
+<City Name="ディマシュク" Code="RD"/>
+<City Name="タルトゥース" Code="TA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="タジキスタン" Code="TJK">
+    <State>
+<City Name="ドゥシャンベ" Code="DYU"/>
+<City Name="イスファラ" Code="ISF"/>
+<City Name="カニバダム" Code="KAN"/>
+<City Name="ホログ" Code="KHO"/>
+<City Name="ホジェンド" Code="KHU"/>
+<City Name="バハダト" Code="KOF"/>
+<City Name="クリャーブ" Code="KLB"/>
+<City Name="クルガンチュベ" Code="KTJ"/>
+<City Name="ヌレク" Code="NUR"/>
+<City Name="ペンジケント" Code="PJK"/>
+<City Name="ログン" Code="RGU"/>
+<City Name="サルバンド" Code="SBA"/>
+<City Name="タボシャール" Code="TBS"/>
+<City Name="ツルスンゾダ" Code="TSZ"/>
+<City Name="ウラ・チュベ" Code="UTJ"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="タンザニア" Code="TZA">
+    <State>
+<City Name="アルーシャ州" Code="AR"/>
+<City Name="ダルエスサラーム州" Code="DS"/>
+<City Name="ドドマ州" Code="DO"/>
+<City Name="イリンガ州" Code="IR"/>
+<City Name="カゲラ州" Code="KA"/>
+<City Name="ペンバ北部州" Code="PN"/>
+<City Name="ザンジバル北部州" Code="UN"/>
+<City Name="キゴマ州" Code="KI"/>
+<City Name="キリマンジャロ州" Code="KJ"/>
+<City Name="ペンバ南部州" Code="PS"/>
+<City Name="ザンジバル中部・南部州" Code="US"/>
+<City Name="リンディ" Code="LN"/>
+<City Name="マニャラ州" Code="MY"/>
+<City Name="マラ州" Code="MR"/>
+<City Name="ムベヤ州" Code="MB"/>
+<City Name="ザンジバル都市部・西部州" Code="MM"/>
+<City Name="モロゴロ州" Code="MO"/>
+<City Name="ムトワラ州" Code="MT"/>
+<City Name="ムワンザ州" Code="MW"/>
+<City Name="プワニ州" Code="PW"/>
+<City Name="ルクワ州" Code="RK"/>
+<City Name="ルヴマ州" Code="RV"/>
+<City Name="シニャンガ州" Code="SH"/>
+<City Name="シンギダ州" Code="SI"/>
+<City Name="タボーラ州" Code="TB"/>
+<City Name="タンガ州" Code="TN"/>
+<City Name="ザンジバル" Code="ZN"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="タイ" Code="THA">
+    <State>
+<City Name="アムナートチャロン" Code="37"/>
+<City Name="アントン" Code="15"/>
+<City Name="バンコク" Code="10"/>
+<City Name="ブリラム" Code="31"/>
+<City Name="チャチューンサ" Code="24"/>
+<City Name="チャイナット" Code="18"/>
+<City Name="チャイヤプム" Code="36"/>
+<City Name="チャンタブリー" Code="22"/>
+<City Name="チェンマイ" Code="50"/>
+<City Name="チエンラーイ" Code="57"/>
+<City Name="チョンブリー" Code="20"/>
+<City Name="チュムポーン" Code="86"/>
+<City Name="カーラシン" Code="46"/>
+<City Name="カムペーンペット" Code="62"/>
+<City Name="カーンチャナブリ" Code="71"/>
+<City Name="コーンケーン" Code="40"/>
+<City Name="クラビー" Code="81"/>
+<City Name="ランプーン" Code="51"/>
+<City Name="ルーイ" Code="42"/>
+<City Name="ロッブリー" Code="16"/>
+<City Name="メーホーンソーン" Code="58"/>
+<City Name="マハーサーラカーム" Code="44"/>
+<City Name="ムックダーハーン" Code="49"/>
+<City Name="ナコーンナーヨック" Code="26"/>
+<City Name="ナコーンパトム" Code="73"/>
+<City Name="ナコーンパノム" Code="48"/>
+<City Name="ナコーンサワン" Code="60"/>
+<City Name="ナコーンシータマラート" Code="80"/>
+<City Name="ナン" Code="55"/>
+<City Name="ナラーティワート" Code="96"/>
+<City Name="ノーンブワラムプー" Code="39"/>
+<City Name="ノーンカーイ" Code="43"/>
+<City Name="ノンタブリー" Code="12"/>
+<City Name="パトンタニ" Code="13"/>
+<City Name="パッターニー" Code="94"/>
+<City Name="パンガー" Code="82"/>
+<City Name="パッタルン" Code="93"/>
+<City Name="パヤオ" Code="56"/>
+<City Name="ペッチャブーン" Code="76"/>
+<City Name="ペッチャブリー" Code="78"/>
+<City Name="ピチット" Code="66"/>
+<City Name="ピッサヌローク" Code="65"/>
+<City Name="プラナコーンシアユタヤ" Code="14"/>
+<City Name="プレー" Code="54"/>
+<City Name="プーケット" Code="83"/>
+<City Name="プラーチーンブリー" Code="25"/>
+<City Name="プラチュアプキーリーカン" Code="77"/>
+<City Name="ラノーン" Code="85"/>
+<City Name="ラチャブリー" Code="70"/>
+<City Name="ラヨーン" Code="21"/>
+<City Name="ローイエット" Code="45"/>
+<City Name="サケーオ" Code="27"/>
+<City Name="サコンナコーン" Code="47"/>
+<City Name="サムットプラーカーン" Code="11"/>
+<City Name="サムット サコン" Code="74"/>
+<City Name="サムットソンクラーム" Code="75"/>
+<City Name="サラブリー" Code="19"/>
+<City Name="サトゥーン" Code="91"/>
+<City Name="シーサケート" Code="33"/>
+<City Name="シンブリー" Code="17"/>
+<City Name="ソンクラー" Code="90"/>
+<City Name="スコータイ" Code="64"/>
+<City Name="スパンブリ" Code="72"/>
+<City Name="スラータニ" Code="84"/>
+<City Name="スリン" Code="32"/>
+<City Name="ターク" Code="63"/>
+<City Name="トラン" Code="92"/>
+<City Name="トラート" Code="23"/>
+<City Name="Ubon Ratchathani" Code="34"/>
+<City Name="ウドーンターニー" Code="41"/>
+<City Name="ウタイターニー" Code="61"/>
+<City Name="ウタラディット" Code="53"/>
+<City Name="ヤラー" Code="95"/>
+<City Name="ヤソートーン" Code="35"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="東ティモール" Code="TLS">
+    <State>
+<City Name="アイレウ" Code="AL"/>
+<City Name="アイナロ" Code="AN"/>
+<City Name="アンベノ" Code="AM"/>
+<City Name="バウカウ" Code="BA"/>
+<City Name="ボボナロ" Code="BO"/>
+<City Name="バウカウ" Code="DI"/>
+<City Name="エルメラ" Code="ER"/>
+<City Name="コバリマ" Code="KO"/>
+<City Name="ラウテム" Code="LA"/>
+<City Name="リキサ" Code="LI"/>
+<City Name="マナトゥト" Code="MT"/>
+<City Name="モノファヒ" Code="MF"/>
+<City Name="ビクク" Code="VI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="トーゴ" Code="TGO">
+    <State>
+<City Name="中央州" Code="C"/>
+<City Name="カラ州" Code="K"/>
+<City Name="沿岸州" Code="M"/>
+<City Name="高原州" Code="P"/>
+<City Name="サヴァヌ州" Code="S"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="トケラウ諸島" Code="TKL"/>
+<CountryRegion Name="トンガ" Code="TON">
+    <State>
+<City Name="エウア" Code="E"/>
+<City Name="ハアパイ" Code="H"/>
+<City Name="ニウアス" Code="N"/>
+<City Name="トンガタプ" Code="T"/>
+<City Name="ヴァヴァウ" Code="V"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="トリニダード・トバゴ" Code="TTO"/>
+<CountryRegion Name="トリスタンダクーニャ諸島" Code="TAA"/>
+<CountryRegion Name="チュニジア" Code="TUN">
+    <State>
+<City Name="アリアナ" Code="AR"/>
+<City Name="ベジャ" Code="BJ"/>
+<City Name="ベンナラス" Code="BA"/>
+<City Name="ビゼルト" Code="BI"/>
+<City Name="ガベズ" Code="GB"/>
+<City Name="ガフサ" Code="GF"/>
+<City Name="ジェンドゥーバ" Code="JE"/>
+<City Name="ケルアン" Code="KR"/>
+<City Name="カスリーヌ" Code="KS"/>
+<City Name="ケビリ" Code="KB"/>
+<City Name="ケフ" Code="LK"/>
+<City Name="マーディア" Code="MH"/>
+<City Name="マヌーバ" Code="MN"/>
+<City Name="メドニン" Code="ME"/>
+<City Name="モナスティル" Code="MO"/>
+<City Name="ナブール" Code="NA"/>
+<City Name="スファックス" Code="SF"/>
+<City Name="シディブジッド" Code="SD"/>
+<City Name="シリアナ" Code="SL"/>
+<City Name="スース" Code="SO"/>
+<City Name="タタウイヌ" Code="TA"/>
+<City Name="トズール" Code="TO"/>
+<City Name="チュニス" Code="TU"/>
+<City Name="ザグアン" Code="ZA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="トルコ" Code="TUR">
+    <State>
+<City Name="アダナ" Code="ADA"/>
+<City Name="アドゥヤマン" Code="ADI"/>
+<City Name="アフヨン" Code="AFY"/>
+<City Name="アグリ" Code="AGR"/>
+<City Name="アクサライ" Code="AKS"/>
+<City Name="アマスィヤ" Code="AMA"/>
+<City Name="アンカラ" Code="ANK"/>
+<City Name="アンタルヤ" Code="ANT"/>
+<City Name="アルダハン" Code="ARD"/>
+<City Name="アルトウィン" Code="ART"/>
+<City Name="アイドゥン" Code="AYI"/>
+<City Name="バルケシル" Code="BAL"/>
+<City Name="バルトゥン" Code="BAR"/>
+<City Name="バトマン" Code="BAT"/>
+<City Name="バイブルト" Code="BAY"/>
+<City Name="ビレジク" Code="BIL"/>
+<City Name="ビンギョル" Code="BIN"/>
+<City Name="ビトリス" Code="BIT"/>
+<City Name="ボル" Code="BOL"/>
+<City Name="ブルドゥル" Code="BRD"/>
+<City Name="ブルサ" Code="BRS"/>
+<City Name="チャナッカレ" Code="CKL"/>
+<City Name="チャンクル" Code="CKR"/>
+<City Name="チョルム" Code="COR"/>
+<City Name="デニズリ" Code="DEN"/>
+<City Name="ディヤルバクル" Code="DIY"/>
+<City Name="エディルネ" Code="EDI"/>
+<City Name="エラズー" Code="ELA"/>
+<City Name="エルズィンジャン" Code="EZC"/>
+<City Name="エルズルム" Code="EZR"/>
+<City Name="エスキシェヒール" Code="ESK"/>
+<City Name="ガズィアンテプ" Code="GAZ"/>
+<City Name="ギレスン" Code="GIR"/>
+<City Name="ギュミュシュハネ" Code="GMS"/>
+<City Name="ハッカーリ" Code="HKR"/>
+<City Name="ハタイ" Code="HTY"/>
+<City Name="イチェル" Code="ICE"/>
+<City Name="イィドゥル" Code="IGD"/>
+<City Name="イスパルタ" Code="ISP"/>
+<City Name="イスタンブル" Code="IST"/>
+<City Name="イズミル" Code="IZM"/>
+<City Name="カフラマンマラシュ" Code="KAH"/>
+<City Name="カラビュク" Code="KRB"/>
+<City Name="カラマン" Code="KRM"/>
+<City Name="カルス" Code="KRS"/>
+<City Name="カスタモヌ" Code="KAS"/>
+<City Name="カイセリ" Code="KAY"/>
+<City Name="キリス" Code="KLS"/>
+<City Name="クルッカレ" Code="KRK"/>
+<City Name="クルクラレリ" Code="KLR"/>
+<City Name="クルシェヒル" Code="KRH"/>
+<City Name="エネズ コジャエリ" Code="KOC"/>
+<City Name="コンヤ" Code="KON"/>
+<City Name="キュタヒヤ" Code="KUT"/>
+<City Name="マラトヤ" Code="MAL"/>
+<City Name="マニサ" Code="MAN"/>
+<City Name="マルディン" Code="MAR"/>
+<City Name="ムーラ" Code="MUG"/>
+<City Name="ムシュ" Code="MUS"/>
+<City Name="ネウシェヒル" Code="NEV"/>
+<City Name="ニーデ" Code="NIG"/>
+<City Name="オルドゥ" Code="ORD"/>
+<City Name="リゼ" Code="RIZ"/>
+<City Name="サカリヤ" Code="SAK"/>
+<City Name="サムスン" Code="SAM"/>
+<City Name="シイルト" Code="SII"/>
+<City Name="スィノプ" Code="SIN"/>
+<City Name="シルナク" Code="SIR"/>
+<City Name="スィヴァス" Code="SIV"/>
+<City Name="テキルダー" Code="TEL"/>
+<City Name="トカト" Code="TOK"/>
+<City Name="トラブゾン" Code="TRA"/>
+<City Name="トゥンジェリ" Code="TUN"/>
+<City Name="ウルファ" Code="URF"/>
+<City Name="ウシャク" Code="USK"/>
+<City Name="ヴァン" Code="VAN"/>
+<City Name="ヨズガト" Code="YOZ"/>
+<City Name="ゾングルダク" Code="ZON"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="トルクメニスタン" Code="TKM">
+    <State>
+<City Name="アハル" Code="A"/>
+<City Name="アシガバート" Code="ASB"/>
+<City Name="バルカン" Code="B"/>
+<City Name="ダショグズ" Code="D"/>
+<City Name="レバプ" Code="L"/>
+<City Name="マル" Code="M"/>
+<City Name="バルカナバット" Code="NEB"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="タークス・カイコス諸島" Code="TCA"/>
+<CountryRegion Name="ツバル" Code="TUV"/>
+<CountryRegion Name="ウガンダ" Code="UGA">
+    <State>
+<City Name="アジュマニ" Code="ADJ"/>
+<City Name="アパッチ" Code="APC"/>
+<City Name="アルア" Code="ARU"/>
+<City Name="ブギリ" Code="BUG"/>
+<City Name="ブンディブギョ" Code="BUN"/>
+<City Name="ブシェニ" Code="BSH"/>
+<City Name="ブシア" Code="BUS"/>
+<City Name="グル" Code="GUL"/>
+<City Name="ホイマ" Code="HOI"/>
+<City Name="イガンガ" Code="IGA"/>
+<City Name="ジンジャ" Code="JIN"/>
+<City Name="カバレ" Code="KBL"/>
+<City Name="カバロレ" Code="KAR"/>
+<City Name="カベラマイド" Code="KAB"/>
+<City Name="カランガラ" Code="KAL"/>
+<City Name="カンパラ" Code="KMP"/>
+<City Name="カムリ" Code="KML"/>
+<City Name="カムウェンゲ" Code="KAM"/>
+<City Name="カヌング" Code="KAN"/>
+<City Name="カプチョルワ" Code="KPC"/>
+<City Name="カセセ" Code="KAS"/>
+<City Name="カタクイ" Code="KTK"/>
+<City Name="カユンガ" Code="KAY"/>
+<City Name="キバレ" Code="KBA"/>
+<City Name="キボガ" Code="KIB"/>
+<City Name="キソロ" Code="KIS"/>
+<City Name="キトゥグム" Code="KIT"/>
+<City Name="コティド" Code="KOT"/>
+<City Name="クミ" Code="KUM"/>
+<City Name="キエンジョジョ" Code="KYE"/>
+<City Name="リラ" Code="LIR"/>
+<City Name="ルウェロ" Code="LUW"/>
+<City Name="マサカ" Code="MAS"/>
+<City Name="マシンディ" Code="MSN"/>
+<City Name="マユゲ" Code="MAY"/>
+<City Name="ムバレ" Code="MBA"/>
+<City Name="ムバララ" Code="MBR"/>
+<City Name="モロト" Code="MRT"/>
+<City Name="モヨ" Code="MOY"/>
+<City Name="ムピジ" Code="MPI"/>
+<City Name="ムベンデ" Code="MUB"/>
+<City Name="ムコノ" Code="MUK"/>
+<City Name="ナカピリピリ" Code="NAK"/>
+<City Name="ナカソンゴラ" Code="NKS"/>
+<City Name="ネビ" Code="NEB"/>
+<City Name="ントゥンガモ" Code="NTU"/>
+<City Name="パデル" Code="PAD"/>
+<City Name="パリサ" Code="PAL"/>
+<City Name="ラカイ" Code="RAK"/>
+<City Name="ルクンギリ" Code="RUK"/>
+<City Name="センバブレ" Code="SEM"/>
+<City Name="シロンコ" Code="SIR"/>
+<City Name="ソロティ" Code="SOR"/>
+<City Name="トロロ" Code="TOR"/>
+<City Name="ワキソ" Code="WAK"/>
+<City Name="ユンベ" Code="YUM"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ウクライナ" Code="UKR">
+    <State>
+<City Name="チェルカースィ" Code="71"/>
+<City Name="チェルニーヒウ" Code="74"/>
+<City Name="チェルニウツィー" Code="77"/>
+<City Name="ドニプロペトロウシク" Code="12"/>
+<City Name="ドネツィク" Code="14"/>
+<City Name="イヴァーノ＝フランキーウシク" Code="26"/>
+<City Name="ハルキウ" Code="63"/>
+<City Name="ヘルソン" Code="65"/>
+<City Name="フメリヌィツィクィイ" Code="68"/>
+<City Name="キロヴォフラード" Code="35"/>
+<City Name="キエフ" Code="30"/>
+<City Name="ルハンシク" Code="9"/>
+<City Name="リヴィウ" Code="46"/>
+<City Name="ムィコラーイウ" Code="48"/>
+<City Name="オデッサ" Code="51"/>
+<City Name="ポルタヴァ" Code="53"/>
+<City Name="クリミア" Code="43"/>
+<City Name="リヴネ" Code="56"/>
+<City Name="スムィ" Code="59"/>
+<City Name="テルノーピリ" Code="61"/>
+<City Name="ヴィーンヌィツャ" Code="5"/>
+<City Name="ボリン" Code="7"/>
+<City Name="ザカルパツカー" Code="21"/>
+<City Name="ザポリージャ" Code="23"/>
+<City Name="ジトームィル" Code="18"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="アラブ首長国連邦" Code="ARE">
+    <State>
+<City Name="アブダビ" Code="AZ"/>
+<City Name="アインアル" Code="AL"/>
+<City Name="シャールジャ" Code="SH"/>
+<City Name="ドバイ" Code="DU"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="英国" Code="GBR">
+<State Name="イングランド" Code="ENG">
+<City Name="バース" Code="BAS"/>
+<City Name="バーミンガム" Code="BIR"/>
+<City Name="ブラッドフォード" Code="BRD"/>
+<City Name="ブライトンアンドホーブ" Code="BNH"/>
+<City Name="ブリストル" Code="BST"/>
+<City Name="ケンブリッジ" Code="CAM"/>
+<City Name="カンタベリー" Code="CNG"/>
+<City Name="カーライル" Code="CAX"/>
+<City Name="チェスター" Code="CEG"/>
+<City Name="チチェスター" Code="CST"/>
+<City Name="コヴェントリー" Code="COV"/>
+<City Name="ダービー" Code="DER"/>
+<City Name="ダラム" Code="DUR"/>
+<City Name="イーリー" Code="ELY"/>
+<City Name="エクセター" Code="EXE"/>
+<City Name="グロスター" Code="GLO"/>
+<City Name="ヘレフォード" Code="HAF"/>
+<City Name="キングストン・アポン・ハル" Code="KUH"/>
+<City Name="ランカスター" Code="LAN"/>
+<City Name="リーズ" Code="LDS"/>
+<City Name="レスター" Code="LCE"/>
+<City Name="リッチフィールド" Code="LHF"/>
+<City Name="リンカン" Code="LCN"/>
+<City Name="リヴァプール" Code="LIV"/>
+<City Name="ロンドン" Code="LND"/>
+<City Name="マンチェスター" Code="MAN"/>
+<City Name="ニューカッスル" Code="NCL"/>
+<City Name="ノリッチ" Code="NRW"/>
+<City Name="ノッティンガム" Code="NGM"/>
+<City Name="オックスフォード" Code="OXF"/>
+<City Name="ピーターバラ" Code="PTE"/>
+<City Name="プリマス" Code="PLY"/>
+<City Name="ポーツマス" Code="POR"/>
+<City Name="プレストン" Code="PRE"/>
+<City Name="ra" Code="RIP"/>
+<City Name="セントアーバンス" Code="TBL"/>
+<City Name="サルフォード" Code="SLF"/>
+<City Name="サリスバリー" Code="SLS"/>
+<City Name="シェフィールド" Code="SHE"/>
+<City Name="サウサンプトン" Code="STH"/>
+<City Name="ストーク・オン・トレント" Code="SOT"/>
+<City Name="サンダーランド" Code="SUN"/>
+<City Name="トルロ" Code="TRU"/>
+<City Name="ウェークフィールド" Code="WKF"/>
+<City Name="ウェルズ" Code="WLS"/>
+<City Name="ウィンチェスター" Code="WNE"/>
+<City Name="ウォルヴァーハンプトン" Code="WOV"/>
+<City Name="ウスター" Code="WOR"/>
+<City Name="ヨーク" Code="YOR"/>
+    </State>
+<State Name="北アイルランド" Code="NIR">
+<City Name="ベルファスト" Code="BFS"/>
+<City Name="デリー" Code="DRY"/>
+<City Name="リズバーン" Code="LSB"/>
+<City Name="ニューリー" Code="NYM"/>
+    </State>
+<State Name="スコットランド" Code="SCT">
+<City Name="アバディーン" Code="ABD"/>
+<City Name="ダンディー" Code="DND"/>
+<City Name="エディンバラ" Code="EDH"/>
+<City Name="グラスゴー" Code="GLG"/>
+<City Name="インヴァネス" Code="INV"/>
+<City Name="スターリング" Code="STG"/>
+    </State>
+<State Name="ウェールズ" Code="WLS">
+<City Name="バンガー" Code="BAN"/>
+<City Name="カーディフ" Code="CDF"/>
+<City Name="ニューポート" Code="NWP"/>
+<City Name="スワンシー" Code="SWA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="米国" Code="USA">
+<State Name="アラバマ州" Code="AL">
+<City Name="バーミンガム" Code="BHM"/>
+<City Name="モービル" Code="MOB"/>
+<City Name="モンゴメリー" Code="MGM"/>
+    </State>
+<State Name="アラスカ州" Code="AK">
+<City Name="アンカレッジ" Code="ANC"/>
+<City Name="フェアバンクス" Code="FAI"/>
+<City Name="ジュノー" Code="JNU"/>
+    </State>
+<State Name="アリゾナ州" Code="AZ">
+<City Name="グレンデール" Code="GDA"/>
+<City Name="メサ" Code="MQA"/>
+<City Name="フェニックス" Code="PHX"/>
+<City Name="スコッツデール" Code="STZ"/>
+<City Name="テンピ" Code="TPE"/>
+<City Name="ツーソン" Code="TUC"/>
+<City Name="ユマ" Code="YUM"/>
+    </State>
+<State Name="アーカンソー州" Code="AR">
+<City Name="フェイエットビル" Code="FYV"/>
+<City Name="フォートスミス" Code="FSM"/>
+<City Name="リトルロック" Code="LIT"/>
+    </State>
+<State Name="カリフォルニア州" Code="CA">
+<City Name="ロサンゼルス" Code="LAX"/>
+<City Name="サンディエゴ" Code="SAN"/>
+<City Name="サンフランシスコ" Code="SFO"/>
+<City Name="サンノゼ" Code="SJC"/>
+    </State>
+<State Name="コロラド州" Code="CO">
+<City Name="アスペン" Code="ASE"/>
+<City Name="オーロラ" Code="AUX"/>
+<City Name="ボルダー" Code="WBU"/>
+<City Name="コロラド・スプリングス" Code="COS"/>
+<City Name="デンバー" Code="DEN"/>
+<City Name="フォート・コリンズ" Code="FNL"/>
+<City Name="グランドジャクション" Code="GJT"/>
+<City Name="ベイル" Code="VAC"/>
+    </State>
+<State Name="コネティカット州" Code="CT">
+<City Name="ブリッジポート" Code="BDR"/>
+<City Name="ダリエン" Code="DAQ"/>
+<City Name="グリーニッチダリエン" Code="GRH"/>
+<City Name="ハートフォード" Code="HFD"/>
+<City Name="ミドルタウン" Code="XIN"/>
+<City Name="ニューブリテン" Code="NWT"/>
+<City Name="ニューヘイブン" Code="HVN"/>
+<City Name="ウォーターバリ" Code="WAT"/>
+<City Name="ウエストポート" Code="WPT"/>
+    </State>
+<State Name="デラウェア州" Code="DE">
+<City Name="ドーバー" Code="DOR"/>
+<City Name="ニューアーク" Code="NWK"/>
+<City Name="ウィルミントン" Code="ILG"/>
+    </State>
+<State Name="コロンビア特別区" Code="DC">
+<City Name="ワシントン・コロンビア特別区" Code="WAS"/>
+    </State>
+<State Name="フロリダ" Code="FL">
+<City Name="ケイプカナベラル" Code="CPV"/>
+<City Name="フォートローダーデール" Code="FLL"/>
+<City Name="ジャクソンビル" Code="JAX"/>
+<City Name="キーウエスト" Code="EYW"/>
+<City Name="マイアミ" Code="MIA"/>
+<City Name="オーランド" Code="ORL"/>
+<City Name="セントピーターズバーグ" Code="PIE"/>
+<City Name="タラハシー" Code="TLH"/>
+<City Name="タンパ" Code="TPA"/>
+    </State>
+<State Name="グルジア" Code="GA">
+<City Name="アトランタ" Code="TAT"/>
+<City Name="オーガスタ" Code="AUT"/>
+<City Name="コロンバス" Code="CZX"/>
+<City Name="メイコン" Code="MCN"/>
+<City Name="サバンナ" Code="SAV"/>
+    </State>
+<State Name="ハワイ州" Code="HI">
+<City Name="ヒロ" Code="ITO"/>
+<City Name="ホノルル" Code="HNL"/>
+<City Name="カイルア" Code="KHH"/>
+    </State>
+<State Name="アイダホ州" Code="ID">
+<City Name="アメリカンフォールス" Code="YAF"/>
+<City Name="ブラックフット" Code="BLK"/>
+<City Name="ボイシ" Code="BOI"/>
+<City Name="コー・ダリーン" Code="COE"/>
+<City Name="アイダホフォールス" Code="IDA"/>
+<City Name="ケッチャム" Code="QKM"/>
+<City Name="ルイストン" Code="LWS"/>
+<City Name="モスクワ" Code="MJL"/>
+<City Name="マーフィ" Code="ZMU"/>
+<City Name="ナンパ" Code="NPA"/>
+<City Name="ポカテロ" Code="PIH"/>
+<City Name="サンバレー" Code="SVY"/>
+    </State>
+<State Name="イリノイ州" Code="IL">
+<City Name="アーリントン" Code="ALN"/>
+<City Name="オーロラ" Code="AUZ"/>
+<City Name="ブルーミントン" Code="BLO"/>
+<City Name="カーボンデール" Code="MDH"/>
+<City Name="セントラリア" Code="CRA"/>
+<City Name="シャンぺーン・アーバナ" Code="CMI"/>
+<City Name="シカゴ" Code="CHI"/>
+<City Name="ダンビル" Code="DVI"/>
+<City Name="デカルブ" Code="DEK"/>
+<City Name="ディケーター" Code="DEC"/>
+<City Name="イーストセントルイス" Code="ESL"/>
+<City Name="ゲイルズバーグ" Code="GSU"/>
+<City Name="ノーマル" Code="NOM"/>
+<City Name="ピオリア" Code="PLA"/>
+<City Name="ロックアイランド" Code="RKI"/>
+<City Name="ロックフォード" Code="RFD"/>
+<City Name="スプリングフィールド" Code="SPI"/>
+<City Name="ワキガン" Code="UGN"/>
+    </State>
+<State Name="インディアナ州" Code="IN">
+<City Name="シーダー・ラピッズ" Code="EVV"/>
+<City Name="フォートウェイン" Code="FWA"/>
+<City Name="インディアナポリス" Code="IND"/>
+    </State>
+<State Name="アイオワ州" Code="IA">
+<City Name="シーダー・ラピッズ" Code="CID"/>
+<City Name="ダベンポート" Code="DVN"/>
+<City Name="デモイン" Code="DSM"/>
+    </State>
+<State Name="カンザス州" Code="KS">
+<City Name="アビリーン" Code="ABZ"/>
+<City Name="ハッチンソン" Code="HCH"/>
+<City Name="カンザスシティ" Code="KCK"/>
+<City Name="ローレンス" Code="LWC"/>
+<City Name="レブンワース" Code="XIA"/>
+<City Name="マンハッタン" Code="MHK"/>
+<City Name="オーバーランド・パーク" Code="OVL"/>
+<City Name="トピカ" Code="TOP"/>
+<City Name="ウィチタ" Code="ICT"/>
+    </State>
+<State Name="ケンタッキー州" Code="KY">
+<City Name="レキシントン" Code="LEX"/>
+<City Name="ルイビル" Code="LUI"/>
+<City Name="オーエンズボロ" Code="OWB"/>
+    </State>
+<State Name="ルイジアナ州" Code="LA">
+<City Name="バトンルージュ" Code="BTR"/>
+<City Name="ニューオーリンズ" Code="MSY"/>
+<City Name="シュリーブポート" Code="SHV"/>
+    </State>
+<State Name="メイン州" Code="ME">
+<City Name="バンガー" Code="BNQ"/>
+<City Name="ルイストン" Code="QLW"/>
+<City Name="ポートランド" Code="POL"/>
+    </State>
+<State Name="メリーランド郡" Code="MD">
+<City Name="ボルチモア" Code="BAL"/>
+<City Name="ゲイザースバーグ" Code="GAI"/>
+<City Name="ロックビル" Code="RKV"/>
+    </State>
+<State Name="マサチューセッツ州" Code="MA">
+<City Name="ボストン" Code="BZD"/>
+<City Name="スプリングフィールド" Code="SFY"/>
+<City Name="ウスター" Code="ORH"/>
+    </State>
+<State Name="ミシガン州" Code="MI">
+<City Name="アナーバー" Code="ARB"/>
+<City Name="バトルクリーク" Code="BTL"/>
+<City Name="ベイシティ" Code="BCY"/>
+<City Name="ディアボーン" Code="DEO"/>
+<City Name="デトロイト" Code="DET"/>
+<City Name="フリント" Code="FNT"/>
+<City Name="グランドラピッズ" Code="GRR"/>
+<City Name="カルマズー" Code="AZO"/>
+<City Name="ランシング" Code="LAN"/>
+<City Name="マスキーゴン" Code="MKG"/>
+<City Name="ポンティアック" Code="PTK"/>
+<City Name="ポートヒューロン" Code="PHN"/>
+<City Name="サギノー" Code="SGM"/>
+<City Name="スーセントマリー" Code="SSM"/>
+<City Name="ウォーレン" Code="WAM"/>
+<City Name="ワイアンドット" Code="WYD"/>
+    </State>
+<State Name="ミネソタ州" Code="MN">
+<City Name="ミネアポリス" Code="MES"/>
+<City Name="ロチェスター" Code="RST"/>
+<City Name="セントポール" Code="STP"/>
+    </State>
+<State Name="ミシシッピ州" Code="MS">
+<City Name="ビロクシ" Code="BIX"/>
+<City Name="グリーンビル" Code="GLH"/>
+<City Name="ガルフポート" Code="GPT"/>
+<City Name="ハッティーズバーグ" Code="HBG"/>
+<City Name="ジャクソン" Code="JAN"/>
+<City Name="メリディアン" Code="MEI"/>
+<City Name="ヴィックスバーグ" Code="VKS"/>
+    </State>
+<State Name="ミズーリ州" Code="MO">
+<City Name="コロンビア" Code="COV"/>
+<City Name="ジェファーソンシティ" Code="JEF"/>
+<City Name="カンザスシティ" Code="MKC"/>
+<City Name="セントルイス" Code="STL"/>
+<City Name="スプリングフィールド" Code="SGF"/>
+    </State>
+<State Name="モンタナ" Code="MT">
+<City Name="ビリングス" Code="BGS"/>
+<City Name="グレートフォールズ" Code="GTF"/>
+<City Name="ミズーラ" Code="MSO"/>
+    </State>
+<State Name="ネブラスカ州" Code="NE">
+<City Name="ベルビュー" Code="XDE"/>
+<City Name="リンカン" Code="LNK"/>
+<City Name="オマハ" Code="OMA"/>
+    </State>
+<State Name="ネバダ州" Code="NV">
+<City Name="カーソンシティ" Code="CSN"/>
+<City Name="エルコ" Code="EKO"/>
+<City Name="ヘンダーソン" Code="HNZ"/>
+<City Name="ラスベガス" Code="LAS"/>
+<City Name="ノースラスベガス" Code="NVS"/>
+<City Name="リノ" Code="RNO"/>
+<City Name="スパークス" Code="SPK"/>
+<City Name="バージニアシティ" Code="VGI"/>
+    </State>
+<State Name="ニューハンプシャー州" Code="NH">
+<City Name="コンコード" Code="CON"/>
+<City Name="マンチェスター" Code="MHT"/>
+<City Name="ナシュア" Code="ASH"/>
+    </State>
+<State Name="ニュージャージー州" Code="NJ">
+<City Name="ジャージーシティ" Code="JEC"/>
+<City Name="ニューアーク" Code="NRK"/>
+<City Name="パターソン" Code="PAT"/>
+    </State>
+<State Name="ニューメキシコ州" Code="NM">
+<City Name="アルバカーキ" Code="ABQ"/>
+<City Name="ラスクルーセス" Code="LRU"/>
+<City Name="ロズウェル" Code="ROW"/>
+<City Name="サンタ・フェ" Code="SAF"/>
+    </State>
+<State Name="ニューヨーク" Code="NY">
+<City Name="バッファロー" Code="FFO"/>
+<City Name="ニューヨーク" Code="QEE"/>
+<City Name="ロチェスター" Code="ROC"/>
+    </State>
+<State Name="ノースカロライナ州" Code="NC">
+<City Name="アシュビル" Code="AEV"/>
+<City Name="チャペルヒル" Code="CHE"/>
+<City Name="シャーロット" Code="CRQ"/>
+<City Name="ダラム" Code="DHH"/>
+<City Name="グリーンズボロ" Code="GBO"/>
+<City Name="ラーリー" Code="RAG"/>
+<City Name="ラーリーダーラム" Code="RDU"/>
+    </State>
+<State Name="ノースダコタ州" Code="ND">
+<City Name="ビスマーク" Code="BIS"/>
+<City Name="ファーゴ" Code="FAR"/>
+<City Name="グランドフォークス" Code="GFK"/>
+<City Name="ミノット" Code="MOT"/>
+    </State>
+<State Name="オハイオ州" Code="OH">
+<City Name="シンシナティ" Code="CVG"/>
+<City Name="クリーブランド" Code="CLE"/>
+<City Name="コロンバス" Code="CZX"/>
+<City Name="デイトン" Code="DYT"/>
+<City Name="トレド" Code="TOL"/>
+    </State>
+<State Name="オクラホマ州" Code="OK">
+<City Name="ノーマン" Code="OUN"/>
+<City Name="オクラホマシティ" Code="OKC"/>
+<City Name="タルサ" Code="TUL"/>
+    </State>
+<State Name="オレゴン州" Code="OR">
+<City Name="ベンド" Code="BZO"/>
+<City Name="クースベイ" Code="COB"/>
+<City Name="コーバリス" Code="YCV"/>
+<City Name="クレーターレイク" Code="CTR"/>
+<City Name="ダラス" Code="DAC"/>
+<City Name="ユージーン" Code="EUG"/>
+<City Name="グランツパス" Code="XFX"/>
+<City Name="フッドリバー" Code="HDX"/>
+<City Name="メドフォード" Code="MFR"/>
+<City Name="ポートランド" Code="PDX"/>
+<City Name="セイラム" Code="SLE"/>
+<City Name="スプリングフィールド" Code="SPY"/>
+<City Name="セントヘレンズ" Code="STH"/>
+<City Name="ザ・ダレス" Code="DLS"/>
+<City Name="ティラモック" Code="TLM"/>
+    </State>
+<State Name="ペンシルベニア州" Code="PA">
+<City Name="アレンタウン" Code="AEW"/>
+<City Name="フィラデルフィア" Code="PHL"/>
+<City Name="ピッツバーグ" Code="PIT"/>
+    </State>
+<State Name="ロードアイランド州" Code="RI">
+<City Name="チャールズタウン" Code="CQH"/>
+<City Name="ニューポート" Code="NPO"/>
+<City Name="ポータケット" Code="PAW"/>
+<City Name="プロビデンス" Code="PVD"/>
+<City Name="ワーウィック" Code="UZO"/>
+<City Name="ウェスタリー" Code="WST"/>
+<City Name="ワーウィック" Code="SFN"/>
+    </State>
+<State Name="サウスカロライナ州" Code="SC">
+<City Name="チャールストン" Code="CHS"/>
+<City Name="コロンビア" Code="COV"/>
+<City Name="ノースチャールストン" Code="NTS"/>
+    </State>
+<State Name="サウスダコタ州" Code="SD">
+<City Name="アバディーン" Code="ABK"/>
+<City Name="ラピッドシティ" Code="RAP"/>
+<City Name="スーフォールズ" Code="FSD"/>
+    </State>
+<State Name="テネシー州" Code="TN">
+<City Name="ブリストル" Code="BSJ"/>
+<City Name="チャタヌーガ" Code="CHA"/>
+<City Name="ジョンソンシティ" Code="JCY"/>
+<City Name="キングスポート" Code="TRI"/>
+<City Name="ノックスビル" Code="TYS"/>
+<City Name="メンフィス" Code="MEM"/>
+<City Name="ナッシュビル" Code="BNA"/>
+<City Name="スマーナ" Code="MQY"/>
+<City Name="スプリングヒル" Code="RGI"/>
+<City Name="トライシティ" Code="YTC"/>
+    </State>
+<State Name="テキサス州" Code="TX">
+<City Name="オースティン" Code="AUS"/>
+<City Name="コーパスクリスティ" Code="CRP"/>
+<City Name="ダラス" Code="DAL"/>
+<City Name="エル・パソ" Code="ELP"/>
+<City Name="ガルブストン" Code="GLS"/>
+<City Name="ヒューストン" Code="HOU"/>
+<City Name="ラレド" Code="LRD"/>
+<City Name="マッカレン" Code="TXC"/>
+<City Name="サンアントニオ" Code="SAT"/>
+    </State>
+<State Name="ユタ州" Code="UT">
+<City Name="レイトン" Code="LTJ"/>
+<City Name="オグデン" Code="OGD"/>
+<City Name="オレム" Code="OEU"/>
+<City Name="パークシティ" Code="PAC"/>
+<City Name="プロボ" Code="PVU"/>
+<City Name="ソルトレイクシティ" Code="SLC"/>
+<City Name="セントジョージ" Code="SGU"/>
+<City Name="ウエストバレーシティー" Code="WVC"/>
+    </State>
+<State Name="バーモント州" Code="VT">
+<City Name="バーリントン" Code="BTV"/>
+<City Name="ルトランド" Code="RUT"/>
+<City Name="サウス・バーリントン" Code="ZBR"/>
+    </State>
+<State Name="バージニア州" Code="VA">
+<City Name="チェサピーク" Code="HTW"/>
+<City Name="ノーフォーク" Code="ORF"/>
+<City Name="バージニアビーチ" Code="VAB"/>
+    </State>
+<State Name="ワシントン州" Code="WA">
+<City Name="シアトル" Code="SEA"/>
+<City Name="スポケーン" Code="GEG"/>
+<City Name="タコマ" Code="TTW"/>
+    </State>
+<State Name="ウェストバージニア州" Code="WV">
+<City Name="チャールストン" Code="CRW"/>
+<City Name="ハンティングトン" Code="HNU"/>
+<City Name="パーカーズバーグ" Code="PKB"/>
+    </State>
+<State Name="ウィスコンシン州" Code="WI">
+<City Name="アップルトン" Code="ATW"/>
+<City Name="オークレア" Code="EAU"/>
+<City Name="グリーンベイ" Code="GBK"/>
+<City Name="ケノシャ" Code="ENW"/>
+<City Name="ラクロス" Code="LSE"/>
+<City Name="マディソン" Code="QMD"/>
+<City Name="マニトウォク" Code="MTW"/>
+<City Name="ミルウォーキー" Code="MKE"/>
+<City Name="オシュコシュ" Code="OSH"/>
+<City Name="ラシーン" Code="RAC"/>
+<City Name="シボイガン" Code="SBM"/>
+<City Name="ワウサウ" Code="AUW"/>
+    </State>
+<State Name="ワイオミング州" Code="WY">
+<City Name="キャスパー" Code="CPR"/>
+<City Name="シャイアン" Code="CYS"/>
+<City Name="エバンストン" Code="EVD"/>
+<City Name="ララミー" Code="LAR"/>
+<City Name="ロック・スプリングス" Code="RKS"/>
+<City Name="シェリダン" Code="SHR"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="合衆国領有小離島" Code="UMI"/>
+<CountryRegion Name="ウルグアイ" Code="URY">
+    <State>
+<City Name="アルティーガス" Code="AR"/>
+<City Name="カネロネス" Code="CA"/>
+<City Name="セロ・ラルゴ" Code="CL"/>
+<City Name="コロニア" Code="CO"/>
+<City Name="ドゥランソ" Code="DU"/>
+<City Name="フローレス" Code="FS"/>
+<City Name="フロリダ" Code="FA"/>
+<City Name="ラバジェハ" Code="LA"/>
+<City Name="マルドナド" Code="MA"/>
+<City Name="モンテビデオ" Code="MO"/>
+<City Name="パイサンドゥー" Code="PA"/>
+<City Name="リオ・ネグロ" Code="RN"/>
+<City Name="リベラ" Code="RV"/>
+<City Name="ロチャ" Code="RO"/>
+<City Name="サルト" Code="SL"/>
+<City Name="サンノゼ" Code="SJ"/>
+<City Name="ソリアノ" Code="SO"/>
+<City Name="タクアレンボー" Code="TAW"/>
+<City Name="トレインタ・イ・トレス" Code="TT"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ウズベキスタン" Code="UZB">
+    <State>
+<City Name="アンディジャン" Code="AN"/>
+<City Name="ブハラ" Code="BU"/>
+<City Name="フェルガナ" Code="FA"/>
+<City Name="ジザフ" Code="JI"/>
+<City Name="ナマンガン" Code="NG"/>
+<City Name="ナヴァーイー" Code="NW"/>
+<City Name="カシュカダリヤ" Code="QA"/>
+<City Name="カラカルパクスタン" Code="QR"/>
+<City Name="サマルカンド" Code="SA"/>
+<City Name="シルダリヤ" Code="SI"/>
+<City Name="スルハンダリヤ" Code="SU"/>
+<City Name="タシケント" Code="TK"/>
+<City Name="タシケント特別市" Code="TO"/>
+<City Name="ホラズム" Code="XO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="バヌアツ" Code="VUT">
+    <State>
+<City Name="マランパ" Code="MA"/>
+<City Name="パナマ" Code="PE"/>
+<City Name="サンマ" Code="SA"/>
+<City Name="シェファ" Code="SH"/>
+<City Name="タフェア" Code="TA"/>
+<City Name="トルバ" Code="TO"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="バチカン市国" Code="VAT"/>
+<CountryRegion Name="ベネズエラ" Code="VEN">
+    <State>
+<City Name="アマソナス" Code="Z"/>
+<City Name="アンソアテギ" Code="B"/>
+<City Name="アプレ" Code="C"/>
+<City Name="アラグア" Code="D"/>
+<City Name="バリナス" Code="E"/>
+<City Name="ボリーバル" Code="F"/>
+<City Name="カラボボ" Code="G"/>
+<City Name="カラカス" Code="A"/>
+<City Name="コヘデス" Code="H"/>
+<City Name="デルタ・アマクロ" Code="Y"/>
+<City Name="ディペンデンシアス・フェデラルス" Code="W"/>
+<City Name="エスタド・ヌエヴァ・エスパルタ" Code="O"/>
+<City Name="ファルコン" Code="I"/>
+<City Name="グアリコ" Code="J"/>
+<City Name="ララ" Code="K"/>
+<City Name="メリダ" Code="L"/>
+<City Name="ミランダ" Code="M"/>
+<City Name="モナガス" Code="N"/>
+<City Name="ポルトゥゲーサ" Code="P"/>
+<City Name="スクレ" Code="R"/>
+<City Name="タチラ" Code="S"/>
+<City Name="トルヒーリョ" Code="T"/>
+<City Name="ヤラクイ" Code="U"/>
+<City Name="スリア" Code="V"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ベトナム" Code="VNM">
+    <State>
+<City Name="ハイフォン" Code="HP"/>
+<City Name="ハノイ" Code="HI"/>
+<City Name="ホーチミン" Code="HC"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="米領バージン諸島" Code="VIR"/>
+<CountryRegion Name="英領バージン諸島" Code="VGB"/>
+<CountryRegion Name="ワリス・フテュナ諸島" Code="WLF"/>
+<CountryRegion Name="白ロシア" Code="BLR">
+    <State>
+<City Name="ブレスト州" Code="BR"/>
+<City Name="ホメリ州" Code="HO"/>
+<City Name="フロドナ州" Code="HR"/>
+<City Name="マヒリョウ州" Code="MA"/>
+<City Name="ミンスク" Code="MI"/>
+<City Name="ヴィーツェプスク州" Code="VI"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="イエメン" Code="YEM">
+    <State>
+<City Name="アビヤン" Code="AB"/>
+<City Name="アデン" Code="AD"/>
+<City Name="アッダリ" Code="DA"/>
+<City Name="アルバイダ" Code="BA"/>
+<City Name="アルフダイダ" Code="HU"/>
+<City Name="アルフダイダ" Code="JA"/>
+<City Name="アルマハラ" Code="MR"/>
+<City Name="アルマウィト" Code="MW"/>
+<City Name="アムラン・サヌア" Code="AM"/>
+<City Name="アッシュ・シール" Code="ASR"/>
+<City Name="ダマル" Code="DH"/>
+<City Name="ハドラマウト" Code="HD"/>
+<City Name="ハッジャ" Code="HJ"/>
+<City Name="イッブ" Code="IB"/>
+<City Name="ラヒジュ" Code="LA"/>
+<City Name="マアリブ" Code="MA"/>
+<City Name="サダ" Code="SD"/>
+<City Name="サヌア" Code="SN"/>
+<City Name="サユーン" Code="GXF"/>
+<City Name="シャブワ" Code="SH"/>
+<City Name="タイッズ" Code="TA"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ザンビア" Code="ZMB">
+    <State>
+<City Name="中央州" Code="CE"/>
+<City Name="カッパーベルト州" Code="CB"/>
+<City Name="東部州" Code="EA"/>
+<City Name="ルアプラ州" Code="LP"/>
+<City Name="ルサカ州" Code="LK"/>
+<City Name="北部州" Code="NO"/>
+<City Name="北西州" Code="NW"/>
+<City Name="南部州" Code="SO"/>
+<City Name="西部州" Code="WE"/>
+    </State>
+  </CountryRegion>
+<CountryRegion Name="ジンバブエ" Code="ZWE">
+    <State>
+<City Name="ブラワヨ市" Code="BU"/>
+<City Name="ハラレ市" Code="HA"/>
+<City Name="マニカランド州" Code="ML"/>
+<City Name="マショナランド中央州" Code="MC"/>
+<City Name="マショナランド東部州" Code="ME"/>
+<City Name="マショナランド西部州" Code="MW"/>
+<City Name="マスィンゴ州" Code="MV"/>
+<City Name="北マタベレランド州" Code="MN"/>
+<City Name="南マタベレランド州" Code="MS"/>
+<City Name="ミッドランズ州" Code="MD"/>
+    </State>
+  </CountryRegion>
+</Location>
