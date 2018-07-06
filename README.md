@@ -1,17 +1,19 @@
 # World Cities List
 
-Multilanguage list of countries, states & cities in XML format.
+Multilingual list of countries, states & cities in XML format.
 
 ## Language support
 
-* Chinese Simplified: zh-cn.xml
-* Chinese Traditional: zh-tw.xml
-* German: de.xml
-* English: en.xml
-* Spanish: es.xml
-* French: fr.xml
-* Japan: jp.xml
-* Korean: ko.xml
+| Language            | Code | File Name  |
+| ------------------- | ---- | ---------- |
+| Chinese Simplified  | 2052 | zh-cn.xml  |
+| Chinese Traditional | 1028 | zh-tw.xml  |
+| English             | 1033 | en.xml     |
+| German              | 1031 | de.xml     |
+| Spanish             | 3082 | es.xml     |
+| French              | 1036 | fr.xml     |
+| Japan               | 1041 | jp.xml     |
+| Korean              | 1042 | ko.xml     |
 
 ## Data Source
 
