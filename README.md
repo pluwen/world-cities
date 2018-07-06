@@ -17,7 +17,8 @@ Multilingual list of countries, states & cities in XML format.
 
 ## Data Source
 
-* QQ and QQ Int.
+* Basic data: QQ and QQ Int.
+* Detail data for China: [县级以上行政区划变更情况](http://xzqh.mca.gov.cn/description?dcpid=1)
 
 ## Contact
 
