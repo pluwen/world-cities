@@ -1285,6 +1285,7 @@
                 <Region Name="仓山区" Code="4" />
                 <Region Name="马尾区" Code="5" />
                 <Region Name="晋安区" Code="11" />
+                <Region Name="长乐区" Code="82" />
                 <Region Name="闽侯县" Code="21" />
                 <Region Name="连江县" Code="22" />
                 <Region Name="罗源县" Code="23" />
@@ -1292,7 +1293,6 @@
                 <Region Name="永泰县" Code="25" />
                 <Region Name="平潭县" Code="28" />
                 <Region Name="福清市" Code="81" />
-                <Region Name="长乐市" Code="82" />
             </City>
             <City Name="厦门" Code="2">
                 <Region Name="思明区" Code="3" />
