@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <Location>
   <CountryRegion Name="Afghanistan" Code="AFG">
     <State >
@@ -102,7 +102,7 @@
       <City Name="Escaldes-Engordany" Code="8"/>
       <City Name="La Massana" Code="4"/>
       <City Name="Ordino" Code="5"/>
-      <City Name="Sant Julia de Loria" Code="6"/>
+      <City Name="Sant Julia de Laria" Code="6"/>
     </State>
   </CountryRegion>
   <CountryRegion Name="Angola" Code="AGO">
@@ -980,7 +980,7 @@
       <City Name="Xining" Code="1"/>
       <City Name="Yushu Tibetan Autonomous Prefecture" Code="27"/>
     </State>
-    <State Name="Shanxi" Code="61">
+    <State Name="Shaanxi" Code="61">
       <City Name="Ankang" Code="9"/>
       <City Name="Baoji" Code="3"/>
       <City Name="Hanzhong" Code="7"/>
@@ -1511,7 +1511,7 @@
       <City Name="Valence" Code="VAA"/>
     </State>
   </CountryRegion>
-  <CountryRegion Name="French Polynesia" Code="PYF" />
+  <CountryRegion Name="Frech Polynesia" Code="PYF" />
   <CountryRegion Name="French Guiana" Code="GUF" />
   <CountryRegion Name="French Southern and Antarctic Lands" Code="ATF" />
   <CountryRegion Name="Gabon" Code="GAB">
@@ -2159,9 +2159,7 @@
       <City Name="Yeongwol County" Code="YWL"/>
     </State>
     <State Name="Gwangju" Code="29"/>
-    <State Name="Jeju-do" Code="41">
-      <City Name="Suwon" Code="SUO"/>
-    </State>    
+    <State Name="Gyeonggi-do" Code="41"/>
     <State Name="Gyeongsangbuk-do" Code="47">
       <City Name="Buan County" Code="PUS"/>
       <City Name="Gimje" Code="GJE"/>
@@ -2203,7 +2201,7 @@
       <City Name="Yeosu" Code="YOS"/>
     </State>
     <State Name="Incheon" Code="28"/>
-    <State Name="Gyeonggi-do" Code="49">
+    <State Name="Jeju-do" Code="49">
       <City Name="Ansan" Code="ASN"/>
       <City Name="Anseong" Code="ASG"/>
       <City Name="Anyang" Code="ANY"/>
@@ -2227,6 +2225,7 @@
       <City Name="Pyeongtaek" Code="PTK"/>
       <City Name="Seongnam" Code="SEO"/>
       <City Name="Siheung" Code="SHE"/>
+      <City Name="Suwon" Code="SUO"/>
       <City Name="Uijeongbu" Code="UIJ"/>
       <City Name="Uiwang" Code="UWN"/>
       <City Name="Yangju" Code="YYU"/>
@@ -4071,7 +4070,7 @@
       <City Name="Abu Dhabi" Code="AZ"/>
       <City Name="Al l&apos;Ayn" Code="AL"/>
       <City Name="Ash Shariqah" Code="SH"/>
-      <City Name="Dubai" Code="DU"/>
+      <City Name="Dubayy" Code="DU"/>
     </State>
   </CountryRegion>
   <CountryRegion Name="United Kingdom" Code="GBR">
