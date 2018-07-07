@@ -69,12 +69,12 @@
                 <Region Name="开平区" Code="5" />
                 <Region Name="丰南区" Code="7" />
                 <Region Name="丰润区" Code="8" />
+                <Region Name="曹妃甸区" Code="9" />
                 <Region Name="滦　县" Code="23" />
                 <Region Name="滦南县" Code="24" />
                 <Region Name="乐亭县" Code="25" />
                 <Region Name="迁西县" Code="27" />
                 <Region Name="玉田县" Code="29" />
-                <Region Name="唐海县" Code="30" />
                 <Region Name="遵化市" Code="81" />
                 <Region Name="迁安市" Code="83" />
             </City>
@@ -930,16 +930,14 @@
                 <Region Name="溧阳市" Code="81" />
             </City>
             <City Name="苏州" Code="5">
-                <Region Name="沧浪区" Code="2" />
-                <Region Name="平江区" Code="3" />
-                <Region Name="金阊区" Code="4" />
+                <Region Name="姑苏区" Code="2" />
                 <Region Name="虎丘区" Code="5" />
                 <Region Name="吴中区" Code="6" />
                 <Region Name="相城区" Code="7" />
+                <Region Name="吴江区" Code="8" />
                 <Region Name="常熟市" Code="81" />
                 <Region Name="张家港市" Code="82" />
                 <Region Name="昆山市" Code="83" />
-                <Region Name="吴江市" Code="84" />
                 <Region Name="太仓市" Code="85" />
             </City>
             <City Name="南通" Code="6">
@@ -1000,10 +998,10 @@
             <City Name="泰州" Code="12">
                 <Region Name="海陵区" Code="2" />
                 <Region Name="高港区" Code="3" />
+                <Region Name="姜堰区" Code="4" />
                 <Region Name="兴化市" Code="81" />
                 <Region Name="靖江市" Code="82" />
                 <Region Name="泰兴市" Code="83" />
-                <Region Name="姜堰市" Code="84" />
             </City>
             <City Name="宿迁" Code="13">
                 <Region Name="宿城区" Code="2" />
@@ -1164,9 +1162,9 @@
                 <Region Name="寿　县" Code="22" />
             </City>
             <City Name="马鞍山" Code="5">
-                <Region Name="金家庄区" Code="2" />
                 <Region Name="花山区" Code="3" />
                 <Region Name="雨山区" Code="4" />
+                <Region Name="博望区" Code="5" />
                 <Region Name="当涂县" Code="21" />
             </City>
             <City Name="淮北" Code="6">
@@ -1511,7 +1509,6 @@
             <City Name="青岛" Code="2">
                 <Region Name="市南区" Code="2" />
                 <Region Name="市北区" Code="3" />
-                <Region Name="四方区" Code="5" />
                 <Region Name="黄岛区" Code="11" />
                 <Region Name="崂山区" Code="12" />
                 <Region Name="李沧区" Code="13" />
@@ -1519,7 +1516,6 @@
                 <Region Name="即墨区" Code="15" />
                 <Region Name="胶州市" Code="81" />
                 <Region Name="平度市" Code="83" />
-                <Region Name="胶南市" Code="84" />
                 <Region Name="莱西市" Code="85" />
             </City>
             <City Name="淄博" Code="3">
@@ -2280,11 +2276,11 @@
             </City>
             <City Name="清远" Code="18">
                 <Region Name="清城区" Code="2" />
+                <Region Name="清新区" Code="3" />
                 <Region Name="佛冈县" Code="21" />
                 <Region Name="阳山县" Code="23" />
                 <Region Name="连山壮族瑶族自治县" Code="25" />
                 <Region Name="连南瑶族自治县" Code="26" />
-                <Region Name="清新县" Code="27" />
                 <Region Name="英德市" Code="81" />
                 <Region Name="连州市" Code="82" />
             </City>
@@ -2301,7 +2297,7 @@
             </City>
             <City Name="揭阳" Code="52">
                 <Region Name="榕城区" Code="2" />
-                <Region Name="揭东县" Code="21" />
+                <Region Name="揭东区" Code="3" />
                 <Region Name="揭西县" Code="22" />
                 <Region Name="惠来县" Code="24" />
                 <Region Name="普宁市" Code="81" />
@@ -2456,37 +2452,35 @@
             </City>
         </State>
         <State Name="海南" Code="46">
-            <City Name="海口" Code="1">
+            <City Name="海口市" Code="1">
                 <Region Name="秀英区" Code="5" />
                 <Region Name="龙华区" Code="6" />
                 <Region Name="琼山区" Code="7" />
                 <Region Name="美兰区" Code="8" />
             </City>
-            <City Name="三亚" Code="2">
+            <City Name="三亚市" Code="2">
                 <Region Name="海棠区" Code="2" />
                 <Region Name="吉阳区" Code="3" />
                 <Region Name="天涯区" Code="4" />
                 <Region Name="崖州区" Code="5" />
             </City>
-            <City Name="五指山" Code="91" />
-            <City Name="琼海" Code="92" />
-            <City Name="儋州" Code="93" />
-            <City Name="文昌" Code="95" />
-            <City Name="万宁" Code="96" />
-            <City Name="东方" Code="97" />
-            <City Name="定安" Code="A25" />
-            <City Name="屯昌" Code="A26" />
-            <City Name="澄迈" Code="A27" />
-            <City Name="临高" Code="A28" />
-            <City Name="白沙" Code="A30" />
-            <City Name="昌江" Code="A31" />
-            <City Name="乐东" Code="A33" />
-            <City Name="陵水" Code="A34" />
-            <City Name="保亭" Code="A35" />
-            <City Name="琼中" Code="A36" />
-            <City Name="西沙" Code="A37" />
-            <City Name="南沙" Code="A38" />
-            <City Name="中沙" Code="A39" />
+            <City Name="三沙市" Code="3" />>
+            <City Name="五指山市" Code="91" />
+            <City Name="琼海市" Code="92" />
+            <City Name="儋州市" Code="93" />
+            <City Name="文昌市" Code="95" />
+            <City Name="万宁市" Code="96" />
+            <City Name="东方市" Code="97" />
+            <City Name="定安县" Code="A25" />
+            <City Name="屯昌县" Code="A26" />
+            <City Name="澄迈县" Code="A27" />
+            <City Name="临高县" Code="A28" />
+            <City Name="白沙黎族自治县" Code="A30" />
+            <City Name="昌江黎族自治县" Code="A31" />
+            <City Name="乐东黎族自治县" Code="A33" />
+            <City Name="陵水黎族自治县" Code="A34" />
+            <City Name="保亭黎族苗族自治县" Code="A35" />
+            <City Name="琼中黎族苗族自治县" Code="A36" />
         </State>
         <State Name="重庆" Code="50">
             <City Name="万州区" Code="1" />
@@ -2682,7 +2676,7 @@
             </City>
             <City Name="雅安" Code="18">
                 <Region Name="雨城区" Code="2" />
-                <Region Name="名山县" Code="21" />
+                <Region Name="名山区" Code="3" />
                 <Region Name="荥经县" Code="22" />
                 <Region Name="汉源县" Code="23" />
                 <Region Name="石棉县" Code="24" />
@@ -2765,7 +2759,7 @@
                 <Region Name="花溪区" Code="11" />
                 <Region Name="乌当区" Code="12" />
                 <Region Name="白云区" Code="13" />
-                <Region Name="小河区" Code="14" />
+                <Region Name="观山湖区" Code="14" />
                 <Region Name="开阳县" Code="21" />
                 <Region Name="息烽县" Code="22" />
                 <Region Name="修文县" Code="23" />
@@ -3591,6 +3585,8 @@
             <City Name="昆玉市" Code="95" />
             <City Name="可克达拉市" Code="96" />
             <City Name="双河市" Code="97" />
+            <City Name="阿拉山口市" Code="98" />
+            <City Name="铁门关市" Code="99" />
         </State>
         <State Name="台湾" Code="71">
             <City Name="台北市" Code="1" />
