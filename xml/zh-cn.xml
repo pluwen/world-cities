@@ -941,12 +941,12 @@
             </City>
             <City Name="南通" Code="6">
                 <Region Name="崇川区" Code="2" />
+                <Region Name="通州区" Code="3" />
                 <Region Name="港闸区" Code="11" />
                 <Region Name="海安县" Code="21" />
                 <Region Name="如东县" Code="23" />
                 <Region Name="启东市" Code="81" />
                 <Region Name="如皋市" Code="82" />
-                <Region Name="通州市" Code="83" />
                 <Region Name="海门市" Code="84" />
             </City>
             <City Name="连云港" Code="7">
