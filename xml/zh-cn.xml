@@ -679,7 +679,7 @@
                 <Region Name="集安市" Code="82" />
             </City>
             <City Name="白山" Code="6">
-                <Region Name="八道江区" Code="2" />
+                <Region Name="浑江区" Code="2" />
                 <Region Name="江源区" Code="5" />
                 <Region Name="抚松县" Code="21" />
                 <Region Name="靖宇县" Code="22" />
@@ -911,12 +911,11 @@
             <City Name="徐州" Code="3">
                 <Region Name="鼓楼区" Code="2" />
                 <Region Name="云龙区" Code="3" />
-                <Region Name="九里区" Code="4" />
                 <Region Name="贾汪区" Code="5" />
+                <Region Name="铜山区" Code="6" />
                 <Region Name="泉山区" Code="11" />
                 <Region Name="丰　县" Code="21" />
                 <Region Name="沛　县" Code="22" />
-                <Region Name="铜山县" Code="23" />
                 <Region Name="睢宁县" Code="24" />
                 <Region Name="新沂市" Code="81" />
                 <Region Name="邳州市" Code="82" />
@@ -1489,6 +1488,7 @@
                 <Region Name="婺源县" Code="30" />
                 <Region Name="德兴市" Code="81" />
             </City>
+            <City Name="共青城市" Code="91" />
         </State>
         <State Name="山东" Code="37">
             <City Name="济南" Code="1">
@@ -2958,7 +2958,6 @@
             <City Name="红河" Code="25">
                 <Region Name="个旧市" Code="1" />
                 <Region Name="开远市" Code="2" />
-                <Region Name="蒙自县" Code="22" />
                 <Region Name="屏边苗族自治县" Code="23" />
                 <Region Name="建水县" Code="24" />
                 <Region Name="石屏县" Code="25" />
@@ -2971,7 +2970,6 @@
                 <Region Name="弥勒市" Code="81" />
             </City>
             <City Name="文山" Code="26">
-                <Region Name="文山县" Code="21" />
                 <Region Name="砚山县" Code="22" />
                 <Region Name="西畴县" Code="23" />
                 <Region Name="麻栗坡县" Code="24" />
@@ -2979,6 +2977,7 @@
                 <Region Name="丘北县" Code="26" />
                 <Region Name="广南县" Code="27" />
                 <Region Name="富宁县" Code="28" />
+                <Region Name="文山市" Code="81" />
             </City>
             <City Name="西双版纳" Code="28">
                 <Region Name="景洪市" Code="1" />
@@ -3001,7 +3000,7 @@
             </City>
             <City Name="德宏" Code="31">
                 <Region Name="瑞丽市" Code="2" />
-                <Region Name="潞西市" Code="3" />
+                <Region Name="芒市" Code="3" />
                 <Region Name="梁河县" Code="22" />
                 <Region Name="盈江县" Code="23" />
                 <Region Name="陇川县" Code="24" />
@@ -3017,6 +3016,7 @@
                 <Region Name="维西傈僳族自治县" Code="23" />
                 <Region Name="香格里拉市" Code="81" />
             </City>
+            <City Name="蒙自市" Code="91" />
         </State>
         <State Name="西藏" Code="54">
             <City Name="拉萨" Code="1">
