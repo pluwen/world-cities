@@ -2586,7 +2586,7 @@
                 <Region Name="江油市" Code="81" />
             </City>
             <City Name="广元" Code="8">
-                <Region Name="市中区" Code="2" />
+                <Region Name="利州区" Code="2" />
                 <Region Name="昭化区" Code="11" />
                 <Region Name="朝天区" Code="12" />
                 <Region Name="旺苍县" Code="21" />
@@ -2932,6 +2932,7 @@
                 <Region Name="孟连傣族拉祜族佤族自治县" Code="27" />
                 <Region Name="澜沧拉祜族自治县" Code="28" />
                 <Region Name="西盟佤族自治县" Code="29" />
+                <Region Name="普洱市" Code="81" />
             </City>
             <City Name="临沧" Code="9">
                 <Region Name="临翔区" Code="2" />
