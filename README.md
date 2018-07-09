@@ -24,7 +24,7 @@ Multilingual list of countries, states & cities in XML format.
 
 - [x] Add basic data from QQ and QQ Int.
 - [x] Update zh-cn data form China gov site [2017]
-- [ ] Translate zh-cn data to zh-tw
+- [x] Translate zh-cn data to zh-tw
 
 ## Contact
 
