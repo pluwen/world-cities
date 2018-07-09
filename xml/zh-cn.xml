@@ -3043,7 +3043,7 @@
         <Region Name="洛隆县" Code="32" />
         <Region Name="边坝县" Code="33" />
       </City>
-      <City Name="山南市" Code="22">
+      <City Name="山南" Code="22">
         <Region Name="乃东区" Code="1" />
         <Region Name="扎囊县" Code="22" />
         <Region Name="贡嘎县" Code="23" />
@@ -3077,7 +3077,7 @@
         <Region Name="萨嘎县" Code="37" />
         <Region Name="岗巴县" Code="38" />
       </City>
-      <City Name="那曲市" Code="24">
+      <City Name="那曲" Code="24">
         <Region Name="色尼区" Code="1" />
         <Region Name="嘉黎县" Code="22" />
         <Region Name="比如县" Code="23" />
@@ -3239,7 +3239,7 @@
       </City>
     </State>
     <State Name="甘肃" Code="62">
-      <City Name="兰州市" Code="1">
+      <City Name="兰州" Code="1">
         <Region Name="城关区" Code="2" />
         <Region Name="七里河区" Code="3" />
         <Region Name="西固区" Code="4" />
