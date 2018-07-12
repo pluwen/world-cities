@@ -2461,10 +2461,14 @@
         <Region Name="天涯区" Code="4" />
         <Region Name="崖州区" Code="5" />
       </City>
-      <City Name="三沙市" Code="3" />>
+      <City Name="三沙市" Code="3">
+        <Region Name="西沙群岛" Code="2" />
+        <Region Name="南沙群岛" Code="3" />
+        <Region Name="中沙群岛的岛礁及其海域" Code="4" />
+      </City>
+      <City Name="儋州市" Code="4" />
       <City Name="五指山市" Code="91" />
       <City Name="琼海市" Code="92" />
-      <City Name="儋州市" Code="93" />
       <City Name="文昌市" Code="95" />
       <City Name="万宁市" Code="96" />
       <City Name="东方市" Code="97" />
