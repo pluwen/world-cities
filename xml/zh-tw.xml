@@ -874,16 +874,16 @@
       <City Name="靜安區" Code="6" />
       <City Name="普陀區" Code="7" />
       <City Name="虹口區" Code="9" />
-      <City Name="楊浦區" Code="11" />
+      <City Name="楊浦區" Code="10" />
       <City Name="閔行區" Code="12" />
       <City Name="寶山區" Code="13" />
       <City Name="嘉定區" Code="14" />
       <City Name="浦東新區" Code="15" />
       <City Name="金山區" Code="16" />
       <City Name="松江區" Code="17" />
-      <City Name="奉賢區" Code="26" />
-      <City Name="青浦區" Code="29" />
-      <City Name="崇明區" Code="30" />
+      <City Name="青浦區" Code="18" />
+      <City Name="奉賢區" Code="20" />
+      <City Name="崇明區" Code="51" />
     </State>
     <State Name="江蘇" Code="32">
       <City Name="南京" Code="1">

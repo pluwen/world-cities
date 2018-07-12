@@ -874,16 +874,16 @@
       <City Name="静安区" Code="6" />
       <City Name="普陀区" Code="7" />
       <City Name="虹口区" Code="9" />
-      <City Name="杨浦区" Code="11" />
+      <City Name="杨浦区" Code="10" />
       <City Name="闵行区" Code="12" />
       <City Name="宝山区" Code="13" />
       <City Name="嘉定区" Code="14" />
       <City Name="浦东新区" Code="15" />
       <City Name="金山区" Code="16" />
       <City Name="松江区" Code="17" />
-      <City Name="奉贤区" Code="26" />
-      <City Name="青浦区" Code="29" />
-      <City Name="崇明区" Code="30" />
+      <City Name="青浦区" Code="18" />
+      <City Name="奉贤区" Code="20" />
+      <City Name="崇明区" Code="51" />
     </State>
     <State Name="江苏" Code="32">
       <City Name="南京" Code="1">
