@@ -2,6 +2,8 @@
 
 Multilingual list of countries, states & cities in XML format.
 
+世界所有城市，国内所有省、市、区、县信息，持续更新。
+
 ## Language support
 
 | Language            | Code | File Name  |
