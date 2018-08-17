@@ -34,3 +34,7 @@ Multilingual list of countries, states & cities in XML format.
 ## Contact
 
 * Author: [Pluwen](https://twitter.com/pluwen)
+
+## Donate
+
+![Donate image](https://github.com/pluwen/World-Cities/raw/master/donate.jpg "Thank you for your support!")
