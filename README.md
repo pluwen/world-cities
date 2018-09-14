@@ -22,11 +22,12 @@ Multilingual list of countries, states & cities in XML format.
 * Basic data: QQ and QQ Int.
 * Detail data for China
   * [县级以上行政区划变更情况](http://xzqh.mca.gov.cn/description?dcpid=1)
-  * [统计用区划和城乡划分代码](http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/)
+  * [行政区划代码](http://mca.gov.cn/article/sj/xzqh/)
 
 ## To-do
 
-- [ ] Update China location code
+- [x] Update China location data to 2018.7
+- [x] Update China location code
 - [x] Translate zh-cn data to zh-tw
 - [x] Update zh-cn data form China gov site [2017]
 - [x] Add basic data from QQ and QQ Int.
