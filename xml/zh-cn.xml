@@ -290,7 +290,7 @@
         <Region Name="山阴县" Code="21" />
         <Region Name="应　县" Code="22" />
         <Region Name="右玉县" Code="23" />
-        <Region Name="怀仁县" Code="24" />
+        <Region Name="怀仁市" Code="81" />
       </City>
       <City Name="晋中" Code="7">
         <Region Name="榆次区" Code="2" />
@@ -861,9 +861,9 @@
         <Region Name="海伦市" Code="83" />
       </City>
       <City Name="大兴安岭" Code="27">
+        <Region Name="漠河市" Code="1" />
         <Region Name="呼玛县" Code="21" />
         <Region Name="塔河县" Code="22" />
-        <Region Name="漠河县" Code="23" />
       </City>
     </State>
     <State Name="上海" Code="31">
@@ -1410,7 +1410,7 @@
       </City>
       <City Name="鹰潭" Code="6">           
         <Region Name="月湖区" Code="2" />
-        <Region Name="余江县" Code="22" />
+        <Region Name="余江区" Code="3" />
         <Region Name="贵溪市" Code="81" />
       </City>
       <City Name="赣州" Code="7">           
@@ -1924,9 +1924,9 @@
       <City Name="荆门" Code="8">
         <Region Name="东宝区" Code="2" />
         <Region Name="掇刀区" Code="4" />
-        <Region Name="京山县" Code="21" />
         <Region Name="沙洋县" Code="22" />
         <Region Name="钟祥市" Code="81" />
+        <Region Name="京山市" Code="82" />
       </City>
       <City Name="孝感" Code="9">
         <Region Name="孝南区" Code="2" />
@@ -2174,6 +2174,7 @@
         <Region Name="盐田区" Code="8" />
         <Region Name="龙华区" Code="9" />
         <Region Name="坪山区" Code="10" />
+        <Region Name="光明区" Code="11" />
       </City>
       <City Name="珠海" Code="4">
         <Region Name="香洲区" Code="2" />
