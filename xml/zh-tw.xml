@@ -3414,6 +3414,7 @@
       <City Name="海西" Code="28">
         <Region Name="格爾木市" Code="1" />
         <Region Name="德令哈市" Code="2" />
+        <Region Name="茫崖市" Code="2" />
         <Region Name="烏蘭縣" Code="21" />
         <Region Name="都蘭縣" Code="22" />
         <Region Name="天峻縣" Code="23" />
