@@ -3294,9 +3294,9 @@
         <Region Name="涇川縣" Code="21" />
         <Region Name="靈臺縣" Code="22" />
         <Region Name="崇信縣" Code="23" />
-        <Region Name="華亭縣" Code="24" />
         <Region Name="莊浪縣" Code="25" />
         <Region Name="靜寧縣" Code="26" />
+        <Region Name="華亭市" Code="81" />
       </City>
       <City Name="酒泉" Code="9">
         <Region Name="肅州區" Code="2" />

@@ -26,6 +26,7 @@ Multilingual list of countries, states & cities in XML format.
 
 ## To-do
 
+- [x] Update China location data to 2018.10
 - [x] Update China location data to 2018.9
 - [x] Update China location data to 2018.8
 - [x] Update China location data to 2018.7
