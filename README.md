@@ -26,11 +26,7 @@ Multilingual list of countries, states & cities in XML format.
 
 ## To-do
 
-- [x] Update China location data to 2018.10
-- [x] Update China location data to 2018.9
-- [x] Update China location data to 2018.8
-- [x] Update China location data to 2018.7
-- [x] Update China location code
+- [x] Update China location data to 2018.11
 - [x] Translate zh-cn data to zh-tw
 - [x] Update zh-cn data form China gov site [2017]
 - [x] Add basic data from QQ and QQ Int.
