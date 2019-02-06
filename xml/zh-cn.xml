@@ -70,13 +70,13 @@
         <Region Name="丰南区" Code="7" />
         <Region Name="丰润区" Code="8" />
         <Region Name="曹妃甸区" Code="9" />
-        <Region Name="滦　县" Code="23" />
         <Region Name="滦南县" Code="24" />
         <Region Name="乐亭县" Code="25" />
         <Region Name="迁西县" Code="27" />
         <Region Name="玉田县" Code="29" />
         <Region Name="遵化市" Code="81" />
         <Region Name="迁安市" Code="83" />
+        <Region Name="滦州市" Code="84" />
       </City>
       <City Name="秦皇岛" Code="3">
         <Region Name="海港区" Code="2" />
@@ -262,11 +262,11 @@
         <Region Name="盂　县" Code="22" />
       </City>
       <City Name="长治" Code="4">
-        <Region Name="城　区" Code="2" />
-        <Region Name="郊　区" Code="11" />
-        <Region Name="长治县" Code="21" />
+        <Region Name="潞州区" Code="3" />
+        <Region Name="上党区" Code="4" />
+        <Region Name="屯留区" Code="5" />
+        <Region Name="潞城区" Code="6" />
         <Region Name="襄垣县" Code="23" />
-        <Region Name="屯留县" Code="24" />
         <Region Name="平顺县" Code="25" />
         <Region Name="黎城县" Code="26" />
         <Region Name="壶关县" Code="27" />
@@ -274,7 +274,6 @@
         <Region Name="武乡县" Code="29" />
         <Region Name="沁　县" Code="30" />
         <Region Name="沁源县" Code="31" />
-        <Region Name="潞城市" Code="81" />
       </City>
       <City Name="晋城" Code="5">
         <Region Name="城　区" Code="2" />
@@ -1498,8 +1497,8 @@
         <Region Name="历城区" Code="12" />
         <Region Name="长清区" Code="13" />
         <Region Name="章丘区" Code="14" />
+        <Region Name="济阳区" Code="15" />
         <Region Name="平阴县" Code="24" />
-        <Region Name="济阳县" Code="25" />
         <Region Name="商河县" Code="26" />
       </City>
       <City Name="青岛" Code="2">
@@ -1648,7 +1647,7 @@
         <Region Name="阳信县" Code="22" />
         <Region Name="无棣县" Code="23" />
         <Region Name="博兴县" Code="25" />
-        <Region Name="邹平县" Code="26" />
+        <Region Name="邹平市" Code="81" />
       </City>
       <City Name="菏泽" Code="17">
         <Region Name="牡丹区" Code="2" />
@@ -2647,7 +2646,7 @@
       <City Name="宜宾" Code="15">
         <Region Name="翠屏区" Code="2" />
         <Region Name="南溪区" Code="3" />
-        <Region Name="宜宾县" Code="21" />
+        <Region Name="叙州区" Code="4" />
         <Region Name="江安县" Code="23" />
         <Region Name="长宁县" Code="24" />
         <Region Name="高　县" Code="25" />
@@ -2817,7 +2816,7 @@
       </City>
       <City Name="黔西南布依族苗族自治州" Code="23">
         <Region Name="兴义市" Code="1" />
-        <Region Name="兴仁县" Code="22" />
+        <Region Name="兴仁市" Code="2" />
         <Region Name="普安县" Code="23" />
         <Region Name="晴隆县" Code="24" />
         <Region Name="贞丰县" Code="25" />

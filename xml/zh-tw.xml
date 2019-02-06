@@ -70,13 +70,13 @@
         <Region Name="豐南區" Code="7" />
         <Region Name="豐潤區" Code="8" />
         <Region Name="曹妃甸區" Code="9" />
-        <Region Name="灤　縣" Code="23" />
         <Region Name="灤南縣" Code="24" />
         <Region Name="樂亭縣" Code="25" />
         <Region Name="遷西縣" Code="27" />
         <Region Name="玉田縣" Code="29" />
         <Region Name="遵化市" Code="81" />
         <Region Name="遷安市" Code="83" />
+        <Region Name="灤州市" Code="84" />
       </City>
       <City Name="秦皇島" Code="3">
         <Region Name="海港區" Code="2" />
@@ -262,11 +262,11 @@
         <Region Name="盂　縣" Code="22" />
       </City>
       <City Name="長治" Code="4">
-        <Region Name="城　區" Code="2" />
-        <Region Name="郊　區" Code="11" />
-        <Region Name="長治縣" Code="21" />
+        <Region Name="潞州區" Code="3" />
+        <Region Name="上黨區" Code="4" />
+        <Region Name="屯留區" Code="5" />
+        <Region Name="潞城區" Code="6" />
         <Region Name="襄垣縣" Code="23" />
-        <Region Name="屯留縣" Code="24" />
         <Region Name="平順縣" Code="25" />
         <Region Name="黎城縣" Code="26" />
         <Region Name="壺關縣" Code="27" />
@@ -274,7 +274,6 @@
         <Region Name="武鄉縣" Code="29" />
         <Region Name="沁　縣" Code="30" />
         <Region Name="沁源縣" Code="31" />
-        <Region Name="潞城市" Code="81" />
       </City>
       <City Name="晉城" Code="5">
         <Region Name="城　區" Code="2" />
@@ -1498,8 +1497,8 @@
         <Region Name="歷城區" Code="12" />
         <Region Name="長清區" Code="13" />
         <Region Name="章丘區" Code="14" />
+        <Region Name="濟陽區" Code="15" />
         <Region Name="平陰縣" Code="24" />
-        <Region Name="濟陽縣" Code="25" />
         <Region Name="商河縣" Code="26" />
       </City>
       <City Name="青島" Code="2">
@@ -1648,7 +1647,7 @@
         <Region Name="陽信縣" Code="22" />
         <Region Name="無棣縣" Code="23" />
         <Region Name="博興縣" Code="25" />
-        <Region Name="鄒平縣" Code="26" />
+        <Region Name="鄒平市" Code="81" />
       </City>
       <City Name="菏澤" Code="17">
         <Region Name="牡丹區" Code="2" />
@@ -2647,7 +2646,7 @@
       <City Name="宜賓" Code="15">
         <Region Name="翠屏區" Code="2" />
         <Region Name="南溪區" Code="3" />
-        <Region Name="宜賓縣" Code="21" />
+        <Region Name="敘州區" Code="21" />
         <Region Name="江安縣" Code="23" />
         <Region Name="長寧縣" Code="24" />
         <Region Name="高　縣" Code="25" />
@@ -2817,7 +2816,7 @@
       </City>
       <City Name="黔西南布依族苗族自治州" Code="23">
         <Region Name="興義市" Code="1" />
-        <Region Name="興仁縣" Code="22" />
+        <Region Name="興仁市" Code="2" />
         <Region Name="普安縣" Code="23" />
         <Region Name="晴隆縣" Code="24" />
         <Region Name="貞豐縣" Code="25" />
