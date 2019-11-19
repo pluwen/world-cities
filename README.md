@@ -31,10 +31,6 @@ Multilingual list of countries, states & cities in XML format.
 - [x] Update zh-cn data form China gov site [2017]
 - [x] Add basic data from QQ and QQ Int.
 
-## Contact
+## Author
 
-* Author: [Pluwen](https://twitter.com/pluwen)
-
-## Donate
-
-![Donate image](https://github.com/pluwen/World-Cities/raw/master/donate.jpg "Thank you for your support!")
+* [Pluwen](https://twitter.com/pluwen)
