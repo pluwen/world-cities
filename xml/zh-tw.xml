@@ -2397,7 +2397,7 @@
       </City>
       <City Name="百色" Code="10">
         <Region Name="右江區" Code="2" />
-        <Region Name="田陽縣" Code="21" />
+        <Region Name="田陽區" Code="3" />
         <Region Name="田東縣" Code="22" />
         <Region Name="平果縣" Code="23" />
         <Region Name="德保縣" Code="24" />
