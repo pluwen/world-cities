@@ -791,22 +791,15 @@
         <Region Name="杜尔伯特蒙古族自治县" Code="24" />
       </City>
       <City Name="伊春" Code="7">
-        <Region Name="伊春区" Code="2" />
-        <Region Name="南岔区" Code="3" />
-        <Region Name="友好区" Code="4" />
-        <Region Name="西林区" Code="5" />
-        <Region Name="翠峦区" Code="6" />
-        <Region Name="新青区" Code="7" />
-        <Region Name="美溪区" Code="8" />
-        <Region Name="金山屯区" Code="9" />
-        <Region Name="五营区" Code="10" />
-        <Region Name="乌马河区" Code="11" />
-        <Region Name="汤旺河区" Code="12" />
-        <Region Name="带岭区" Code="13" />
-        <Region Name="乌伊岭区" Code="14" />
-        <Region Name="红星区" Code="15" />
-        <Region Name="上甘岭区" Code="16" />
+        <Region Name="伊美区" Code="17" />
+        <Region Name="乌翠区" Code="18" />
+        <Region Name="友好区" Code="19" />
         <Region Name="嘉荫县" Code="22" />
+        <Region Name="汤旺县" Code="23" />
+        <Region Name="丰林县" Code="24" />
+        <Region Name="大箐山县" Code="25" />
+        <Region Name="南岔县" Code="26" />
+        <Region Name="金林区" Code="51" />
         <Region Name="铁力市" Code="81" />
       </City>
       <City Name="佳木斯" Code="8">
