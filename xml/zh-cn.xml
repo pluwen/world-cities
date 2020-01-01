@@ -1040,6 +1040,7 @@
         <Region Name="泰顺县" Code="29" />
         <Region Name="瑞安市" Code="81" />
         <Region Name="乐清市" Code="82" />
+        <Region Name="龙港市" Code="83" />
       </City>
       <City Name="嘉兴" Code="4">
         <Region Name="南湖区" Code="2" />
@@ -1245,11 +1246,11 @@
       <City Name="宣城" Code="18">
         <Region Name="宣州区" Code="2" />
         <Region Name="郎溪县" Code="21" />
-        <Region Name="广德县" Code="22" />
         <Region Name="泾　县" Code="23" />
         <Region Name="绩溪县" Code="24" />
         <Region Name="旌德县" Code="25" />
         <Region Name="宁国市" Code="81" />
+        <Region Name="广德市" Code="82" />
       </City>
     </State>
     <State Name="福建" Code="35">
@@ -1468,7 +1469,7 @@
       <City Name="上饶" Code="11">
         <Region Name="信州区" Code="2" />
         <Region Name="广丰区" Code="3" />
-        <Region Name="上饶县" Code="21" />
+        <Region Name="广信区" Code="4" />
         <Region Name="玉山县" Code="23" />
         <Region Name="铅山县" Code="24" />
         <Region Name="横峰县" Code="25" />
@@ -1824,12 +1825,12 @@
       </City>
       <City Name="周口" Code="16">
         <Region Name="川汇区" Code="2" />
+        <Region Name="淮阳区" Code="3" />
         <Region Name="扶沟县" Code="21" />
         <Region Name="西华县" Code="22" />
         <Region Name="商水县" Code="23" />
         <Region Name="沈丘县" Code="24" />
         <Region Name="郸城县" Code="25" />
-        <Region Name="淮阳县" Code="26" />
         <Region Name="太康县" Code="27" />
         <Region Name="鹿邑县" Code="28" />
         <Region Name="项城市" Code="81" />
@@ -2027,7 +2028,6 @@
         <Region Name="双清区" Code="2" />
         <Region Name="大祥区" Code="3" />
         <Region Name="北塔区" Code="11" />
-        <Region Name="邵东县" Code="21" />
         <Region Name="新邵县" Code="22" />
         <Region Name="邵阳县" Code="23" />
         <Region Name="隆回县" Code="24" />
@@ -2036,6 +2036,7 @@
         <Region Name="新宁县" Code="28" />
         <Region Name="城步苗族自治县" Code="29" />
         <Region Name="武冈市" Code="81" />
+        <Region Name="邵东市" Code="82" />
       </City>
       <City Name="岳阳" Code="6">
         <Region Name="岳阳楼区" Code="2" />
@@ -2594,8 +2595,8 @@
         <Region Name="船山区" Code="3" />
         <Region Name="安居区" Code="4" />
         <Region Name="蓬溪县" Code="21" />
-        <Region Name="射洪县" Code="22" />
         <Region Name="大英县" Code="23" />
+        <Region Name="射洪市" Code="81" />
       </City>
       <City Name="内江" Code="10">
         <Region Name="市中区" Code="2" />
