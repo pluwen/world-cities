@@ -1492,6 +1492,8 @@
         <Region Name="長清區" Code="13" />
         <Region Name="章丘區" Code="14" />
         <Region Name="濟陽區" Code="15" />
+        <Region Name="萊蕪區" Code="16" />
+        <Region Name="鋼城區" Code="17" />
         <Region Name="平陰縣" Code="24" />
         <Region Name="商河縣" Code="26" />
       </City>

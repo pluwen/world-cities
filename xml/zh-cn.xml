@@ -1492,6 +1492,8 @@
         <Region Name="长清区" Code="13" />
         <Region Name="章丘区" Code="14" />
         <Region Name="济阳区" Code="15" />
+        <Region Name="莱芜区" Code="16" />
+        <Region Name="钢城区" Code="17" />
         <Region Name="平阴县" Code="24" />
         <Region Name="商河县" Code="26" />
       </City>
