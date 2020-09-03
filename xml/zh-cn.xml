@@ -1415,7 +1415,6 @@
         <Region Name="上犹县" Code="24" />
         <Region Name="崇义县" Code="25" />
         <Region Name="安远县" Code="26" />
-        <Region Name="龙南县" Code="27" />
         <Region Name="定南县" Code="28" />
         <Region Name="全南县" Code="29" />
         <Region Name="宁都县" Code="30" />
@@ -1425,6 +1424,7 @@
         <Region Name="寻乌县" Code="34" />
         <Region Name="石城县" Code="35" />
         <Region Name="瑞金市" Code="81" />
+        <Region Name="龙南市" Code="83" />
       </City>
       <City Name="吉安" Code="8">           
         <Region Name="吉州区" Code="2" />
@@ -2531,10 +2531,10 @@
         <Region Name="温江区" Code="15" />
         <Region Name="双流区" Code="16" />
         <Region Name="郫都区" Code="17" />
+        <Region Name="新津区" Code="18" />
         <Region Name="金堂县" Code="21" />
         <Region Name="大邑县" Code="29" />
         <Region Name="蒲江县" Code="31" />
-        <Region Name="新津县" Code="32" />
         <Region Name="都江堰市" Code="81" />
         <Region Name="彭州市" Code="82" />
         <Region Name="邛崃市" Code="83" />
