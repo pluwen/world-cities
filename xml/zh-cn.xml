@@ -108,15 +108,14 @@
         <Region Name="武安市" Code="81" />
       </City>
       <City Name="邢台" Code="5">
-        <Region Name="桥东区" Code="2" />
-        <Region Name="桥西区" Code="3" />
-        <Region Name="邢台县" Code="21" />
+        <Region Name="襄都区" Code="2" />
+        <Region Name="信都区" Code="3" />
+        <Region Name="任泽区" Code="5" />
+        <Region Name="南和区" Code="6" />
         <Region Name="临城县" Code="22" />
         <Region Name="内丘县" Code="23" />
         <Region Name="柏乡县" Code="24" />
         <Region Name="隆尧县" Code="25" />
-        <Region Name="任　县" Code="26" />
-        <Region Name="南和县" Code="27" />
         <Region Name="宁晋县" Code="28" />
         <Region Name="巨鹿县" Code="29" />
         <Region Name="新河县" Code="30" />
@@ -641,6 +640,7 @@
         <Region Name="农安县" Code="22" />
         <Region Name="榆树市" Code="82" />
         <Region Name="德惠市" Code="83" />
+        <Region Name="公主岭市" Code="84" />
       </City>
       <City Name="吉林" Code="2">
         <Region Name="昌邑区" Code="2" />
@@ -658,7 +658,6 @@
         <Region Name="铁东区" Code="3" />
         <Region Name="梨树县" Code="22" />
         <Region Name="伊通满族自治县" Code="23" />
-        <Region Name="公主岭市" Code="81" />
         <Region Name="双辽市" Code="82" />
       </City>
       <City Name="辽源" Code="4">
@@ -3378,7 +3377,7 @@
         <Region Name="刚察县" Code="24" />
       </City>
       <City Name="黄南藏族自治州" Code="23">
-        <Region Name="同仁县" Code="21" />
+        <Region Name="同仁市" Code="1" />
         <Region Name="尖扎县" Code="22" />
         <Region Name="泽库县" Code="23" />
         <Region Name="河南蒙古族自治县" Code="24" />
