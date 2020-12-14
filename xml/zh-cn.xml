@@ -1538,11 +1538,10 @@
         <Region Name="福山区" Code="11" />
         <Region Name="牟平区" Code="12" />
         <Region Name="莱山区" Code="13" />
-        <Region Name="长岛县" Code="34" />
+        <Region Name="蓬莱区" Code="14" />
         <Region Name="龙口市" Code="81" />
         <Region Name="莱阳市" Code="82" />
         <Region Name="莱州市" Code="83" />
-        <Region Name="蓬莱市" Code="84" />
         <Region Name="招远市" Code="85" />
         <Region Name="栖霞市" Code="86" />
         <Region Name="海阳市" Code="87" />

@@ -1538,11 +1538,10 @@
         <Region Name="福山區" Code="11" />
         <Region Name="牟平區" Code="12" />
         <Region Name="萊山區" Code="13" />
-        <Region Name="長島縣" Code="34" />
+        <Region Name="蓬萊區" Code="14" />
         <Region Name="龍口市" Code="81" />
         <Region Name="萊陽市" Code="82" />
         <Region Name="萊州市" Code="83" />
-        <Region Name="蓬萊市" Code="84" />
         <Region Name="招遠市" Code="85" />
         <Region Name="棲霞市" Code="86" />
         <Region Name="海陽市" Code="87" />
