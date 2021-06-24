@@ -930,13 +930,12 @@
         <Region Name="太仓市" Code="85" />
       </City>
       <City Name="南通" Code="6">
-        <Region Name="崇川区" Code="2" />
-        <Region Name="港闸区" Code="11" />
         <Region Name="通州区" Code="12" />
+        <Region Name="崇川区" Code="13" />
+        <Region Name="海门区" Code="14" />
         <Region Name="如东县" Code="23" />
         <Region Name="启东市" Code="81" />
         <Region Name="如皋市" Code="82" />
-        <Region Name="海门市" Code="84" />
         <Region Name="海安市" Code="85" />
       </City>
       <City Name="连云港" Code="7">
@@ -1130,7 +1129,7 @@
         <Region Name="鸠江区" Code="7" />
         <Region Name="弋江区" Code="9" />
         <Region Name="湾沚区" Code="10" />
-        <Region Name="繁昌区" Code="11" />
+        <Region Name="繁昌区" Code="12" />
         <Region Name="南陵县" Code="23" />
         <Region Name="无为市" Code="81" />
       </City>
@@ -1933,11 +1932,11 @@
         <Region Name="沙市区" Code="2" />
         <Region Name="荆州区" Code="3" />
         <Region Name="公安县" Code="22" />
-        <Region Name="监利县" Code="23" />
         <Region Name="江陵县" Code="24" />
         <Region Name="石首市" Code="81" />
         <Region Name="洪湖市" Code="83" />
         <Region Name="松滋市" Code="87" />
+        <Region Name="监利市" Code="88" />
       </City>
       <City Name="黄冈" Code="11">
         <Region Name="黄州区" Code="2" />
@@ -2342,8 +2341,8 @@
         <Region Name="龙胜各族自治县" Code="28" />
         <Region Name="资源县" Code="29" />
         <Region Name="平乐县" Code="30" />
-        <Region Name="荔浦市" Code="81" />
         <Region Name="恭城瑶族自治县" Code="32" />
+        <Region Name="荔浦市" Code="81" />
       </City>
       <City Name="梧州" Code="4">
         <Region Name="万秀区" Code="3" />
@@ -2454,9 +2453,9 @@
         <Region Name="崖州区" Code="5" />
       </City>
       <City Name="三沙市" Code="3">
-        <Region Name="西沙群岛" Code="2" />
-        <Region Name="南沙群岛" Code="3" />
-        <Region Name="中沙群岛的岛礁及其海域" Code="4" />
+        <Region Name="西沙区" Code="21" />
+        <Region Name="南沙区" Code="22" />
+        <Region Name="中沙群岛" Code="23" />
       </City>
       <City Name="儋州市" Code="4" />
       <City Name="五指山市" Code="91" />
@@ -2758,7 +2757,7 @@
       <City Name="六盘水" Code="2">
         <Region Name="钟山区" Code="1" />
         <Region Name="六枝特区" Code="3" />
-        <Region Name="水城县" Code="21" />
+        <Region Name="水城区" Code="4" />
         <Region Name="盘州市" Code="81" />
       </City>
       <City Name="遵义" Code="3">
