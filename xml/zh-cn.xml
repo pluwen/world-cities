@@ -1001,8 +1001,6 @@
     <State Name="浙江" Code="33">
       <City Name="杭州" Code="1">
         <Region Name="上城区" Code="2" />
-        <Region Name="下城区" Code="3" />
-        <Region Name="江干区" Code="4" />
         <Region Name="拱墅区" Code="5" />
         <Region Name="西湖区" Code="6" />
         <Region Name="滨江区" Code="8" />
@@ -1010,6 +1008,8 @@
         <Region Name="余杭区" Code="10" />
         <Region Name="富阳区" Code="11" />
         <Region Name="临安区" Code="12" />
+        <Region Name="临平区" Code="13" />
+        <Region Name="钱塘区" Code="14" />
         <Region Name="桐庐县" Code="22" />
         <Region Name="淳安县" Code="27" />
         <Region Name="建德市" Code="82" />
@@ -1282,14 +1282,13 @@
         <Region Name="仙游县" Code="22" />
       </City>
       <City Name="三明" Code="4">
-        <Region Name="梅列区" Code="2" />
-        <Region Name="三元区" Code="3" />
+        <Region Name="三元区" Code="4" />
+        <Region Name="沙县区" Code="5" />
         <Region Name="明溪县" Code="21" />
         <Region Name="清流县" Code="23" />
         <Region Name="宁化县" Code="24" />
         <Region Name="大田县" Code="25" />
         <Region Name="尤溪县" Code="26" />
-        <Region Name="沙　县" Code="27" />
         <Region Name="将乐县" Code="28" />
         <Region Name="泰宁县" Code="29" />
         <Region Name="建宁县" Code="30" />
@@ -1312,15 +1311,15 @@
       <City Name="漳州" Code="6">
         <Region Name="芗城区" Code="2" />
         <Region Name="龙文区" Code="3" />
+        <Region Name="龙海区" Code="4" />
+        <Region Name="长泰区" Code="5" />
         <Region Name="云霄县" Code="22" />
         <Region Name="漳浦县" Code="23" />
         <Region Name="诏安县" Code="24" />
-        <Region Name="长泰县" Code="25" />
         <Region Name="东山县" Code="26" />
         <Region Name="南靖县" Code="27" />
         <Region Name="平和县" Code="28" />
         <Region Name="华安县" Code="29" />
-        <Region Name="龙海市" Code="81" />
       </City>
       <City Name="南平" Code="7">
         <Region Name="延平区" Code="2" />
@@ -1684,9 +1683,9 @@
         <Region Name="西工区" Code="3" />
         <Region Name="瀍河回族区" Code="4" />
         <Region Name="涧西区" Code="5" />
-        <Region Name="吉利区" Code="6" />
+        <Region Name="偃师区" Code="7" />
+        <Region Name="孟津区" Code="8" />
         <Region Name="洛龙区" Code="11" />
-        <Region Name="孟津县" Code="22" />
         <Region Name="新安县" Code="23" />
         <Region Name="栾川县" Code="24" />
         <Region Name="嵩　县" Code="25" />
@@ -1694,7 +1693,6 @@
         <Region Name="宜阳县" Code="27" />
         <Region Name="洛宁县" Code="28" />
         <Region Name="伊川县" Code="29" />
-        <Region Name="偃师市" Code="81" />
       </City>
       <City Name="平顶山" Code="4">
         <Region Name="新华区" Code="2" />
@@ -2088,7 +2086,6 @@
       <City Name="永州" Code="11">
         <Region Name="零陵区" Code="2" />
         <Region Name="冷水滩区" Code="3" />
-        <Region Name="祁阳县" Code="21" />
         <Region Name="东安县" Code="22" />
         <Region Name="双牌县" Code="23" />
         <Region Name="道　县" Code="24" />
@@ -2097,6 +2094,7 @@
         <Region Name="蓝山县" Code="27" />
         <Region Name="新田县" Code="28" />
         <Region Name="江华瑶族自治县" Code="29" />
+        <Region Name="祁阳市" Code="81" />
       </City>
       <City Name="怀化" Code="12">
         <Region Name="鹤城区" Code="2" />
@@ -2311,7 +2309,7 @@
         <Region Name="马山县" Code="24" />
         <Region Name="上林县" Code="25" />
         <Region Name="宾阳县" Code="26" />
-        <Region Name="横　县" Code="27" />
+        <Region Name="横州市" Code="81" />
       </City>
       <City Name="柳州" Code="2">
         <Region Name="城中区" Code="2" />
@@ -2723,10 +2721,10 @@
       </City>
       <City Name="凉山彝族自治州" Code="34">
         <Region Name="西昌市" Code="1" />
+        <Region Name="会理市" Code="2" />
         <Region Name="木里藏族自治县" Code="22" />
         <Region Name="盐源县" Code="23" />
         <Region Name="德昌县" Code="24" />
-        <Region Name="会理县" Code="25" />
         <Region Name="会东县" Code="26" />
         <Region Name="宁南县" Code="27" />
         <Region Name="普格县" Code="28" />
@@ -2787,12 +2785,12 @@
       <City Name="毕节" Code="5">
         <Region Name="七星关区" Code="2" />
         <Region Name="大方县" Code="21" />
-        <Region Name="黔西县" Code="22" />
         <Region Name="金沙县" Code="23" />
         <Region Name="织金县" Code="24" />
         <Region Name="纳雍县" Code="25" />
         <Region Name="威宁彝族回族苗族自治县" Code="26" />
         <Region Name="赫章县" Code="27" />
+        <Region Name="黔西市" Code="81" />
       </City>
       <City Name="铜仁" Code="6">
         <Region Name="碧江区" Code="2" />
@@ -2939,6 +2937,7 @@
       </City>
       <City Name="楚雄彝族自治州" Code="23">
         <Region Name="楚雄市" Code="1" />
+        <Region Name="禄丰市" Code="2" />
         <Region Name="双柏县" Code="22" />
         <Region Name="牟定县" Code="23" />
         <Region Name="南华县" Code="24" />
@@ -2947,7 +2946,6 @@
         <Region Name="永仁县" Code="27" />
         <Region Name="元谋县" Code="28" />
         <Region Name="武定县" Code="29" />
-        <Region Name="禄丰县" Code="31" />
       </City>
       <City Name="红河哈尼族彝族自治州" Code="25">
         <Region Name="个旧市" Code="1" />
@@ -3129,7 +3127,7 @@
         <Region Name="渭滨区" Code="2" />
         <Region Name="金台区" Code="3" />
         <Region Name="陈仓区" Code="4" />
-        <Region Name="凤翔县" Code="22" />
+        <Region Name="凤翔区" Code="5" />
         <Region Name="岐山县" Code="23" />
         <Region Name="扶风县" Code="24" />
         <Region Name="眉　县" Code="26" />
@@ -3219,8 +3217,8 @@
         <Region Name="岚皋县" Code="25" />
         <Region Name="平利县" Code="26" />
         <Region Name="镇坪县" Code="27" />
-        <Region Name="旬阳县" Code="28" />
         <Region Name="白河县" Code="29" />
+        <Region Name="旬阳市" Code="81" />
       </City>
       <City Name="商洛" Code="10">
         <Region Name="商州区" Code="2" />
@@ -3469,8 +3467,8 @@
       </City>
       <City Name="哈密" Code="5">
         <Region Name="伊州区" Code="2" />
-        <Region Name="巴里坤哈萨克自治县" Code="22" />
-        <Region Name="伊吾县" Code="23" />
+        <Region Name="巴里坤哈萨克自治县" Code="21" />
+        <Region Name="伊吾县" Code="22" />
       </City>
       <City Name="昌吉回族自治州" Code="23">
         <Region Name="昌吉市" Code="1" />
@@ -3482,7 +3480,8 @@
         <Region Name="木垒哈萨克自治县" Code="28" />
       </City>
       <City Name="博尔塔拉蒙古自治州" Code="27">
-        <Region Name="博乐市" Code="1" />        <Region Name="阿拉山口市" Code="2" />
+        <Region Name="博乐市" Code="1" />
+        <Region Name="阿拉山口市" Code="2" />
         <Region Name="精河县" Code="22" />
         <Region Name="温泉县" Code="23" />
       </City>
@@ -3554,8 +3553,8 @@
       <City Name="塔城地区" Code="42">
         <Region Name="塔城市" Code="1" />
         <Region Name="乌苏市" Code="2" />
+        <Region Name="沙湾市" Code="3" />
         <Region Name="额敏县" Code="21" />
-        <Region Name="沙湾县" Code="23" />
         <Region Name="托里县" Code="24" />
         <Region Name="裕民县" Code="25" />
         <Region Name="和布克赛尔蒙古自治县" Code="26" />
@@ -3579,6 +3578,7 @@
       <City Name="可克达拉市" Code="8" />
       <City Name="昆玉市" Code="9" />
       <City Name="胡杨河市" Code="10" />
+      <City Name="新星市" Code="11" />
     </State>
     <State Name="台湾" Code="71">
       <City Name="台北市" Code="1" />

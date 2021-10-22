@@ -2,7 +2,7 @@
 
 Multilingual list of countries, states & cities in XML format.
 
-世界所有城市，国内所有省、市、区、县信息，持续更新。
+世界所有城市，国内所有省、市、区、县信息，不定期更新。
 
 ## Language support
 
@@ -23,10 +23,11 @@ Multilingual list of countries, states & cities in XML format.
 * Detail data for China
   * [县级以上行政区划变更情况](http://www.mca.gov.cn/article/sj/xzqh/2020/)
   * [行政区划代码](http://www.mca.gov.cn/article/sj/xzqh/)
+  * [2021年中华人民共和国县级以上行政区划变更列表](https://zh.wikipedia.org/wiki/2021%E5%B9%B4%E4%B8%AD%E5%8D%8E%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD%E5%8E%BF%E7%BA%A7%E4%BB%A5%E4%B8%8A%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92%E5%8F%98%E6%9B%B4%E5%88%97%E8%A1%A8)
 
 ## To-do
 
-- [x] Update China location data to 2020.12
+- [x] Update China location data to 2021.09
 - [x] Translate zh-cn data to zh-tw
 - [x] Update zh-cn data form China gov site [1980-2017]
 - [x] Add basic data from QQ and QQ Int.
