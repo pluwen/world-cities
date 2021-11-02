@@ -3605,21 +3605,21 @@
     <State Name="香港" Code="81">
       <City Name="中西区" Code="HCW" />
       <City Name="东区" Code="HEA" />
-      <City Name="九龙城区" Code="KKC" />
-      <City Name="观塘区" Code="KKT" />
       <City Name="南区" Code="HSO" />
-      <City Name="深水埗区" Code="KSS" />
-      <City Name="黄大仙区" Code="KWT" />
       <City Name="湾仔区" Code="HWC" />
+      <City Name="九龙城区" Code="KKC" />
+      <City Name="深水埗区" Code="KSS" />
       <City Name="油尖旺区" Code="KYT" />
-      <City Name="离岛区" Code="NIS" />
-      <City Name="葵青区" Code="NKT" />
+      <City Name="黄大仙区" Code="KWT" />
+      <City Name="观塘区" Code="KKT" />
       <City Name="北区" Code="NNO" />
       <City Name="西贡区" Code="NSK" />
       <City Name="沙田区" Code="NST" />
-      <City Name="屯门区" Code="NTM" />
       <City Name="大埔区" Code="NTP" />
+      <City Name="离岛区" Code="NIS" />
+      <City Name="葵青区" Code="NKT" />
       <City Name="荃湾区" Code="NTW" />
+      <City Name="屯门区" Code="NTM" />
       <City Name="元朗区" Code="NYL" />
     </State>
     <State Name="澳门" Code="82">
