@@ -3582,28 +3582,25 @@
     </State>
     <State Name="臺灣" Code="71">
       <City Name="臺北市" Code="1" />
-      <City Name="高雄市" Code="2" />
-      <City Name="基隆市" Code="3" />
+      <City Name="新北市" Code="2" />
+      <City Name="桃園市" Code="3" />
       <City Name="臺中市" Code="4" />
       <City Name="臺南市" Code="5" />
-      <City Name="新竹市" Code="6" />
-      <City Name="嘉義市" Code="7" />
-      <City Name="臺北縣" Code="8" />
-      <City Name="宜蘭縣" Code="9" />
-      <City Name="桃園縣" Code="10" />
-      <City Name="新竹縣" Code="11" />
-      <City Name="苗栗縣" Code="12" />
-      <City Name="臺中縣" Code="13" />
-      <City Name="彰化縣" Code="14" />
-      <City Name="南投縣" Code="15" />
-      <City Name="雲林縣" Code="16" />
-      <City Name="嘉義縣" Code="17" />
-      <City Name="臺南縣" Code="18" />
-      <City Name="高雄縣" Code="19" />
-      <City Name="屏東縣" Code="20" />
-      <City Name="臺東縣" Code="22" />
-      <City Name="花蓮縣" Code="23" />
-      <City Name="澎湖縣" Code="21" />
+      <City Name="高雄市" Code="6" />
+      <City Name="基隆市" Code="7" />
+      <City Name="新竹市" Code="8" />
+      <City Name="嘉義市" Code="9" />
+      <City Name="新竹縣" Code="10" />
+      <City Name="苗栗縣" Code="11" />
+      <City Name="彰化縣" Code="12" />
+      <City Name="南投縣" Code="13" />
+      <City Name="雲林縣" Code="14" />
+      <City Name="嘉義縣" Code="15" />
+      <City Name="屏東縣" Code="16" />
+      <City Name="宜蘭縣" Code="17" />
+      <City Name="花蓮縣" Code="18" />
+      <City Name="臺東縣" Code="19" />
+      <City Name="澎湖縣" Code="20" />
     </State>
     <State Name="香港" Code="81">
       <City Name="中西區" Code="HCW" />
