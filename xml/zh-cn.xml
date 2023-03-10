@@ -3579,6 +3579,7 @@
       <City Name="昆玉市" Code="9" />
       <City Name="胡杨河市" Code="10" />
       <City Name="新星市" Code="11" />
+      <City Name="白杨市" Code="" />
     </State>
     <State Name="台湾" Code="71">
       <City Name="台北市" Code="1" />
